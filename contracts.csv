@@ -1,0 +1,13 @@
+contract_id,party,end_date,value,start_date,renewal_notice_days,auto_renew,escalation_pct,type
+CT001,Metro Retail Pvt Ltd,2026-11-18,2400000.0,2025-11-18,60,1,5.0,customer
+CT002,Sunrise Boutiques,2026-12-12,900000.0,2025-12-12,30,0,0.0,customer
+CT003,Urban Mart,2027-01-09,1500000.0,2026-01-09,60,1,3.0,customer
+CT004,Kapoor & Sons,2027-03-30,700000.0,2026-03-30,30,0,0.0,customer
+CT005,Aarav Textiles,2026-11-09,3200000.0,2025-11-09,30,1,6.0,supplier
+CT006,Coastal Footwear,2026-12-25,2100000.0,2025-12-25,60,0,4.0,supplier
+CT007,Evergreen Supply Co,2027-06-08,2800000.0,2026-06-08,90,1,5.0,supplier
+CT008,Prime Properties,2026-12-05,1800000.0,2025-12-05,90,0,8.0,lease
+CT009,Fibernet Broadband,2026-11-28,120000.0,2025-11-28,30,1,0.0,service
+CT010,Zoho Corp,2027-08-27,180000.0,2026-08-27,30,1,0.0,service
+CT011,Delta Accessories,2026-10-19,950000.0,2025-10-19,30,1,3.0,supplier
+CT012,SwiftShip Couriers,2027-01-24,1100000.0,2026-01-24,45,0,7.0,service

@@ -1,0 +1,57 @@
+# docker compose up -d        -> app on http://localhost:8501
+# Put it behind HTTPS (Caddy / nginx / your host's proxy) before exposing it beyond your own network.
+services:
+  postgres:
+    image: postgres:16
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: biziq
+      POSTGRES_USER: biziq
+      POSTGRES_PASSWORD: "${POSTGRES_PASSWORD:?set POSTGRES_PASSWORD in .env}"
+    volumes: ["pg-data:/var/lib/postgresql/data"]
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U biziq -d biziq"]
+      interval: 10s
+      retries: 6
+  biziq:
+    build: .
+    restart: unless-stopped
+    depends_on: {postgres: {condition: service_healthy}}
+    ports: ["8501:8501"]
+    volumes: ["biziq-data:/data"]
+    environment:
+      BIZIQ_AUTH: "1"
+      BIZIQ_DATABASE_URL: "postgresql://biziq:${POSTGRES_PASSWORD}@postgres:5432/biziq"
+      BIZIQ_SECRET_KEY: "${BIZIQ_SECRET_KEY:?set BIZIQ_SECRET_KEY in .env (a long random string; keep a copy somewhere safe)}"
+      BIZIQ_MASTER_KEY: "${BIZIQ_MASTER_KEY:?set BIZIQ_MASTER_KEY in .env (python -c \"from biziq import crypto; print(crypto.generate_master_key())\"). Back it up apart from the database: losing it makes encrypted data unrecoverable}"
+      BIZIQ_ENCRYPT_DATA: "${BIZIQ_ENCRYPT_DATA:-1}"
+      BIZIQ_MAX_UPLOAD_MB: "200"
+      BIZIQ_DATE_ORDER: "dmy"          # dd/mm/yyyy. Use mdy only if your exports are month-first
+      BIZIQ_LOG_LEVEL: "INFO"
+      # Outbound actions stay in dry-run until you set these to 1:
+      # BIZIQ_SEND_EMAIL: "1"
+      # BIZIQ_SEND_WHATSAPP: "1"
+  scheduler:
+    build: .
+    restart: unless-stopped
+    command: ["python", "scripts/run_scheduler.py"]
+    depends_on: {postgres: {condition: service_healthy}}
+    volumes: ["biziq-data:/data"]
+    environment:
+      BIZIQ_DATABASE_URL: "postgresql://biziq:${POSTGRES_PASSWORD}@postgres:5432/biziq"
+      BIZIQ_SECRET_KEY: "${BIZIQ_SECRET_KEY}"
+      BIZIQ_MASTER_KEY: "${BIZIQ_MASTER_KEY}"
+      BIZIQ_ENCRYPT_DATA: "${BIZIQ_ENCRYPT_DATA:-1}"
+      BIZIQ_LOG_LEVEL: "INFO"
+  backup:
+    build: .
+    restart: unless-stopped
+    # one backup a day, then sleep; copy /data/backups off this machine as well
+    command: ["sh", "-c", "while true; do python scripts/backup.py; sleep 86400; done"]
+    depends_on: {postgres: {condition: service_healthy}}
+    volumes: ["biziq-data:/data"]
+    environment:
+      BIZIQ_DATABASE_URL: "postgresql://biziq:${POSTGRES_PASSWORD}@postgres:5432/biziq"
+volumes:
+  biziq-data:
+  pg-data:

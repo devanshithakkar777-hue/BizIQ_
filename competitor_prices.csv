@@ -1,0 +1,361 @@
+date,product,competitor,price
+2026-08-15,Backpack,StyleHub,1534.0
+2026-08-15,Backpack,UrbanCart,1596.0
+2026-08-15,Backpack,TrendBazaar,1445.0
+2026-08-15,Cap,StyleHub,335.0
+2026-08-15,Cap,UrbanCart,356.0
+2026-08-15,Cap,TrendBazaar,315.0
+2026-08-15,Classic Tee,StyleHub,547.0
+2026-08-15,Classic Tee,UrbanCart,604.0
+2026-08-15,Classic Tee,TrendBazaar,526.0
+2026-08-15,Denim Jacket,StyleHub,2397.0
+2026-08-15,Denim Jacket,UrbanCart,2510.0
+2026-08-15,Denim Jacket,TrendBazaar,2189.0
+2026-08-15,Hoodie,StyleHub,1721.0
+2026-08-15,Hoodie,UrbanCart,1838.0
+2026-08-15,Hoodie,TrendBazaar,1646.0
+2026-08-15,Running Shoes,StyleHub,3161.0
+2026-08-15,Running Shoes,UrbanCart,3280.0
+2026-08-15,Running Shoes,TrendBazaar,2963.0
+2026-08-15,Sandals,StyleHub,833.0
+2026-08-15,Sandals,UrbanCart,950.0
+2026-08-15,Sandals,TrendBazaar,811.0
+2026-08-15,Sneakers,StyleHub,2628.0
+2026-08-15,Sneakers,UrbanCart,2918.0
+2026-08-15,Sneakers,TrendBazaar,2511.0
+2026-08-15,Sunglasses,StyleHub,1068.0
+2026-08-15,Sunglasses,UrbanCart,1174.0
+2026-08-15,Sunglasses,TrendBazaar,1028.0
+2026-08-15,Wrist Watch,StyleHub,3891.0
+2026-08-15,Wrist Watch,UrbanCart,4278.0
+2026-08-15,Wrist Watch,TrendBazaar,3673.0
+2026-08-22,Backpack,StyleHub,1568.0
+2026-08-22,Backpack,UrbanCart,1643.0
+2026-08-22,Backpack,TrendBazaar,1426.0
+2026-08-22,Cap,StyleHub,335.0
+2026-08-22,Cap,UrbanCart,348.0
+2026-08-22,Cap,TrendBazaar,311.0
+2026-08-22,Classic Tee,StyleHub,550.0
+2026-08-22,Classic Tee,UrbanCart,602.0
+2026-08-22,Classic Tee,TrendBazaar,544.0
+2026-08-22,Denim Jacket,StyleHub,2390.0
+2026-08-22,Denim Jacket,UrbanCart,2532.0
+2026-08-22,Denim Jacket,TrendBazaar,2283.0
+2026-08-22,Hoodie,StyleHub,1741.0
+2026-08-22,Hoodie,UrbanCart,1845.0
+2026-08-22,Hoodie,TrendBazaar,1599.0
+2026-08-22,Running Shoes,StyleHub,3194.0
+2026-08-22,Running Shoes,UrbanCart,3377.0
+2026-08-22,Running Shoes,TrendBazaar,2972.0
+2026-08-22,Sandals,StyleHub,832.0
+2026-08-22,Sandals,UrbanCart,910.0
+2026-08-22,Sandals,TrendBazaar,819.0
+2026-08-22,Sneakers,StyleHub,2679.0
+2026-08-22,Sneakers,UrbanCart,2865.0
+2026-08-22,Sneakers,TrendBazaar,2517.0
+2026-08-22,Sunglasses,StyleHub,1090.0
+2026-08-22,Sunglasses,UrbanCart,1179.0
+2026-08-22,Sunglasses,TrendBazaar,1031.0
+2026-08-22,Wrist Watch,StyleHub,3972.0
+2026-08-22,Wrist Watch,UrbanCart,4246.0
+2026-08-22,Wrist Watch,TrendBazaar,3699.0
+2026-08-29,Backpack,StyleHub,1516.0
+2026-08-29,Backpack,UrbanCart,1667.0
+2026-08-29,Backpack,TrendBazaar,1476.0
+2026-08-29,Cap,StyleHub,332.0
+2026-08-29,Cap,UrbanCart,349.0
+2026-08-29,Cap,TrendBazaar,302.0
+2026-08-29,Classic Tee,StyleHub,562.0
+2026-08-29,Classic Tee,UrbanCart,606.0
+2026-08-29,Classic Tee,TrendBazaar,530.0
+2026-08-29,Denim Jacket,StyleHub,2349.0
+2026-08-29,Denim Jacket,UrbanCart,2606.0
+2026-08-29,Denim Jacket,TrendBazaar,2268.0
+2026-08-29,Hoodie,StyleHub,1729.0
+2026-08-29,Hoodie,UrbanCart,1833.0
+2026-08-29,Hoodie,TrendBazaar,1604.0
+2026-08-29,Running Shoes,StyleHub,3081.0
+2026-08-29,Running Shoes,UrbanCart,3373.0
+2026-08-29,Running Shoes,TrendBazaar,2959.0
+2026-08-29,Sandals,StyleHub,871.0
+2026-08-29,Sandals,UrbanCart,934.0
+2026-08-29,Sandals,TrendBazaar,806.0
+2026-08-29,Sneakers,StyleHub,2610.0
+2026-08-29,Sneakers,UrbanCart,2867.0
+2026-08-29,Sneakers,TrendBazaar,2471.0
+2026-08-29,Sunglasses,StyleHub,1082.0
+2026-08-29,Sunglasses,UrbanCart,1182.0
+2026-08-29,Sunglasses,TrendBazaar,1027.0
+2026-08-29,Wrist Watch,StyleHub,3887.0
+2026-08-29,Wrist Watch,UrbanCart,4261.0
+2026-08-29,Wrist Watch,TrendBazaar,3752.0
+2026-09-05,Backpack,StyleHub,1551.0
+2026-09-05,Backpack,UrbanCart,1629.0
+2026-09-05,Backpack,TrendBazaar,1423.0
+2026-09-05,Cap,StyleHub,330.0
+2026-09-05,Cap,UrbanCart,359.0
+2026-09-05,Cap,TrendBazaar,308.0
+2026-09-05,Classic Tee,StyleHub,567.0
+2026-09-05,Classic Tee,UrbanCart,599.0
+2026-09-05,Classic Tee,TrendBazaar,530.0
+2026-09-05,Denim Jacket,StyleHub,2378.0
+2026-09-05,Denim Jacket,UrbanCart,2582.0
+2026-09-05,Denim Jacket,TrendBazaar,2245.0
+2026-09-05,Hoodie,StyleHub,1740.0
+2026-09-05,Hoodie,UrbanCart,1895.0
+2026-09-05,Hoodie,TrendBazaar,1625.0
+2026-09-05,Running Shoes,StyleHub,3140.0
+2026-09-05,Running Shoes,UrbanCart,3444.0
+2026-09-05,Running Shoes,TrendBazaar,2966.0
+2026-09-05,Sandals,StyleHub,838.0
+2026-09-05,Sandals,UrbanCart,901.0
+2026-09-05,Sandals,TrendBazaar,797.0
+2026-09-05,Sneakers,StyleHub,2645.0
+2026-09-05,Sneakers,UrbanCart,2799.0
+2026-09-05,Sneakers,TrendBazaar,2591.0
+2026-09-05,Sunglasses,StyleHub,1095.0
+2026-09-05,Sunglasses,UrbanCart,1192.0
+2026-09-05,Sunglasses,TrendBazaar,1023.0
+2026-09-05,Wrist Watch,StyleHub,3982.0
+2026-09-05,Wrist Watch,UrbanCart,4246.0
+2026-09-05,Wrist Watch,TrendBazaar,3769.0
+2026-09-12,Backpack,StyleHub,1525.0
+2026-09-12,Backpack,UrbanCart,1631.0
+2026-09-12,Backpack,TrendBazaar,1469.0
+2026-09-12,Cap,StyleHub,328.0
+2026-09-12,Cap,UrbanCart,359.0
+2026-09-12,Cap,TrendBazaar,318.0
+2026-09-12,Classic Tee,StyleHub,567.0
+2026-09-12,Classic Tee,UrbanCart,604.0
+2026-09-12,Classic Tee,TrendBazaar,530.0
+2026-09-12,Denim Jacket,StyleHub,2409.0
+2026-09-12,Denim Jacket,UrbanCart,2594.0
+2026-09-12,Denim Jacket,TrendBazaar,2200.0
+2026-09-12,Hoodie,StyleHub,1670.0
+2026-09-12,Hoodie,UrbanCart,1840.0
+2026-09-12,Hoodie,TrendBazaar,1610.0
+2026-09-12,Running Shoes,StyleHub,3183.0
+2026-09-12,Running Shoes,UrbanCart,3395.0
+2026-09-12,Running Shoes,TrendBazaar,2979.0
+2026-09-12,Sandals,StyleHub,879.0
+2026-09-12,Sandals,UrbanCart,917.0
+2026-09-12,Sandals,TrendBazaar,796.0
+2026-09-12,Sneakers,StyleHub,2681.0
+2026-09-12,Sneakers,UrbanCart,2830.0
+2026-09-12,Sneakers,TrendBazaar,2555.0
+2026-09-12,Sunglasses,StyleHub,1056.0
+2026-09-12,Sunglasses,UrbanCart,1196.0
+2026-09-12,Sunglasses,TrendBazaar,1044.0
+2026-09-12,Wrist Watch,StyleHub,3822.0
+2026-09-12,Wrist Watch,UrbanCart,4220.0
+2026-09-12,Wrist Watch,TrendBazaar,3693.0
+2026-09-19,Backpack,StyleHub,1506.0
+2026-09-19,Backpack,UrbanCart,1588.0
+2026-09-19,Backpack,TrendBazaar,1399.0
+2026-09-19,Cap,StyleHub,337.0
+2026-09-19,Cap,UrbanCart,358.0
+2026-09-19,Cap,TrendBazaar,309.0
+2026-09-19,Classic Tee,StyleHub,554.0
+2026-09-19,Classic Tee,UrbanCart,605.0
+2026-09-19,Classic Tee,TrendBazaar,525.0
+2026-09-19,Denim Jacket,StyleHub,2375.0
+2026-09-19,Denim Jacket,UrbanCart,2519.0
+2026-09-19,Denim Jacket,TrendBazaar,2234.0
+2026-09-19,Hoodie,StyleHub,1669.0
+2026-09-19,Hoodie,UrbanCart,1872.0
+2026-09-19,Hoodie,TrendBazaar,1610.0
+2026-09-19,Running Shoes,StyleHub,3032.0
+2026-09-19,Running Shoes,UrbanCart,3293.0
+2026-09-19,Running Shoes,TrendBazaar,2923.0
+2026-09-19,Sandals,StyleHub,877.0
+2026-09-19,Sandals,UrbanCart,935.0
+2026-09-19,Sandals,TrendBazaar,810.0
+2026-09-19,Sneakers,StyleHub,2588.0
+2026-09-19,Sneakers,UrbanCart,2818.0
+2026-09-19,Sneakers,TrendBazaar,2436.0
+2026-09-19,Sunglasses,StyleHub,1100.0
+2026-09-19,Sunglasses,UrbanCart,1166.0
+2026-09-19,Sunglasses,TrendBazaar,1045.0
+2026-09-19,Wrist Watch,StyleHub,3933.0
+2026-09-19,Wrist Watch,UrbanCart,4205.0
+2026-09-19,Wrist Watch,TrendBazaar,3653.0
+2026-09-26,Backpack,StyleHub,1532.0
+2026-09-26,Backpack,UrbanCart,1661.0
+2026-09-26,Backpack,TrendBazaar,1429.0
+2026-09-26,Cap,StyleHub,333.0
+2026-09-26,Cap,UrbanCart,349.0
+2026-09-26,Cap,TrendBazaar,324.0
+2026-09-26,Classic Tee,StyleHub,563.0
+2026-09-26,Classic Tee,UrbanCart,593.0
+2026-09-26,Classic Tee,TrendBazaar,537.0
+2026-09-26,Denim Jacket,StyleHub,2335.0
+2026-09-26,Denim Jacket,UrbanCart,2488.0
+2026-09-26,Denim Jacket,TrendBazaar,2239.0
+2026-09-26,Hoodie,StyleHub,1742.0
+2026-09-26,Hoodie,UrbanCart,1850.0
+2026-09-26,Hoodie,TrendBazaar,1585.0
+2026-09-26,Running Shoes,StyleHub,3058.0
+2026-09-26,Running Shoes,UrbanCart,3381.0
+2026-09-26,Running Shoes,TrendBazaar,2990.0
+2026-09-26,Sandals,StyleHub,856.0
+2026-09-26,Sandals,UrbanCart,899.0
+2026-09-26,Sandals,TrendBazaar,800.0
+2026-09-26,Sneakers,StyleHub,2704.0
+2026-09-26,Sneakers,UrbanCart,2820.0
+2026-09-26,Sneakers,TrendBazaar,2589.0
+2026-09-26,Sunglasses,StyleHub,1087.0
+2026-09-26,Sunglasses,UrbanCart,1115.0
+2026-09-26,Sunglasses,TrendBazaar,1007.0
+2026-09-26,Wrist Watch,StyleHub,4035.0
+2026-09-26,Wrist Watch,UrbanCart,4220.0
+2026-09-26,Wrist Watch,TrendBazaar,3785.0
+2026-10-03,Backpack,StyleHub,1507.0
+2026-10-03,Backpack,UrbanCart,1645.0
+2026-10-03,Backpack,TrendBazaar,1400.0
+2026-10-03,Cap,StyleHub,327.0
+2026-10-03,Cap,UrbanCart,360.0
+2026-10-03,Cap,TrendBazaar,315.0
+2026-10-03,Classic Tee,StyleHub,555.0
+2026-10-03,Classic Tee,UrbanCart,602.0
+2026-10-03,Classic Tee,TrendBazaar,529.0
+2026-10-03,Denim Jacket,StyleHub,2374.0
+2026-10-03,Denim Jacket,UrbanCart,2501.0
+2026-10-03,Denim Jacket,TrendBazaar,2209.0
+2026-10-03,Hoodie,StyleHub,1718.0
+2026-10-03,Hoodie,UrbanCart,1830.0
+2026-10-03,Hoodie,TrendBazaar,1565.0
+2026-10-03,Running Shoes,StyleHub,3177.0
+2026-10-03,Running Shoes,UrbanCart,3340.0
+2026-10-03,Running Shoes,TrendBazaar,2950.0
+2026-10-03,Sandals,StyleHub,869.0
+2026-10-03,Sandals,UrbanCart,913.0
+2026-10-03,Sandals,TrendBazaar,822.0
+2026-10-03,Sneakers,StyleHub,2651.0
+2026-10-03,Sneakers,UrbanCart,2824.0
+2026-10-03,Sneakers,TrendBazaar,2576.0
+2026-10-03,Sunglasses,StyleHub,1106.0
+2026-10-03,Sunglasses,UrbanCart,1166.0
+2026-10-03,Sunglasses,TrendBazaar,1052.0
+2026-10-03,Wrist Watch,StyleHub,3965.0
+2026-10-03,Wrist Watch,UrbanCart,4181.0
+2026-10-03,Wrist Watch,TrendBazaar,3782.0
+2026-10-10,Backpack,StyleHub,1519.0
+2026-10-10,Backpack,UrbanCart,1656.0
+2026-10-10,Backpack,TrendBazaar,1441.0
+2026-10-10,Cap,StyleHub,333.0
+2026-10-10,Cap,UrbanCart,353.0
+2026-10-10,Cap,TrendBazaar,313.0
+2026-10-10,Classic Tee,StyleHub,561.0
+2026-10-10,Classic Tee,UrbanCart,600.0
+2026-10-10,Classic Tee,TrendBazaar,517.0
+2026-10-10,Denim Jacket,StyleHub,2386.0
+2026-10-10,Denim Jacket,UrbanCart,2482.0
+2026-10-10,Denim Jacket,TrendBazaar,2280.0
+2026-10-10,Hoodie,StyleHub,1683.0
+2026-10-10,Hoodie,UrbanCart,1804.0
+2026-10-10,Hoodie,TrendBazaar,1622.0
+2026-10-10,Running Shoes,StyleHub,3117.0
+2026-10-10,Running Shoes,UrbanCart,3385.0
+2026-10-10,Running Shoes,TrendBazaar,2879.0
+2026-10-10,Sandals,StyleHub,858.0
+2026-10-10,Sandals,UrbanCart,927.0
+2026-10-10,Sandals,TrendBazaar,795.0
+2026-10-10,Sneakers,StyleHub,2621.0
+2026-10-10,Sneakers,UrbanCart,2791.0
+2026-10-10,Sneakers,TrendBazaar,2588.0
+2026-10-10,Sunglasses,StyleHub,1092.0
+2026-10-10,Sunglasses,UrbanCart,1165.0
+2026-10-10,Sunglasses,TrendBazaar,1052.0
+2026-10-10,Wrist Watch,StyleHub,3843.0
+2026-10-10,Wrist Watch,UrbanCart,4219.0
+2026-10-10,Wrist Watch,TrendBazaar,3767.0
+2026-10-17,Backpack,StyleHub,1505.0
+2026-10-17,Backpack,UrbanCart,1639.0
+2026-10-17,Backpack,TrendBazaar,1469.0
+2026-10-17,Cap,StyleHub,325.0
+2026-10-17,Cap,UrbanCart,357.0
+2026-10-17,Cap,TrendBazaar,319.0
+2026-10-17,Classic Tee,StyleHub,564.0
+2026-10-17,Classic Tee,UrbanCart,586.0
+2026-10-17,Classic Tee,TrendBazaar,541.0
+2026-10-17,Denim Jacket,StyleHub,2395.0
+2026-10-17,Denim Jacket,UrbanCart,2539.0
+2026-10-17,Denim Jacket,TrendBazaar,2258.0
+2026-10-17,Hoodie,StyleHub,1706.0
+2026-10-17,Hoodie,UrbanCart,1814.0
+2026-10-17,Hoodie,TrendBazaar,1620.0
+2026-10-17,Running Shoes,StyleHub,3082.0
+2026-10-17,Running Shoes,UrbanCart,3388.0
+2026-10-17,Running Shoes,TrendBazaar,2927.0
+2026-10-17,Sandals,StyleHub,873.0
+2026-10-17,Sandals,UrbanCart,916.0
+2026-10-17,Sandals,TrendBazaar,809.0
+2026-10-17,Sneakers,StyleHub,2603.0
+2026-10-17,Sneakers,UrbanCart,2773.0
+2026-10-17,Sneakers,TrendBazaar,2552.0
+2026-10-17,Sunglasses,StyleHub,1107.0
+2026-10-17,Sunglasses,UrbanCart,1172.0
+2026-10-17,Sunglasses,TrendBazaar,1027.0
+2026-10-17,Wrist Watch,StyleHub,3950.0
+2026-10-17,Wrist Watch,UrbanCart,4344.0
+2026-10-17,Wrist Watch,TrendBazaar,3600.0
+2026-10-24,Backpack,StyleHub,1500.0
+2026-10-24,Backpack,UrbanCart,1675.0
+2026-10-24,Backpack,TrendBazaar,1388.0
+2026-10-24,Cap,StyleHub,330.0
+2026-10-24,Cap,UrbanCart,349.0
+2026-10-24,Cap,TrendBazaar,318.0
+2026-10-24,Classic Tee,StyleHub,560.0
+2026-10-24,Classic Tee,UrbanCart,604.0
+2026-10-24,Classic Tee,TrendBazaar,536.0
+2026-10-24,Denim Jacket,StyleHub,2371.0
+2026-10-24,Denim Jacket,UrbanCart,2612.0
+2026-10-24,Denim Jacket,TrendBazaar,2210.0
+2026-10-24,Hoodie,StyleHub,1758.0
+2026-10-24,Hoodie,UrbanCart,1839.0
+2026-10-24,Hoodie,TrendBazaar,1629.0
+2026-10-24,Running Shoes,StyleHub,3126.0
+2026-10-24,Running Shoes,UrbanCart,3405.0
+2026-10-24,Running Shoes,TrendBazaar,2948.0
+2026-10-24,Sandals,StyleHub,881.0
+2026-10-24,Sandals,UrbanCart,922.0
+2026-10-24,Sandals,TrendBazaar,807.0
+2026-10-24,Sneakers,StyleHub,2687.0
+2026-10-24,Sneakers,UrbanCart,2865.0
+2026-10-24,Sneakers,TrendBazaar,2507.0
+2026-10-24,Sunglasses,StyleHub,1063.0
+2026-10-24,Sunglasses,UrbanCart,1189.0
+2026-10-24,Sunglasses,TrendBazaar,1038.0
+2026-10-24,Wrist Watch,StyleHub,3935.0
+2026-10-24,Wrist Watch,UrbanCart,4376.0
+2026-10-24,Wrist Watch,TrendBazaar,3738.0
+2026-10-31,Backpack,StyleHub,1539.0
+2026-10-31,Backpack,UrbanCart,1619.0
+2026-10-31,Backpack,TrendBazaar,1429.0
+2026-10-31,Cap,StyleHub,333.0
+2026-10-31,Cap,UrbanCart,353.0
+2026-10-31,Cap,TrendBazaar,309.0
+2026-10-31,Classic Tee,StyleHub,556.0
+2026-10-31,Classic Tee,UrbanCart,586.0
+2026-10-31,Classic Tee,TrendBazaar,545.0
+2026-10-31,Denim Jacket,StyleHub,2395.0
+2026-10-31,Denim Jacket,UrbanCart,2583.0
+2026-10-31,Denim Jacket,TrendBazaar,2192.0
+2026-10-31,Hoodie,StyleHub,1691.0
+2026-10-31,Hoodie,UrbanCart,1792.0
+2026-10-31,Hoodie,TrendBazaar,1642.0
+2026-10-31,Running Shoes,StyleHub,3155.0
+2026-10-31,Running Shoes,UrbanCart,3268.0
+2026-10-31,Running Shoes,TrendBazaar,3063.0
+2026-10-31,Sandals,StyleHub,855.0
+2026-10-31,Sandals,UrbanCart,925.0
+2026-10-31,Sandals,TrendBazaar,821.0
+2026-10-31,Sneakers,StyleHub,2642.0
+2026-10-31,Sneakers,UrbanCart,2819.0
+2026-10-31,Sneakers,TrendBazaar,2479.0
+2026-10-31,Sunglasses,StyleHub,1076.0
+2026-10-31,Sunglasses,UrbanCart,1161.0
+2026-10-31,Sunglasses,TrendBazaar,1056.0
+2026-10-31,Wrist Watch,StyleHub,3931.0
+2026-10-31,Wrist Watch,UrbanCart,4289.0
+2026-10-31,Wrist Watch,TrendBazaar,3763.0

@@ -1,0 +1,601 @@
+date,channel,campaign,spend,impressions,clicks,conversions,revenue
+2026-07-04,Google Ads,Google Ads always-on,3309.0,7542,233,6,8997.0
+2026-07-04,Meta Ads,Meta Ads always-on,3235.0,22881,386,6,7189.0
+2026-07-04,Influencer,Influencer always-on,2230.0,4478,97,1,1615.0
+2026-07-04,WhatsApp Broadcast,WhatsApp Broadcast always-on,488.0,7249,188,10,2162.0
+2026-07-04,Email,Email always-on,156.0,3223,109,5,1118.0
+2026-07-05,Google Ads,Google Ads always-on,3000.0,10192,203,1,9690.0
+2026-07-05,Meta Ads,Meta Ads always-on,3395.0,8753,287,4,3516.0
+2026-07-05,Influencer,Influencer always-on,2374.0,6266,107,0,2206.0
+2026-07-05,WhatsApp Broadcast,WhatsApp Broadcast always-on,456.0,6713,189,8,2382.0
+2026-07-05,Email,Email always-on,109.0,2517,96,4,1101.0
+2026-07-06,Google Ads,Google Ads always-on,2691.0,9096,201,1,6741.0
+2026-07-06,Meta Ads,Meta Ads always-on,3780.0,20537,418,9,7696.0
+2026-07-06,Influencer,Influencer always-on,2220.0,3266,96,0,2164.0
+2026-07-06,WhatsApp Broadcast,WhatsApp Broadcast always-on,405.0,6147,173,9,2308.0
+2026-07-06,Email,Email always-on,140.0,5031,109,2,1491.0
+2026-07-07,Google Ads,Google Ads always-on,2021.0,9085,157,8,5762.0
+2026-07-07,Meta Ads,Meta Ads always-on,3295.0,20631,346,5,4788.0
+2026-07-07,Influencer,Influencer always-on,1818.0,3975,83,1,1122.0
+2026-07-07,WhatsApp Broadcast,WhatsApp Broadcast always-on,369.0,6724,141,9,2024.0
+2026-07-07,Email,Email always-on,118.0,2352,86,4,1028.0
+2026-07-08,Google Ads,Google Ads always-on,1616.0,3646,108,6,6518.0
+2026-07-08,Meta Ads,Meta Ads always-on,3539.0,13589,378,5,5525.0
+2026-07-08,Influencer,Influencer always-on,2247.0,6166,108,1,2099.0
+2026-07-08,WhatsApp Broadcast,WhatsApp Broadcast always-on,931.0,22329,413,23,5587.0
+2026-07-08,Email,Email always-on,175.0,5701,141,5,1193.0
+2026-07-09,Google Ads,Google Ads always-on,1347.0,3760,92,4,5254.0
+2026-07-09,Meta Ads,Meta Ads always-on,3398.0,16357,345,6,7289.0
+2026-07-09,Influencer,Influencer always-on,3482.0,8139,143,0,2450.0
+2026-07-09,WhatsApp Broadcast,WhatsApp Broadcast always-on,425.0,9372,158,7,2217.0
+2026-07-09,Email,Email always-on,124.0,6255,123,3,1172.0
+2026-07-10,Google Ads,Google Ads always-on,2878.0,9509,205,2,8940.0
+2026-07-10,Meta Ads,Meta Ads always-on,4812.0,19231,577,6,9626.0
+2026-07-10,Influencer,Influencer always-on,2553.0,4806,123,0,2635.0
+2026-07-10,WhatsApp Broadcast,WhatsApp Broadcast always-on,659.0,6209,233,10,3458.0
+2026-07-10,Email,Email always-on,171.0,7576,136,3,1551.0
+2026-07-11,Google Ads,Google Ads always-on,3258.0,8262,249,8,5671.0
+2026-07-11,Meta Ads,Meta Ads always-on,3417.0,23892,437,5,5350.0
+2026-07-11,Influencer,Influencer always-on,1929.0,3184,87,2,1710.0
+2026-07-11,WhatsApp Broadcast,WhatsApp Broadcast always-on,666.0,9041,273,11,3746.0
+2026-07-11,Email,Email always-on,119.0,4830,100,4,1341.0
+2026-07-12,Google Ads,Google Ads always-on,3147.0,7061,222,7,6197.0
+2026-07-12,Meta Ads,Meta Ads always-on,1748.0,8374,172,4,2407.0
+2026-07-12,Influencer,Influencer always-on,1884.0,4777,89,0,968.0
+2026-07-12,WhatsApp Broadcast,WhatsApp Broadcast always-on,567.0,12551,225,9,3916.0
+2026-07-12,Email,Email always-on,120.0,5679,110,4,1012.0
+2026-07-13,Google Ads,Google Ads always-on,1644.0,6106,126,2,4661.0
+2026-07-13,Meta Ads,Meta Ads always-on,2946.0,13726,282,7,3662.0
+2026-07-13,Influencer,Influencer always-on,2226.0,5699,102,1,2664.0
+2026-07-13,WhatsApp Broadcast,WhatsApp Broadcast always-on,335.0,6579,164,6,2155.0
+2026-07-13,Email,Email always-on,128.0,3692,115,5,1174.0
+2026-07-14,Google Ads,Google Ads always-on,2572.0,9923,175,3,5936.0
+2026-07-14,Meta Ads,Meta Ads always-on,3476.0,12813,307,6,7245.0
+2026-07-14,Influencer,Influencer always-on,2276.0,3474,116,0,1679.0
+2026-07-14,WhatsApp Broadcast,WhatsApp Broadcast always-on,455.0,8321,168,20,3720.0
+2026-07-14,Email,Email always-on,170.0,7332,137,6,1765.0
+2026-07-15,Google Ads,Google Ads always-on,2696.0,12682,214,7,13223.0
+2026-07-15,Meta Ads,Meta Ads always-on,2720.0,7414,281,4,4623.0
+2026-07-15,Influencer,Influencer always-on,1875.0,2939,73,0,977.0
+2026-07-15,WhatsApp Broadcast,WhatsApp Broadcast always-on,529.0,6187,220,11,3478.0
+2026-07-15,Email,Email always-on,227.0,8422,189,5,1877.0
+2026-07-16,Google Ads,Google Ads always-on,3365.0,6917,263,5,13865.0
+2026-07-16,Meta Ads,Meta Ads always-on,2991.0,16495,360,6,5236.0
+2026-07-16,Influencer,Influencer always-on,2134.0,5402,108,2,1898.0
+2026-07-16,WhatsApp Broadcast,WhatsApp Broadcast always-on,309.0,5039,101,3,1904.0
+2026-07-16,Email,Email always-on,137.0,5921,108,2,1345.0
+2026-07-17,Google Ads,Google Ads always-on,2597.0,5596,177,2,8454.0
+2026-07-17,Meta Ads,Meta Ads always-on,5177.0,22418,531,5,8280.0
+2026-07-17,Influencer,Influencer always-on,3101.0,5261,129,1,3096.0
+2026-07-17,WhatsApp Broadcast,WhatsApp Broadcast always-on,546.0,7500,215,8,2731.0
+2026-07-17,Email,Email always-on,148.0,6253,126,6,1905.0
+2026-07-18,Google Ads,Google Ads always-on,1855.0,5602,107,4,6378.0
+2026-07-18,Meta Ads,Meta Ads always-on,6199.0,26181,610,9,12417.0
+2026-07-18,Influencer,Influencer always-on,2868.0,5847,120,0,2204.0
+2026-07-18,WhatsApp Broadcast,WhatsApp Broadcast always-on,514.0,13172,243,11,3145.0
+2026-07-18,Email,Email always-on,170.0,3690,105,7,1782.0
+2026-07-19,Google Ads,Google Ads always-on,1887.0,3517,117,3,7435.0
+2026-07-19,Meta Ads,Meta Ads always-on,3549.0,13919,356,6,6460.0
+2026-07-19,Influencer,Influencer always-on,2944.0,5941,132,1,2606.0
+2026-07-19,WhatsApp Broadcast,WhatsApp Broadcast always-on,584.0,10660,208,13,5780.0
+2026-07-19,Email,Email always-on,234.0,7094,208,5,2402.0
+2026-07-20,Google Ads,Google Ads always-on,1619.0,3905,93,0,3693.0
+2026-07-20,Meta Ads,Meta Ads always-on,3862.0,25505,437,1,7854.0
+2026-07-20,Influencer,Influencer always-on,3649.0,8260,167,0,2992.0
+2026-07-20,WhatsApp Broadcast,WhatsApp Broadcast always-on,554.0,6790,214,16,3228.0
+2026-07-20,Email,Email always-on,149.0,5868,143,5,1271.0
+2026-07-21,Google Ads,Google Ads always-on,1932.0,5538,126,1,5647.0
+2026-07-21,Meta Ads,Meta Ads always-on,4514.0,15944,530,5,6891.0
+2026-07-21,Influencer,Influencer always-on,1460.0,2383,72,1,1591.0
+2026-07-21,WhatsApp Broadcast,WhatsApp Broadcast always-on,652.0,15350,265,15,4262.0
+2026-07-21,Email,Email always-on,131.0,4109,105,3,851.0
+2026-07-22,Google Ads,Google Ads always-on,2683.0,8990,189,3,11110.0
+2026-07-22,Meta Ads,Meta Ads always-on,2967.0,15259,305,5,4209.0
+2026-07-22,Influencer,Influencer always-on,1669.0,2842,74,0,1238.0
+2026-07-22,WhatsApp Broadcast,WhatsApp Broadcast always-on,661.0,8226,283,21,2439.0
+2026-07-22,Email,Email always-on,130.0,6138,114,4,866.0
+2026-07-23,Google Ads,Google Ads always-on,1914.0,6216,144,2,7902.0
+2026-07-23,Meta Ads,Meta Ads always-on,6381.0,26813,890,12,10920.0
+2026-07-23,Influencer,Influencer always-on,1530.0,3270,73,0,1453.0
+2026-07-23,WhatsApp Broadcast,WhatsApp Broadcast always-on,494.0,10189,179,7,3205.0
+2026-07-23,Email,Email always-on,88.0,2668,77,3,798.0
+2026-07-24,Google Ads,Google Ads always-on,2851.0,10399,224,9,9349.0
+2026-07-24,Meta Ads,Meta Ads always-on,3073.0,11333,365,10,6532.0
+2026-07-24,Influencer,Influencer always-on,2107.0,3722,103,0,1345.0
+2026-07-24,WhatsApp Broadcast,WhatsApp Broadcast always-on,455.0,5750,181,12,2607.0
+2026-07-24,Email,Email always-on,124.0,3078,93,3,898.0
+2026-07-25,Google Ads,Google Ads always-on,2756.0,10883,205,6,8216.0
+2026-07-25,Meta Ads,Meta Ads always-on,2773.0,7557,289,11,4434.0
+2026-07-25,Influencer,Influencer always-on,2369.0,6665,115,1,1779.0
+2026-07-25,WhatsApp Broadcast,WhatsApp Broadcast always-on,373.0,7354,155,12,2357.0
+2026-07-25,Email,Email always-on,190.0,4695,138,2,1972.0
+2026-07-26,Google Ads,Google Ads always-on,2979.0,11869,205,4,11170.0
+2026-07-26,Meta Ads,Meta Ads always-on,2845.0,8066,292,8,5429.0
+2026-07-26,Influencer,Influencer always-on,1772.0,2348,80,0,1144.0
+2026-07-26,WhatsApp Broadcast,WhatsApp Broadcast always-on,322.0,5770,101,6,1789.0
+2026-07-26,Email,Email always-on,153.0,5655,125,11,1003.0
+2026-07-27,Google Ads,Google Ads always-on,3036.0,8099,233,7,10213.0
+2026-07-27,Meta Ads,Meta Ads always-on,3467.0,19924,352,2,6967.0
+2026-07-27,Influencer,Influencer always-on,2450.0,5387,113,1,2700.0
+2026-07-27,WhatsApp Broadcast,WhatsApp Broadcast always-on,437.0,6555,175,13,3382.0
+2026-07-27,Email,Email always-on,226.0,5567,185,9,2496.0
+2026-07-28,Google Ads,Google Ads always-on,2637.0,9340,195,2,8761.0
+2026-07-28,Meta Ads,Meta Ads always-on,4538.0,12925,471,8,5849.0
+2026-07-28,Influencer,Influencer always-on,2801.0,6506,124,1,2017.0
+2026-07-28,WhatsApp Broadcast,WhatsApp Broadcast always-on,371.0,3492,129,9,1915.0
+2026-07-28,Email,Email always-on,144.0,3394,120,5,1080.0
+2026-07-29,Google Ads,Google Ads always-on,3937.0,8819,226,3,15467.0
+2026-07-29,Meta Ads,Meta Ads always-on,3930.0,10713,400,8,7219.0
+2026-07-29,Influencer,Influencer always-on,2398.0,3489,101,0,1835.0
+2026-07-29,WhatsApp Broadcast,WhatsApp Broadcast always-on,431.0,9947,184,11,2859.0
+2026-07-29,Email,Email always-on,131.0,4851,106,8,1180.0
+2026-07-30,Google Ads,Google Ads always-on,2909.0,7451,193,8,9209.0
+2026-07-30,Meta Ads,Meta Ads always-on,2733.0,12496,310,1,5905.0
+2026-07-30,Influencer,Influencer always-on,1842.0,3562,80,0,1240.0
+2026-07-30,WhatsApp Broadcast,WhatsApp Broadcast always-on,466.0,8787,165,4,2769.0
+2026-07-30,Email,Email always-on,209.0,6687,148,1,1404.0
+2026-07-31,Google Ads,Google Ads always-on,2662.0,10133,183,6,6060.0
+2026-07-31,Meta Ads,Meta Ads always-on,3020.0,15306,316,4,4397.0
+2026-07-31,Influencer,Influencer always-on,1920.0,4811,87,0,1494.0
+2026-07-31,WhatsApp Broadcast,WhatsApp Broadcast always-on,465.0,5752,184,13,2990.0
+2026-07-31,Email,Email always-on,131.0,4914,104,4,1909.0
+2026-08-01,Google Ads,Google Ads always-on,3003.0,10230,211,4,10745.0
+2026-08-01,Meta Ads,Meta Ads always-on,3124.0,13096,348,4,5205.0
+2026-08-01,Influencer,Influencer always-on,2026.0,4768,99,0,1946.0
+2026-08-01,WhatsApp Broadcast,WhatsApp Broadcast always-on,330.0,4996,120,6,1872.0
+2026-08-01,Email,Email always-on,161.0,6513,126,9,1412.0
+2026-08-02,Google Ads,Google Ads always-on,3148.0,9550,225,8,10989.0
+2026-08-02,Meta Ads,Meta Ads always-on,2872.0,9804,334,4,3972.0
+2026-08-02,Influencer,Influencer always-on,2298.0,3610,111,1,2383.0
+2026-08-02,WhatsApp Broadcast,WhatsApp Broadcast always-on,401.0,6761,161,5,2349.0
+2026-08-02,Email,Email always-on,123.0,6098,106,4,1080.0
+2026-08-03,Google Ads,Google Ads always-on,5816.0,25516,467,6,20871.0
+2026-08-03,Meta Ads,Meta Ads always-on,5854.0,16798,560,6,10600.0
+2026-08-03,Influencer,Influencer always-on,3007.0,6514,148,0,1595.0
+2026-08-03,WhatsApp Broadcast,WhatsApp Broadcast always-on,304.0,5453,124,7,2278.0
+2026-08-03,Email,Email always-on,175.0,5146,143,8,1344.0
+2026-08-04,Google Ads,Google Ads always-on,3297.0,12098,258,3,9173.0
+2026-08-04,Meta Ads,Meta Ads always-on,5446.0,20975,695,10,8282.0
+2026-08-04,Influencer,Influencer always-on,1992.0,5047,85,0,1854.0
+2026-08-04,WhatsApp Broadcast,WhatsApp Broadcast always-on,342.0,4437,142,12,1865.0
+2026-08-04,Email,Email always-on,110.0,2754,101,3,868.0
+2026-08-05,Google Ads,Google Ads always-on,3414.0,9953,294,3,13576.0
+2026-08-05,Meta Ads,Meta Ads always-on,3519.0,19857,459,5,7920.0
+2026-08-05,Influencer,Influencer always-on,1778.0,3726,82,3,1526.0
+2026-08-05,WhatsApp Broadcast,WhatsApp Broadcast always-on,473.0,5797,180,11,2344.0
+2026-08-05,Email,Email always-on,113.0,2961,91,4,650.0
+2026-08-06,Google Ads,Google Ads always-on,1728.0,7239,121,5,6029.0
+2026-08-06,Meta Ads,Meta Ads always-on,2984.0,19634,372,11,5853.0
+2026-08-06,Influencer,Influencer always-on,2093.0,2322,91,2,1590.0
+2026-08-06,WhatsApp Broadcast,WhatsApp Broadcast always-on,508.0,7022,166,8,3516.0
+2026-08-06,Email,Email always-on,198.0,8799,157,2,1360.0
+2026-08-07,Google Ads,Google Ads always-on,2503.0,7959,168,5,6941.0
+2026-08-07,Meta Ads,Meta Ads always-on,3654.0,23610,432,6,5728.0
+2026-08-07,Influencer,Influencer always-on,2498.0,6107,122,0,1579.0
+2026-08-07,WhatsApp Broadcast,WhatsApp Broadcast always-on,693.0,7164,263,15,6109.0
+2026-08-07,Email,Email always-on,157.0,3231,128,3,1608.0
+2026-08-08,Google Ads,Google Ads always-on,2363.0,10304,186,3,6921.0
+2026-08-08,Meta Ads,Meta Ads always-on,4448.0,17899,459,5,9339.0
+2026-08-08,Influencer,Influencer always-on,2315.0,3698,127,1,2999.0
+2026-08-08,WhatsApp Broadcast,WhatsApp Broadcast always-on,468.0,7258,198,5,2233.0
+2026-08-08,Email,Email always-on,165.0,3921,150,4,969.0
+2026-08-09,Google Ads,Google Ads always-on,3096.0,8257,207,3,8297.0
+2026-08-09,Meta Ads,Meta Ads always-on,5135.0,16405,519,3,7659.0
+2026-08-09,Influencer,Influencer always-on,2606.0,5691,121,0,2078.0
+2026-08-09,WhatsApp Broadcast,WhatsApp Broadcast always-on,689.0,16702,280,10,3787.0
+2026-08-09,Email,Email always-on,146.0,4288,115,2,1369.0
+2026-08-10,Google Ads,Google Ads always-on,1639.0,4666,121,2,5792.0
+2026-08-10,Meta Ads,Meta Ads always-on,4371.0,16152,512,13,7999.0
+2026-08-10,Influencer,Influencer always-on,2038.0,4261,84,0,1289.0
+2026-08-10,WhatsApp Broadcast,WhatsApp Broadcast always-on,672.0,8566,281,14,3735.0
+2026-08-10,Email,Email always-on,140.0,4885,128,4,1182.0
+2026-08-11,Google Ads,Google Ads always-on,2036.0,5977,118,2,3876.0
+2026-08-11,Meta Ads,Meta Ads always-on,2549.0,12982,285,8,3699.0
+2026-08-11,Influencer,Influencer always-on,2158.0,6256,107,1,1371.0
+2026-08-11,WhatsApp Broadcast,WhatsApp Broadcast always-on,344.0,5917,137,5,2010.0
+2026-08-11,Email,Email always-on,126.0,5124,102,4,891.0
+2026-08-12,Google Ads,Google Ads always-on,2984.0,11550,229,5,7804.0
+2026-08-12,Meta Ads,Meta Ads always-on,2932.0,15011,332,2,3818.0
+2026-08-12,Influencer,Influencer always-on,2185.0,5347,111,1,1729.0
+2026-08-12,WhatsApp Broadcast,WhatsApp Broadcast always-on,442.0,8701,160,10,2474.0
+2026-08-12,Email,Email always-on,193.0,5982,175,7,1381.0
+2026-08-13,Google Ads,Google Ads always-on,2296.0,5359,138,3,7844.0
+2026-08-13,Meta Ads,Meta Ads always-on,2524.0,11954,324,3,3620.0
+2026-08-13,Influencer,Influencer always-on,2798.0,6469,136,0,1890.0
+2026-08-13,WhatsApp Broadcast,WhatsApp Broadcast always-on,358.0,5802,160,7,2302.0
+2026-08-13,Email,Email always-on,170.0,8541,148,8,1736.0
+2026-08-14,Google Ads,Google Ads always-on,4356.0,14938,358,5,10223.0
+2026-08-14,Meta Ads,Meta Ads always-on,2417.0,8042,285,2,3974.0
+2026-08-14,Influencer,Influencer always-on,2857.0,4781,134,3,2062.0
+2026-08-14,WhatsApp Broadcast,WhatsApp Broadcast always-on,440.0,8575,148,8,1809.0
+2026-08-14,Email,Email always-on,127.0,4750,107,6,956.0
+2026-08-15,Google Ads,Google Ads always-on,2749.0,10652,196,6,8773.0
+2026-08-15,Meta Ads,Meta Ads always-on,3064.0,15397,338,5,5528.0
+2026-08-15,Influencer,Influencer always-on,1857.0,3563,68,1,1557.0
+2026-08-15,WhatsApp Broadcast,WhatsApp Broadcast always-on,458.0,9824,169,10,2979.0
+2026-08-15,Email,Email always-on,101.0,4008,84,5,934.0
+2026-08-16,Google Ads,Google Ads always-on,2855.0,6372,155,6,8483.0
+2026-08-16,Meta Ads,Meta Ads always-on,2882.0,11775,339,4,5003.0
+2026-08-16,Influencer,Influencer always-on,2650.0,5706,115,0,1871.0
+2026-08-16,WhatsApp Broadcast,WhatsApp Broadcast always-on,649.0,15976,271,12,4305.0
+2026-08-16,Email,Email always-on,94.0,4051,74,2,702.0
+2026-08-17,Google Ads,Google Ads always-on,3300.0,12472,255,8,14249.0
+2026-08-17,Meta Ads,Meta Ads always-on,2867.0,12836,328,3,5049.0
+2026-08-17,Influencer,Influencer always-on,1702.0,2503,86,1,1094.0
+2026-08-17,WhatsApp Broadcast,WhatsApp Broadcast always-on,408.0,8716,171,9,2590.0
+2026-08-17,Email,Email always-on,165.0,4476,132,5,1572.0
+2026-08-18,Google Ads,Google Ads always-on,3646.0,8782,286,9,13452.0
+2026-08-18,Meta Ads,Meta Ads always-on,4030.0,13275,478,6,4897.0
+2026-08-18,Influencer,Influencer always-on,1155.0,2628,57,1,726.0
+2026-08-18,WhatsApp Broadcast,WhatsApp Broadcast always-on,417.0,10580,194,8,2018.0
+2026-08-18,Email,Email always-on,165.0,9110,154,5,1270.0
+2026-08-19,Google Ads,Google Ads always-on,2683.0,9527,235,6,5930.0
+2026-08-19,Meta Ads,Meta Ads always-on,3309.0,22353,399,3,8510.0
+2026-08-19,Influencer,Influencer always-on,1532.0,2309,62,0,1972.0
+2026-08-19,WhatsApp Broadcast,WhatsApp Broadcast always-on,415.0,5249,155,15,3276.0
+2026-08-19,Email,Email always-on,194.0,8351,164,11,1304.0
+2026-08-20,Google Ads,Google Ads always-on,2196.0,8457,180,5,6691.0
+2026-08-20,Meta Ads,Meta Ads always-on,4410.0,13578,532,11,6630.0
+2026-08-20,Influencer,Influencer always-on,2098.0,5469,108,1,1982.0
+2026-08-20,WhatsApp Broadcast,WhatsApp Broadcast always-on,585.0,15307,256,8,3710.0
+2026-08-20,Email,Email always-on,164.0,5632,137,3,1232.0
+2026-08-21,Google Ads,Google Ads always-on,2447.0,8883,181,0,7397.0
+2026-08-21,Meta Ads,Meta Ads always-on,3341.0,12661,391,7,6273.0
+2026-08-21,Influencer,Influencer always-on,1663.0,2201,79,1,1493.0
+2026-08-21,WhatsApp Broadcast,WhatsApp Broadcast always-on,530.0,5524,202,13,4641.0
+2026-08-21,Email,Email always-on,148.0,3698,111,6,1536.0
+2026-08-22,Google Ads,Google Ads always-on,3504.0,14055,289,7,9593.0
+2026-08-22,Meta Ads,Meta Ads always-on,3504.0,15065,372,4,4454.0
+2026-08-22,Influencer,Influencer always-on,2106.0,2322,89,2,1249.0
+2026-08-22,WhatsApp Broadcast,WhatsApp Broadcast always-on,508.0,5996,209,11,2520.0
+2026-08-22,Email,Email always-on,184.0,10509,178,6,2386.0
+2026-08-23,Google Ads,Google Ads always-on,2439.0,7714,152,6,7679.0
+2026-08-23,Meta Ads,Meta Ads always-on,2556.0,8128,258,1,5747.0
+2026-08-23,Influencer,Influencer always-on,1833.0,3285,83,0,1958.0
+2026-08-23,WhatsApp Broadcast,WhatsApp Broadcast always-on,533.0,11125,199,11,2793.0
+2026-08-23,Email,Email always-on,191.0,7254,159,6,1214.0
+2026-08-24,Google Ads,Google Ads always-on,2056.0,6395,133,1,7962.0
+2026-08-24,Meta Ads,Meta Ads always-on,3681.0,23067,405,9,5505.0
+2026-08-24,Influencer,Influencer always-on,2194.0,5135,87,0,1257.0
+2026-08-24,WhatsApp Broadcast,WhatsApp Broadcast always-on,569.0,7276,222,14,3002.0
+2026-08-24,Email,Email always-on,200.0,7823,142,7,2042.0
+2026-08-25,Google Ads,Google Ads always-on,2970.0,4917,174,4,12238.0
+2026-08-25,Meta Ads,Meta Ads always-on,6476.0,33540,747,15,7539.0
+2026-08-25,Influencer,Influencer always-on,2175.0,3696,91,1,1548.0
+2026-08-25,WhatsApp Broadcast,WhatsApp Broadcast always-on,487.0,7832,203,13,2952.0
+2026-08-25,Email,Email always-on,170.0,6958,158,6,1271.0
+2026-08-26,Google Ads,Google Ads always-on,2796.0,9043,180,3,6813.0
+2026-08-26,Meta Ads,Meta Ads always-on,3270.0,15129,357,5,7680.0
+2026-08-26,Influencer,Influencer always-on,2176.0,3186,95,0,1712.0
+2026-08-26,WhatsApp Broadcast,WhatsApp Broadcast always-on,644.0,12936,285,5,4685.0
+2026-08-26,Email,Email always-on,105.0,2854,73,3,928.0
+2026-08-27,Google Ads,Google Ads always-on,3318.0,7558,266,5,11103.0
+2026-08-27,Meta Ads,Meta Ads always-on,3378.0,13228,355,6,7182.0
+2026-08-27,Influencer,Influencer always-on,2917.0,8545,146,1,2359.0
+2026-08-27,WhatsApp Broadcast,WhatsApp Broadcast always-on,752.0,8685,279,14,4484.0
+2026-08-27,Email,Email always-on,196.0,4711,159,7,1594.0
+2026-08-28,Google Ads,Google Ads always-on,2566.0,6398,172,4,6604.0
+2026-08-28,Meta Ads,Meta Ads always-on,3738.0,18473,473,9,7146.0
+2026-08-28,Influencer,Influencer always-on,2260.0,4275,76,0,2171.0
+2026-08-28,WhatsApp Broadcast,WhatsApp Broadcast always-on,408.0,8643,174,6,1989.0
+2026-08-28,Email,Email always-on,190.0,7536,153,4,1548.0
+2026-08-29,Google Ads,Google Ads always-on,2186.0,9350,157,1,6012.0
+2026-08-29,Meta Ads,Meta Ads always-on,3266.0,19197,359,3,3967.0
+2026-08-29,Influencer,Influencer always-on,2591.0,4902,119,0,1502.0
+2026-08-29,WhatsApp Broadcast,WhatsApp Broadcast always-on,395.0,5275,186,15,2160.0
+2026-08-29,Email,Email always-on,194.0,5163,173,3,1486.0
+2026-08-30,Google Ads,Google Ads always-on,3757.0,8017,279,7,10238.0
+2026-08-30,Meta Ads,Meta Ads always-on,3139.0,11946,282,4,4473.0
+2026-08-30,Influencer,Influencer always-on,1820.0,2964,80,1,1177.0
+2026-08-30,WhatsApp Broadcast,WhatsApp Broadcast always-on,651.0,9343,294,18,3077.0
+2026-08-30,Email,Email always-on,166.0,5414,127,2,794.0
+2026-08-31,Google Ads,Google Ads always-on,3189.0,8706,253,5,11138.0
+2026-08-31,Meta Ads,Meta Ads always-on,2407.0,11897,219,2,4604.0
+2026-08-31,Influencer,Influencer always-on,1992.0,2086,76,0,1272.0
+2026-08-31,WhatsApp Broadcast,WhatsApp Broadcast always-on,384.0,8723,157,1,2156.0
+2026-08-31,Email,Email always-on,154.0,6543,142,11,1489.0
+2026-09-01,Google Ads,Google Ads always-on,3711.0,7818,229,7,12506.0
+2026-09-01,Meta Ads,Meta Ads always-on,4124.0,24511,485,5,5320.0
+2026-09-01,Influencer,Influencer always-on,2489.0,2819,110,2,2125.0
+2026-09-01,WhatsApp Broadcast,WhatsApp Broadcast always-on,386.0,6470,168,6,2908.0
+2026-09-01,Email,Email always-on,158.0,5173,121,6,1488.0
+2026-09-02,Google Ads,Google Ads always-on,2115.0,6028,147,4,7287.0
+2026-09-02,Meta Ads,Meta Ads always-on,4098.0,20562,481,10,6560.0
+2026-09-02,Influencer,Influencer always-on,1702.0,4359,77,1,1319.0
+2026-09-02,WhatsApp Broadcast,WhatsApp Broadcast always-on,363.0,8410,141,5,2648.0
+2026-09-02,Email,Email always-on,130.0,6662,112,5,1036.0
+2026-09-03,Google Ads,Google Ads always-on,2401.0,10930,199,1,6920.0
+2026-09-03,Meta Ads,Meta Ads always-on,4178.0,12728,453,4,6556.0
+2026-09-03,Influencer,Influencer always-on,2365.0,2706,94,2,1712.0
+2026-09-03,WhatsApp Broadcast,WhatsApp Broadcast always-on,509.0,10097,196,6,3624.0
+2026-09-03,Email,Email always-on,195.0,9039,185,8,1513.0
+2026-09-04,Google Ads,Google Ads always-on,3044.0,9223,195,7,10617.0
+2026-09-04,Meta Ads,Meta Ads always-on,2208.0,11299,241,4,4121.0
+2026-09-04,Influencer,Influencer always-on,1903.0,3859,81,0,1797.0
+2026-09-04,WhatsApp Broadcast,WhatsApp Broadcast always-on,310.0,5347,111,10,2317.0
+2026-09-04,Email,Email always-on,199.0,4875,172,11,1547.0
+2026-09-05,Google Ads,Google Ads always-on,2486.0,9523,205,6,10539.0
+2026-09-05,Meta Ads,Meta Ads always-on,2704.0,11965,293,4,4402.0
+2026-09-05,Influencer,Influencer always-on,1876.0,5415,91,1,1562.0
+2026-09-05,WhatsApp Broadcast,WhatsApp Broadcast always-on,417.0,3992,155,10,2982.0
+2026-09-05,Email,Email always-on,142.0,5838,124,4,1274.0
+2026-09-06,Google Ads,Google Ads always-on,2327.0,4289,159,5,9380.0
+2026-09-06,Meta Ads,Meta Ads always-on,2900.0,14508,350,4,4214.0
+2026-09-06,Influencer,Influencer always-on,1662.0,4649,86,0,1389.0
+2026-09-06,WhatsApp Broadcast,WhatsApp Broadcast always-on,462.0,8914,157,4,2557.0
+2026-09-06,Email,Email always-on,195.0,6628,151,9,1651.0
+2026-09-07,Google Ads,Google Ads always-on,2920.0,10299,226,3,8526.0
+2026-09-07,Meta Ads,Meta Ads always-on,3484.0,13357,427,6,6152.0
+2026-09-07,Influencer,Influencer always-on,2532.0,5998,111,3,1823.0
+2026-09-07,WhatsApp Broadcast,WhatsApp Broadcast always-on,322.0,3893,132,5,2382.0
+2026-09-07,Email,Email always-on,89.0,3608,71,0,870.0
+2026-09-08,Google Ads,Google Ads always-on,3171.0,8480,233,5,7138.0
+2026-09-08,Meta Ads,Meta Ads always-on,4268.0,29389,523,2,5835.0
+2026-09-08,Influencer,Influencer always-on,3460.0,4545,157,2,2955.0
+2026-09-08,WhatsApp Broadcast,WhatsApp Broadcast always-on,456.0,5145,200,16,1748.0
+2026-09-08,Email,Email always-on,182.0,4543,145,11,2020.0
+2026-09-09,Google Ads,Google Ads always-on,2673.0,6826,185,4,9089.0
+2026-09-09,Meta Ads,Meta Ads always-on,2730.0,13091,330,1,5121.0
+2026-09-09,Influencer,Influencer always-on,1603.0,2099,67,0,1563.0
+2026-09-09,WhatsApp Broadcast,WhatsApp Broadcast always-on,649.0,8210,260,14,3391.0
+2026-09-09,Email,Email always-on,148.0,4287,140,3,1577.0
+2026-09-10,Google Ads,Google Ads always-on,3328.0,6797,247,6,11238.0
+2026-09-10,Meta Ads,Meta Ads always-on,4973.0,30515,519,9,5960.0
+2026-09-10,Influencer,Influencer always-on,3282.0,4653,132,1,2512.0
+2026-09-10,WhatsApp Broadcast,WhatsApp Broadcast always-on,432.0,10895,194,7,2352.0
+2026-09-10,Email,Email always-on,201.0,8691,171,8,1961.0
+2026-09-11,Google Ads,Google Ads always-on,2008.0,8069,149,2,5922.0
+2026-09-11,Meta Ads,Meta Ads always-on,3348.0,11901,317,1,5534.0
+2026-09-11,Influencer,Influencer always-on,2181.0,5506,94,0,2346.0
+2026-09-11,WhatsApp Broadcast,WhatsApp Broadcast always-on,278.0,6581,111,8,1924.0
+2026-09-11,Email,Email always-on,169.0,3277,129,6,1613.0
+2026-09-12,Google Ads,Google Ads always-on,2624.0,7742,170,4,11248.0
+2026-09-12,Meta Ads,Meta Ads always-on,2789.0,13674,284,4,3139.0
+2026-09-12,Influencer,Influencer always-on,1775.0,2208,67,1,1193.0
+2026-09-12,WhatsApp Broadcast,WhatsApp Broadcast always-on,388.0,7046,182,11,2248.0
+2026-09-12,Email,Email always-on,131.0,6364,113,6,1119.0
+2026-09-13,Google Ads,Google Ads always-on,3195.0,7476,243,2,12018.0
+2026-09-13,Meta Ads,Meta Ads always-on,3023.0,18396,330,4,4218.0
+2026-09-13,Influencer,Influencer always-on,2541.0,4019,119,0,3757.0
+2026-09-13,WhatsApp Broadcast,WhatsApp Broadcast always-on,563.0,12050,213,8,3721.0
+2026-09-13,Email,Email always-on,136.0,4067,106,6,1540.0
+2026-09-14,Google Ads,Google Ads always-on,3503.0,11892,207,4,14132.0
+2026-09-14,Meta Ads,Meta Ads always-on,2972.0,11887,305,3,4491.0
+2026-09-14,Influencer,Influencer always-on,3616.0,4913,162,2,2807.0
+2026-09-14,WhatsApp Broadcast,WhatsApp Broadcast always-on,574.0,10795,185,6,3715.0
+2026-09-14,Email,Email always-on,158.0,7349,150,8,1328.0
+2026-09-15,Google Ads,Google Ads always-on,2522.0,6018,178,0,7450.0
+2026-09-15,Meta Ads,Meta Ads always-on,5510.0,16753,654,6,8778.0
+2026-09-15,Influencer,Influencer always-on,1543.0,3920,77,0,1419.0
+2026-09-15,WhatsApp Broadcast,WhatsApp Broadcast always-on,349.0,8281,143,9,2851.0
+2026-09-15,Email,Email always-on,166.0,5250,123,1,1694.0
+2026-09-16,Google Ads,Google Ads always-on,2650.0,5153,175,3,11605.0
+2026-09-16,Meta Ads,Meta Ads always-on,4289.0,15591,427,2,8633.0
+2026-09-16,Influencer,Influencer always-on,1679.0,3811,76,0,1005.0
+2026-09-16,WhatsApp Broadcast,WhatsApp Broadcast always-on,395.0,8199,142,7,2624.0
+2026-09-16,Email,Email always-on,184.0,7701,172,7,1470.0
+2026-09-17,Google Ads,Google Ads always-on,2327.0,6269,186,5,10376.0
+2026-09-17,Meta Ads,Meta Ads always-on,3341.0,12226,373,9,6199.0
+2026-09-17,Influencer,Influencer always-on,2278.0,5221,111,1,1755.0
+2026-09-17,WhatsApp Broadcast,WhatsApp Broadcast always-on,482.0,5404,177,9,2804.0
+2026-09-17,Email,Email always-on,174.0,7066,162,3,1380.0
+2026-09-18,Google Ads,Google Ads always-on,2566.0,4932,177,7,6873.0
+2026-09-18,Meta Ads,Meta Ads always-on,5078.0,27276,529,7,12482.0
+2026-09-18,Influencer,Influencer always-on,2655.0,6519,124,1,1855.0
+2026-09-18,WhatsApp Broadcast,WhatsApp Broadcast always-on,459.0,6883,206,8,2399.0
+2026-09-18,Email,Email always-on,117.0,4055,95,5,1264.0
+2026-09-19,Google Ads,Google Ads always-on,3231.0,6571,193,3,12343.0
+2026-09-19,Meta Ads,Meta Ads always-on,3054.0,15363,396,2,5923.0
+2026-09-19,Influencer,Influencer always-on,1853.0,3185,77,0,1187.0
+2026-09-19,WhatsApp Broadcast,WhatsApp Broadcast always-on,509.0,10895,214,13,3387.0
+2026-09-19,Email,Email always-on,131.0,6184,144,0,1064.0
+2026-09-20,Google Ads,Google Ads always-on,2373.0,8186,150,3,7139.0
+2026-09-20,Meta Ads,Meta Ads always-on,3420.0,10262,323,5,6294.0
+2026-09-20,Influencer,Influencer always-on,1576.0,2613,60,0,1296.0
+2026-09-20,WhatsApp Broadcast,WhatsApp Broadcast always-on,630.0,10986,247,15,3637.0
+2026-09-20,Email,Email always-on,184.0,6237,150,6,1460.0
+2026-09-21,Google Ads,Google Ads always-on,3879.0,13033,252,4,14888.0
+2026-09-21,Meta Ads,Meta Ads always-on,2238.0,7007,200,2,3468.0
+2026-09-21,Influencer,Influencer always-on,1665.0,3612,78,0,1292.0
+2026-09-21,WhatsApp Broadcast,WhatsApp Broadcast always-on,523.0,7427,202,13,2587.0
+2026-09-21,Email,Email always-on,162.0,5781,129,12,1341.0
+2026-09-22,Google Ads,Google Ads always-on,2348.0,8318,160,3,7430.0
+2026-09-22,Meta Ads,Meta Ads always-on,2882.0,16835,298,3,4151.0
+2026-09-22,Influencer,Influencer always-on,1774.0,3983,85,0,1962.0
+2026-09-22,WhatsApp Broadcast,WhatsApp Broadcast always-on,514.0,9865,202,7,3454.0
+2026-09-22,Email,Email always-on,85.0,3849,69,2,782.0
+2026-09-23,Google Ads,Google Ads always-on,2844.0,10252,183,9,7058.0
+2026-09-23,Meta Ads,Meta Ads always-on,3955.0,24641,426,5,5159.0
+2026-09-23,Influencer,Influencer always-on,3274.0,4969,135,2,2497.0
+2026-09-23,WhatsApp Broadcast,WhatsApp Broadcast always-on,857.0,21253,361,25,6334.0
+2026-09-23,Email,Email always-on,170.0,5916,135,6,1343.0
+2026-09-24,Google Ads,Google Ads always-on,4497.0,14921,291,10,11871.0
+2026-09-24,Meta Ads,Meta Ads always-on,3806.0,24031,415,9,5894.0
+2026-09-24,Influencer,Influencer always-on,1779.0,3434,77,0,1415.0
+2026-09-24,WhatsApp Broadcast,WhatsApp Broadcast always-on,373.0,8698,153,6,1766.0
+2026-09-24,Email,Email always-on,106.0,2353,91,5,928.0
+2026-09-25,Google Ads,Google Ads always-on,2216.0,3564,127,5,7224.0
+2026-09-25,Meta Ads,Meta Ads always-on,4082.0,26019,483,4,5932.0
+2026-09-25,Influencer,Influencer always-on,2045.0,4428,76,1,1527.0
+2026-09-25,WhatsApp Broadcast,WhatsApp Broadcast always-on,551.0,7520,234,13,1887.0
+2026-09-25,Email,Email always-on,104.0,2611,73,0,1297.0
+2026-09-26,Google Ads,Google Ads always-on,2310.0,6178,155,3,6675.0
+2026-09-26,Meta Ads,Meta Ads always-on,2837.0,17148,305,4,4314.0
+2026-09-26,Influencer,Influencer always-on,2110.0,2874,96,2,1593.0
+2026-09-26,WhatsApp Broadcast,WhatsApp Broadcast always-on,435.0,9541,212,7,3226.0
+2026-09-26,Email,Email always-on,95.0,2893,73,1,1055.0
+2026-09-27,Google Ads,Google Ads always-on,4093.0,16596,278,7,17309.0
+2026-09-27,Meta Ads,Meta Ads always-on,4488.0,25590,520,6,7702.0
+2026-09-27,Influencer,Influencer always-on,2064.0,4985,87,0,2362.0
+2026-09-27,WhatsApp Broadcast,WhatsApp Broadcast always-on,431.0,5728,137,7,2857.0
+2026-09-27,Email,Email always-on,157.0,7466,144,7,990.0
+2026-09-28,Google Ads,Google Ads always-on,4147.0,14663,287,5,13896.0
+2026-09-28,Meta Ads,Meta Ads always-on,4752.0,31803,558,5,7139.0
+2026-09-28,Influencer,Influencer always-on,1377.0,3762,70,1,1165.0
+2026-09-28,WhatsApp Broadcast,WhatsApp Broadcast always-on,442.0,4611,177,10,2817.0
+2026-09-28,Email,Email always-on,156.0,3680,131,4,1460.0
+2026-09-29,Google Ads,Google Ads always-on,2814.0,9818,196,1,6083.0
+2026-09-29,Meta Ads,Meta Ads always-on,2947.0,13997,259,7,5032.0
+2026-09-29,Influencer,Influencer always-on,2121.0,3792,87,1,1612.0
+2026-09-29,WhatsApp Broadcast,WhatsApp Broadcast always-on,587.0,8651,259,11,3631.0
+2026-09-29,Email,Email always-on,155.0,7323,135,4,1020.0
+2026-09-30,Google Ads,Google Ads always-on,3020.0,6448,207,7,15197.0
+2026-09-30,Meta Ads,Meta Ads always-on,5260.0,13101,497,4,7999.0
+2026-09-30,Influencer,Influencer always-on,3319.0,4134,141,0,2951.0
+2026-09-30,WhatsApp Broadcast,WhatsApp Broadcast always-on,780.0,15115,305,11,4357.0
+2026-09-30,Email,Email always-on,153.0,4866,115,6,1040.0
+2026-10-01,Google Ads,Google Ads always-on,2255.0,10468,178,3,9672.0
+2026-10-01,Meta Ads,Meta Ads always-on,3874.0,16914,376,4,6537.0
+2026-10-01,Influencer,Influencer always-on,2430.0,3054,120,1,2396.0
+2026-10-01,WhatsApp Broadcast,WhatsApp Broadcast always-on,338.0,5222,123,8,3216.0
+2026-10-01,Email,Email always-on,92.0,4888,82,2,623.0
+2026-10-02,Google Ads,Google Ads always-on,2416.0,5699,149,5,11304.0
+2026-10-02,Meta Ads,Meta Ads always-on,5060.0,28905,527,6,5471.0
+2026-10-02,Influencer,Influencer always-on,2880.0,4439,141,2,1827.0
+2026-10-02,WhatsApp Broadcast,WhatsApp Broadcast always-on,501.0,7798,223,12,3118.0
+2026-10-02,Email,Email always-on,119.0,4481,94,1,853.0
+2026-10-03,Google Ads,Google Ads always-on,1960.0,5361,111,1,6374.0
+2026-10-03,Meta Ads,Meta Ads always-on,5227.0,18547,577,8,5245.0
+2026-10-03,Influencer,Influencer always-on,1465.0,3741,64,1,1112.0
+2026-10-03,WhatsApp Broadcast,WhatsApp Broadcast always-on,445.0,4867,187,12,2707.0
+2026-10-03,Email,Email always-on,262.0,12417,230,11,2420.0
+2026-10-04,Google Ads,Google Ads always-on,2988.0,10743,247,2,8399.0
+2026-10-04,Meta Ads,Meta Ads always-on,3610.0,20712,401,4,7112.0
+2026-10-04,Influencer,Influencer always-on,1741.0,4265,74,0,1487.0
+2026-10-04,WhatsApp Broadcast,WhatsApp Broadcast always-on,401.0,8062,193,12,2835.0
+2026-10-04,Email,Email always-on,151.0,4911,118,8,1147.0
+2026-10-05,Google Ads,Google Ads always-on,2274.0,3330,128,3,6075.0
+2026-10-05,Meta Ads,Meta Ads always-on,4050.0,24450,446,7,5408.0
+2026-10-05,Influencer,Influencer always-on,1708.0,1989,77,0,1339.0
+2026-10-05,WhatsApp Broadcast,WhatsApp Broadcast always-on,378.0,5810,153,7,2104.0
+2026-10-05,Email,Email always-on,130.0,4714,95,4,960.0
+2026-10-06,Google Ads,Google Ads always-on,3407.0,6240,236,3,16632.0
+2026-10-06,Meta Ads,Meta Ads always-on,3083.0,6847,273,3,4636.0
+2026-10-06,Influencer,Influencer always-on,1910.0,2480,86,1,1715.0
+2026-10-06,WhatsApp Broadcast,WhatsApp Broadcast always-on,342.0,3825,145,5,2151.0
+2026-10-06,Email,Email always-on,212.0,9426,170,6,1899.0
+2026-10-07,Google Ads,Google Ads always-on,2687.0,8960,175,2,10221.0
+2026-10-07,Meta Ads,Meta Ads always-on,2549.0,11405,330,3,3161.0
+2026-10-07,Influencer,Influencer always-on,2548.0,3812,108,0,2207.0
+2026-10-07,WhatsApp Broadcast,WhatsApp Broadcast always-on,264.0,3645,125,5,1589.0
+2026-10-07,Email,Email always-on,139.0,4303,147,5,1159.0
+2026-10-08,Google Ads,Google Ads always-on,2621.0,9162,223,3,7984.0
+2026-10-08,Meta Ads,Meta Ads always-on,3040.0,9172,349,4,4974.0
+2026-10-08,Influencer,Influencer always-on,2121.0,4190,84,0,2059.0
+2026-10-08,WhatsApp Broadcast,WhatsApp Broadcast always-on,580.0,12891,219,9,3042.0
+2026-10-08,Email,Email always-on,128.0,5375,104,3,1012.0
+2026-10-09,Google Ads,Google Ads always-on,2144.0,7070,182,6,7893.0
+2026-10-09,Meta Ads,Meta Ads always-on,2678.0,18437,314,4,3311.0
+2026-10-09,Influencer,Influencer always-on,1600.0,2239,79,0,1279.0
+2026-10-09,WhatsApp Broadcast,WhatsApp Broadcast always-on,471.0,8344,178,13,3872.0
+2026-10-09,Email,Email always-on,113.0,4784,87,6,1131.0
+2026-10-10,Google Ads,Google Ads always-on,1864.0,6242,147,4,5617.0
+2026-10-10,Meta Ads,Meta Ads always-on,2821.0,17114,322,7,5144.0
+2026-10-10,Influencer,Influencer always-on,3739.0,6661,161,0,4407.0
+2026-10-10,WhatsApp Broadcast,WhatsApp Broadcast always-on,332.0,3284,130,4,1848.0
+2026-10-10,Email,Email always-on,193.0,10081,179,7,1977.0
+2026-10-11,Google Ads,Google Ads always-on,3554.0,14625,269,7,10208.0
+2026-10-11,Meta Ads,Meta Ads always-on,1557.0,6078,164,3,1782.0
+2026-10-11,Influencer,Influencer always-on,2827.0,6892,138,1,2375.0
+2026-10-11,WhatsApp Broadcast,WhatsApp Broadcast always-on,407.0,5607,165,8,1725.0
+2026-10-11,Email,Email always-on,144.0,5323,123,5,1178.0
+2026-10-12,Google Ads,Google Ads always-on,3258.0,13541,255,10,10013.0
+2026-10-12,Meta Ads,Meta Ads always-on,3195.0,10638,365,4,5161.0
+2026-10-12,Influencer,Influencer always-on,1787.0,3383,92,1,1275.0
+2026-10-12,WhatsApp Broadcast,WhatsApp Broadcast always-on,373.0,4758,145,10,2301.0
+2026-10-12,Email,Email always-on,116.0,5026,94,1,955.0
+2026-10-13,Google Ads,Google Ads always-on,1433.0,4407,106,7,6214.0
+2026-10-13,Meta Ads,Meta Ads always-on,2246.0,9263,264,2,3536.0
+2026-10-13,Influencer,Influencer always-on,2337.0,4944,99,0,1858.0
+2026-10-13,WhatsApp Broadcast,WhatsApp Broadcast always-on,492.0,8720,219,13,3369.0
+2026-10-13,Email,Email always-on,211.0,9175,154,2,1631.0
+2026-10-14,Google Ads,Google Ads always-on,1930.0,6027,133,3,4768.0
+2026-10-14,Meta Ads,Meta Ads always-on,3259.0,13772,271,2,4782.0
+2026-10-14,Influencer,Influencer always-on,2345.0,3931,94,0,1685.0
+2026-10-14,WhatsApp Broadcast,WhatsApp Broadcast always-on,502.0,8141,193,9,3542.0
+2026-10-14,Email,Email always-on,117.0,4107,106,5,867.0
+2026-10-15,Google Ads,Google Ads always-on,1892.0,4113,129,1,5771.0
+2026-10-15,Meta Ads,Meta Ads always-on,2743.0,13633,292,4,4283.0
+2026-10-15,Influencer,Influencer always-on,1752.0,2255,83,0,1701.0
+2026-10-15,WhatsApp Broadcast,WhatsApp Broadcast always-on,391.0,6213,168,8,3093.0
+2026-10-15,Email,Email always-on,134.0,3839,101,3,1274.0
+2026-10-16,Google Ads,Google Ads always-on,4401.0,10860,295,6,19544.0
+2026-10-16,Meta Ads,Meta Ads always-on,3320.0,13445,400,6,4444.0
+2026-10-16,Influencer,Influencer always-on,2304.0,3283,100,3,2336.0
+2026-10-16,WhatsApp Broadcast,WhatsApp Broadcast always-on,408.0,7020,176,8,2106.0
+2026-10-16,Email,Email always-on,262.0,6305,228,4,2299.0
+2026-10-17,Google Ads,Google Ads always-on,3290.0,12931,241,5,11194.0
+2026-10-17,Meta Ads,Meta Ads always-on,3653.0,20688,446,12,7360.0
+2026-10-17,Influencer,Influencer always-on,1843.0,4412,82,0,1846.0
+2026-10-17,WhatsApp Broadcast,WhatsApp Broadcast always-on,271.0,3289,99,3,2108.0
+2026-10-17,Email,Email always-on,108.0,5722,96,4,818.0
+2026-10-18,Google Ads,Google Ads always-on,2252.0,6789,162,5,5694.0
+2026-10-18,Meta Ads,Meta Ads always-on,2544.0,10386,288,6,6198.0
+2026-10-18,Influencer,Influencer always-on,1490.0,1811,60,0,1227.0
+2026-10-18,WhatsApp Broadcast,WhatsApp Broadcast always-on,386.0,8809,164,9,2923.0
+2026-10-18,Email,Email always-on,137.0,4569,101,6,976.0
+2026-10-19,Google Ads,Google Ads always-on,2664.0,10099,180,1,9532.0
+2026-10-19,Meta Ads,Meta Ads always-on,4445.0,23335,520,12,8420.0
+2026-10-19,Influencer,Influencer always-on,2156.0,4678,127,2,2028.0
+2026-10-19,WhatsApp Broadcast,WhatsApp Broadcast always-on,557.0,10642,220,8,3104.0
+2026-10-19,Email,Email always-on,167.0,5101,131,2,1342.0
+2026-10-20,Google Ads,Google Ads always-on,2415.0,4786,189,3,9604.0
+2026-10-20,Meta Ads,Meta Ads always-on,5362.0,24572,502,7,10502.0
+2026-10-20,Influencer,Influencer always-on,1542.0,1829,58,1,1217.0
+2026-10-20,WhatsApp Broadcast,WhatsApp Broadcast always-on,408.0,7676,175,10,3596.0
+2026-10-20,Email,Email always-on,149.0,3388,131,6,1624.0
+2026-10-21,Google Ads,Google Ads always-on,2640.0,5245,189,4,6638.0
+2026-10-21,Meta Ads,Meta Ads always-on,3423.0,11038,375,8,5076.0
+2026-10-21,Influencer,Influencer always-on,1645.0,2862,70,0,1039.0
+2026-10-21,WhatsApp Broadcast,WhatsApp Broadcast always-on,533.0,10236,238,10,3379.0
+2026-10-21,Email,Email always-on,143.0,6734,127,3,1105.0
+2026-10-22,Google Ads,Google Ads always-on,2886.0,7416,203,4,8870.0
+2026-10-22,Meta Ads,Meta Ads always-on,2412.0,7686,280,3,3979.0
+2026-10-22,Influencer,Influencer always-on,1897.0,5178,102,0,2187.0
+2026-10-22,WhatsApp Broadcast,WhatsApp Broadcast always-on,509.0,9366,222,13,2662.0
+2026-10-22,Email,Email always-on,156.0,5679,125,3,1213.0
+2026-10-23,Google Ads,Google Ads always-on,2125.0,6443,125,0,7823.0
+2026-10-23,Meta Ads,Meta Ads always-on,2817.0,13972,306,3,5777.0
+2026-10-23,Influencer,Influencer always-on,1882.0,3534,68,1,1190.0
+2026-10-23,WhatsApp Broadcast,WhatsApp Broadcast always-on,497.0,8694,198,12,2862.0
+2026-10-23,Email,Email always-on,123.0,3431,93,2,909.0
+2026-10-24,Google Ads,Google Ads always-on,2997.0,4766,188,3,16247.0
+2026-10-24,Meta Ads,Meta Ads always-on,4726.0,12930,440,8,10443.0
+2026-10-24,Influencer,Influencer always-on,3044.0,7940,137,1,2359.0
+2026-10-24,WhatsApp Broadcast,WhatsApp Broadcast always-on,667.0,9813,227,13,4408.0
+2026-10-24,Email,Email always-on,106.0,4029,97,5,843.0
+2026-10-25,Google Ads,Google Ads always-on,2296.0,5898,161,4,8823.0
+2026-10-25,Meta Ads,Meta Ads always-on,3552.0,17248,359,4,8626.0
+2026-10-25,Influencer,Influencer always-on,1862.0,2759,88,0,1482.0
+2026-10-25,WhatsApp Broadcast,WhatsApp Broadcast always-on,586.0,6114,224,9,2669.0
+2026-10-25,Email,Email always-on,191.0,6849,186,5,1516.0
+2026-10-26,Google Ads,Google Ads always-on,3229.0,7907,251,2,8121.0
+2026-10-26,Meta Ads,Meta Ads always-on,3080.0,12152,296,6,4683.0
+2026-10-26,Influencer,Influencer always-on,2123.0,4616,85,0,1870.0
+2026-10-26,WhatsApp Broadcast,WhatsApp Broadcast always-on,376.0,5616,163,9,2706.0
+2026-10-26,Email,Email always-on,158.0,5301,152,5,1714.0
+2026-10-27,Google Ads,Google Ads always-on,2772.0,8644,166,3,10186.0
+2026-10-27,Meta Ads,Meta Ads always-on,2569.0,12566,252,4,2610.0
+2026-10-27,Influencer,Influencer always-on,3645.0,7381,182,3,3040.0
+2026-10-27,WhatsApp Broadcast,WhatsApp Broadcast always-on,606.0,7789,236,8,3691.0
+2026-10-27,Email,Email always-on,172.0,8033,147,2,1534.0
+2026-10-28,Google Ads,Google Ads always-on,1914.0,7655,142,1,7684.0
+2026-10-28,Meta Ads,Meta Ads always-on,3512.0,12208,384,6,5392.0
+2026-10-28,Influencer,Influencer always-on,1978.0,2681,88,1,2053.0
+2026-10-28,WhatsApp Broadcast,WhatsApp Broadcast always-on,493.0,11309,221,13,2173.0
+2026-10-28,Email,Email always-on,84.0,3283,62,1,711.0
+2026-10-29,Google Ads,Google Ads always-on,1583.0,4280,136,1,4197.0
+2026-10-29,Meta Ads,Meta Ads always-on,4021.0,14327,483,7,7532.0
+2026-10-29,Influencer,Influencer always-on,1548.0,2009,76,0,1270.0
+2026-10-29,WhatsApp Broadcast,WhatsApp Broadcast always-on,370.0,4980,119,2,2411.0
+2026-10-29,Email,Email always-on,162.0,5718,134,4,1713.0
+2026-10-30,Google Ads,Google Ads always-on,2940.0,8064,204,5,9274.0
+2026-10-30,Meta Ads,Meta Ads always-on,3123.0,20601,366,11,5459.0
+2026-10-30,Influencer,Influencer always-on,1327.0,2754,67,0,1104.0
+2026-10-30,WhatsApp Broadcast,WhatsApp Broadcast always-on,313.0,7892,136,7,1844.0
+2026-10-30,Email,Email always-on,163.0,3206,120,6,1510.0
+2026-10-31,Google Ads,Google Ads always-on,1919.0,3622,132,4,8926.0
+2026-10-31,Meta Ads,Meta Ads always-on,4139.0,26340,461,9,5896.0
+2026-10-31,Influencer,Influencer always-on,3248.0,8360,158,3,2641.0
+2026-10-31,WhatsApp Broadcast,WhatsApp Broadcast always-on,424.0,10260,183,5,2476.0
+2026-10-31,Email,Email always-on,151.0,7515,148,4,2285.0

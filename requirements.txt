@@ -1,0 +1,18 @@
+streamlit>=1.50
+pandas>=2.2
+numpy>=1.26
+scikit-learn>=1.4
+plotly>=5.24
+reportlab>=4.2
+openpyxl>=3.1
+xlrd>=2.0.1     # only for old .xls files
+pytest>=8.0
+# Optional: LLM-written recommendations (falls back to templates without it)
+anthropic>=0.40
+# Encrypts stored connection secrets (needed only if you save tokens inside BizIQ rather than using environment variables)
+cryptography>=42
+
+# PostgreSQL backend (set BIZIQ_DATABASE_URL). SQLite needs none of this.
+psycopg[binary]>=3.2
+sqlalchemy>=2.0
+segno>=1.6        # optional: draws the 2FA QR code (the page falls back to the text key without it)
