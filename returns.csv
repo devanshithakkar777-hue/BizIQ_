@@ -1,0 +1,1785 @@
+return_id,order_id,date,product,refund_amount,reason,channel,is_cod,quantity
+R00001,O001648,2025-11-14,Sandals,899.0,Quality issue,Flipkart,0,1
+R00002,O003472,2025-11-14,Classic Tee,998.0,Refused at delivery,Website,1,2
+R00003,O007477,2025-11-12,Running Shoes,9897.0,Quality issue,Meesho,0,3
+R00004,O007708,2025-11-08,Hoodie,5397.0,Size or fit,Meesho,0,3
+R00005,O007834,2025-11-15,Sandals,899.0,Quality issue,Website,0,1
+R00006,O008613,2025-11-14,Sneakers,5598.0,Quality issue,WhatsApp,0,2
+R00007,O000027,2025-11-07,Sunglasses,2598.0,Quality issue,Amazon,0,2
+R00008,O004245,2025-11-10,Sneakers,5598.0,Not as described,Website,1,2
+R00009,O004245,2025-11-10,Cap,698.0,Damaged in transit,Flipkart,1,2
+R00010,O004942,2025-11-16,Sandals,1798.0,Size or fit,WhatsApp,1,2
+R00011,O007059,2025-11-12,Hoodie,3598.0,Not as described,Flipkart,1,2
+R00012,O010141,2025-11-07,Wrist Watch,4499.0,Refused at delivery,WhatsApp,1,1
+R00013,O011526,2025-11-08,Hoodie,5397.0,Refused at delivery,Meesho,1,3
+R00014,O001361,2025-11-15,Sandals,2697.0,Size or fit,Flipkart,1,3
+R00015,O009012,2025-11-17,Sunglasses,2598.0,Changed mind,Website,1,2
+R00016,O006194,2025-11-11,Sneakers,5598.0,Not as described,Meesho,1,2
+R00017,O007683,2025-11-18,Classic Tee,1497.0,Quality issue,Amazon,0,3
+R00018,O010904,2025-11-07,Sandals,1798.0,Size or fit,Amazon,0,2
+R00019,O003338,2025-11-10,Sneakers,5598.0,Refused at delivery,Website,1,2
+R00020,O005633,2025-11-08,Cap,698.0,Refused at delivery,Flipkart,1,2
+R00021,O010025,2025-11-11,Hoodie,5397.0,Not as described,Website,0,3
+R00022,O003851,2025-11-12,Sandals,2697.0,Size or fit,Flipkart,0,3
+R00023,O006865,2025-11-11,Denim Jacket,7497.0,Refused at delivery,Website,1,3
+R00024,O007597,2025-11-09,Running Shoes,9897.0,Quality issue,Website,0,3
+R00025,O011442,2025-11-12,Sneakers,8397.0,Not as described,Flipkart,0,3
+R00026,O003865,2025-11-21,Backpack,3198.0,Not as described,Website,0,2
+R00027,O004069,2025-11-13,Classic Tee,499.0,Quality issue,Amazon,0,1
+R00028,O008339,2025-11-14,Denim Jacket,2499.0,Quality issue,WhatsApp,0,1
+R00029,O000466,2025-11-16,Sneakers,2799.0,Size or fit,Amazon,0,1
+R00030,O004072,2025-11-20,Running Shoes,6598.0,Changed mind,Meesho,1,2
+R00031,O010107,2025-11-19,Sunglasses,1299.0,Damaged in transit,Amazon,0,1
+R00032,O000918,2025-11-20,Hoodie,5397.0,Quality issue,Flipkart,0,3
+R00033,O003647,2025-11-21,Sandals,899.0,Quality issue,WhatsApp,0,1
+R00034,O004130,2025-11-24,Hoodie,3598.0,Refused at delivery,Meesho,1,2
+R00035,O005397,2025-11-23,Sneakers,2799.0,Size or fit,Flipkart,0,1
+R00036,O005825,2025-11-18,Sandals,1798.0,Not as described,Flipkart,0,2
+R00037,O000301,2025-11-25,Backpack,4797.0,Damaged in transit,Amazon,0,3
+R00038,O001547,2025-11-21,Denim Jacket,7497.0,Not as described,Website,0,3
+R00039,O002913,2025-11-14,Sandals,899.0,Size or fit,Amazon,0,1
+R00040,O003966,2025-11-14,Cap,349.0,Not as described,WhatsApp,1,1
+R00041,O006799,2025-11-16,Sandals,1798.0,Refused at delivery,Flipkart,1,2
+R00042,O008037,2025-11-22,Denim Jacket,2499.0,Size or fit,Website,0,1
+R00043,O010525,2025-11-20,Hoodie,5397.0,Refused at delivery,WhatsApp,1,3
+R00044,O011170,2025-11-16,Denim Jacket,4998.0,Size or fit,WhatsApp,0,2
+R00045,O011510,2025-11-16,Hoodie,3598.0,Refused at delivery,Website,1,2
+R00046,O003480,2025-11-20,Denim Jacket,4998.0,Damaged in transit,Website,0,2
+R00047,O006245,2025-11-16,Sandals,2697.0,Not as described,Flipkart,0,3
+R00048,O007188,2025-11-22,Hoodie,3598.0,Changed mind,WhatsApp,0,2
+R00049,O010742,2025-11-23,Sneakers,2799.0,Size or fit,Amazon,0,1
+R00050,O010868,2025-11-19,Sunglasses,2598.0,Not as described,Website,0,2
+R00051,O005609,2025-11-16,Cap,698.0,Refused at delivery,Meesho,1,2
+R00052,O005609,2025-11-20,Running Shoes,6598.0,Not as described,Amazon,0,2
+R00053,O009563,2025-11-27,Sneakers,8397.0,Refused at delivery,Amazon,1,3
+R00054,O001665,2025-11-19,Sunglasses,2598.0,Changed mind,Flipkart,1,2
+R00055,O003817,2025-11-26,Hoodie,5397.0,Changed mind,Amazon,0,3
+R00056,O006921,2025-11-27,Classic Tee,499.0,Damaged in transit,Website,0,1
+R00057,O009816,2025-11-27,Sneakers,2799.0,Quality issue,WhatsApp,1,1
+R00058,O005175,2025-11-24,Sneakers,8397.0,Not as described,Meesho,0,3
+R00059,O008552,2025-11-20,Hoodie,1799.0,Not as described,Flipkart,0,1
+R00060,O008640,2025-11-25,Sneakers,2799.0,Refused at delivery,WhatsApp,1,1
+R00061,O007669,2025-11-24,Classic Tee,998.0,Refused at delivery,Amazon,1,2
+R00062,O011576,2025-11-26,Running Shoes,9897.0,Refused at delivery,Meesho,1,3
+R00063,O002052,2025-11-28,Running Shoes,6598.0,Refused at delivery,Website,1,2
+R00064,O006832,2025-11-24,Classic Tee,1497.0,Not as described,Meesho,0,3
+R00065,O007978,2025-11-29,Cap,1047.0,Damaged in transit,Amazon,0,3
+R00066,O011465,2025-11-29,Sandals,2697.0,Size or fit,Flipkart,0,3
+R00067,O000946,2025-11-26,Hoodie,3598.0,Quality issue,Website,1,2
+R00068,O005476,2025-11-21,Sneakers,5598.0,Quality issue,Meesho,0,2
+R00069,O007090,2025-11-22,Running Shoes,3299.0,Not as described,Website,0,1
+R00070,O007470,2025-11-29,Hoodie,5397.0,Damaged in transit,Amazon,0,3
+R00071,O009281,2025-11-23,Classic Tee,1497.0,Refused at delivery,Amazon,1,3
+R00072,O007108,2025-12-03,Sneakers,8397.0,Quality issue,Meesho,0,3
+R00073,O000194,2025-11-26,Sneakers,2799.0,Quality issue,Website,0,1
+R00074,O000937,2025-12-03,Classic Tee,1497.0,Quality issue,Website,0,3
+R00075,O003441,2025-11-26,Sneakers,5598.0,Size or fit,Meesho,1,2
+R00076,O006809,2025-11-22,Running Shoes,9897.0,Size or fit,Flipkart,0,3
+R00077,O009589,2025-12-03,Sneakers,5598.0,Size or fit,Website,0,2
+R00078,O002331,2025-12-03,Sandals,2697.0,Size or fit,Amazon,0,3
+R00079,O008820,2025-11-29,Running Shoes,3299.0,Refused at delivery,Meesho,1,1
+R00080,O004022,2025-11-30,Denim Jacket,2499.0,Not as described,Amazon,0,1
+R00081,O008239,2025-11-24,Sunglasses,1299.0,Refused at delivery,Meesho,1,1
+R00082,O009094,2025-11-26,Sneakers,2799.0,Quality issue,WhatsApp,0,1
+R00083,O010704,2025-11-26,Backpack,4797.0,Refused at delivery,WhatsApp,1,3
+R00084,O011752,2025-12-05,Classic Tee,998.0,Size or fit,WhatsApp,0,2
+R00085,O000299,2025-12-07,Sneakers,2799.0,Quality issue,Amazon,0,1
+R00086,O004852,2025-12-05,Sneakers,5598.0,Quality issue,Amazon,1,2
+R00087,O008290,2025-11-29,Sandals,2697.0,Size or fit,Website,0,3
+R00088,O008510,2025-11-28,Running Shoes,6598.0,Damaged in transit,Website,0,2
+R00089,O001823,2025-12-07,Hoodie,1799.0,Refused at delivery,Flipkart,1,1
+R00090,O002838,2025-12-05,Classic Tee,1497.0,Quality issue,Website,0,3
+R00091,O003958,2025-11-26,Sneakers,5598.0,Size or fit,Website,0,2
+R00092,O005538,2025-12-06,Sandals,2697.0,Refused at delivery,Website,1,3
+R00093,O009059,2025-12-08,Running Shoes,3299.0,Size or fit,Meesho,1,1
+R00094,O002466,2025-12-01,Classic Tee,499.0,Size or fit,Amazon,1,1
+R00095,O003836,2025-11-29,Cap,349.0,Changed mind,Amazon,0,1
+R00096,O003864,2025-12-04,Hoodie,1799.0,Refused at delivery,Meesho,1,1
+R00097,O009479,2025-12-02,Sandals,2697.0,Not as described,Website,0,3
+R00098,O006072,2025-12-01,Sandals,899.0,Quality issue,Website,0,1
+R00099,O006099,2025-12-07,Classic Tee,499.0,Damaged in transit,WhatsApp,1,1
+R00100,O010132,2025-12-01,Sandals,2697.0,Not as described,Flipkart,0,3
+R00101,O011960,2025-12-05,Sneakers,2799.0,Not as described,Flipkart,0,1
+R00102,O001150,2025-12-01,Sandals,899.0,Size or fit,Amazon,0,1
+R00103,O009847,2025-11-30,Classic Tee,998.0,Quality issue,Amazon,0,2
+R00104,O001685,2025-12-08,Denim Jacket,4998.0,Quality issue,Flipkart,0,2
+R00105,O002098,2025-12-02,Running Shoes,6598.0,Refused at delivery,Flipkart,1,2
+R00106,O003089,2025-11-30,Sandals,899.0,Refused at delivery,Amazon,1,1
+R00107,O002697,2025-12-13,Sneakers,2799.0,Not as described,Meesho,0,1
+R00108,O003445,2025-12-05,Backpack,1599.0,Size or fit,Website,0,1
+R00109,O004766,2025-12-04,Sneakers,2799.0,Size or fit,Amazon,0,1
+R00110,O006427,2025-12-05,Wrist Watch,4499.0,Changed mind,Website,0,1
+R00111,O006585,2025-12-02,Sneakers,2799.0,Size or fit,Meesho,1,1
+R00112,O006946,2025-12-10,Sandals,1798.0,Size or fit,Amazon,0,2
+R00113,O010188,2025-12-01,Classic Tee,998.0,Damaged in transit,Amazon,0,2
+R00114,O000207,2025-12-06,Sneakers,2799.0,Quality issue,Flipkart,0,1
+R00115,O000952,2025-12-02,Sneakers,5598.0,Not as described,Amazon,0,2
+R00116,O003187,2025-12-10,Cap,698.0,Quality issue,Website,0,2
+R00117,O003679,2025-12-08,Sneakers,5598.0,Quality issue,Meesho,0,2
+R00118,O005079,2025-12-02,Running Shoes,6598.0,Quality issue,Website,0,2
+R00119,O010229,2025-12-04,Sneakers,2799.0,Quality issue,Amazon,0,1
+R00120,O011016,2025-12-14,Sandals,2697.0,Not as described,Amazon,0,3
+R00121,O000137,2025-12-15,Sneakers,8397.0,Size or fit,Website,0,3
+R00122,O002145,2025-12-11,Sneakers,5598.0,Not as described,Meesho,1,2
+R00123,O006453,2025-12-11,Classic Tee,998.0,Damaged in transit,Website,0,2
+R00124,O009987,2025-12-07,Sandals,1798.0,Refused at delivery,Website,1,2
+R00125,O001350,2025-12-14,Sandals,2697.0,Not as described,Website,0,3
+R00126,O001101,2025-12-15,Sneakers,8397.0,Quality issue,Meesho,0,3
+R00127,O003201,2025-12-10,Sneakers,5598.0,Size or fit,Amazon,0,2
+R00128,O009481,2025-12-06,Cap,349.0,Changed mind,Flipkart,0,1
+R00129,O010074,2025-12-09,Backpack,3198.0,Damaged in transit,Website,0,2
+R00130,O010939,2025-12-15,Classic Tee,1497.0,Quality issue,WhatsApp,1,3
+R00131,O004776,2025-12-12,Running Shoes,3299.0,Refused at delivery,WhatsApp,1,1
+R00132,O005759,2025-12-14,Sneakers,8397.0,Size or fit,Amazon,1,3
+R00133,O006707,2025-12-12,Sandals,1798.0,Quality issue,Flipkart,0,2
+R00134,O008610,2025-12-13,Sneakers,5598.0,Refused at delivery,WhatsApp,1,2
+R00135,O000517,2025-12-15,Sandals,899.0,Not as described,Website,0,1
+R00136,O000956,2025-12-11,Denim Jacket,4998.0,Refused at delivery,Amazon,1,2
+R00137,O007414,2025-12-10,Denim Jacket,2499.0,Size or fit,Amazon,0,1
+R00138,O008210,2025-12-07,Running Shoes,6598.0,Quality issue,Flipkart,0,2
+R00139,O008825,2025-12-12,Classic Tee,998.0,Damaged in transit,Meesho,1,2
+R00140,O009342,2025-12-08,Sneakers,8397.0,Quality issue,Flipkart,1,3
+R00141,O010323,2025-12-14,Classic Tee,1497.0,Refused at delivery,Website,1,3
+R00142,O011161,2025-12-17,Sneakers,5598.0,Quality issue,Website,0,2
+R00143,O008468,2025-12-14,Running Shoes,3299.0,Size or fit,Amazon,0,1
+R00144,O000789,2025-12-13,Hoodie,5397.0,Quality issue,Website,0,3
+R00145,O011350,2025-12-14,Running Shoes,9897.0,Quality issue,Amazon,0,3
+R00146,O005583,2025-12-15,Hoodie,3598.0,Quality issue,Website,0,2
+R00147,O005671,2025-12-11,Sandals,1798.0,Size or fit,Flipkart,0,2
+R00148,O006983,2025-12-10,Backpack,4797.0,Changed mind,Amazon,0,3
+R00149,O009301,2025-12-22,Cap,698.0,Quality issue,Website,0,2
+R00150,O010314,2025-12-22,Sneakers,8397.0,Quality issue,Website,0,3
+R00151,O002381,2025-12-13,Hoodie,3598.0,Size or fit,Amazon,0,2
+R00152,O005574,2025-12-14,Running Shoes,3299.0,Damaged in transit,WhatsApp,0,1
+R00153,O006346,2025-12-12,Sneakers,2799.0,Size or fit,Website,0,1
+R00154,O006441,2025-12-13,Sandals,2697.0,Refused at delivery,Website,1,3
+R00155,O011171,2025-12-15,Denim Jacket,7497.0,Quality issue,Flipkart,0,3
+R00156,O011842,2025-12-12,Running Shoes,3299.0,Not as described,Meesho,0,1
+R00157,O010203,2025-12-19,Sandals,2697.0,Size or fit,Website,0,3
+R00158,O003761,2025-12-25,Classic Tee,499.0,Refused at delivery,Website,1,1
+R00159,O004983,2025-12-22,Sandals,1798.0,Quality issue,Amazon,0,2
+R00160,O006210,2025-12-20,Sneakers,2799.0,Size or fit,Amazon,0,1
+R00161,O006386,2025-12-20,Sandals,899.0,Not as described,WhatsApp,0,1
+R00162,O010256,2025-12-19,Cap,698.0,Changed mind,Amazon,1,2
+R00163,O000960,2025-12-17,Denim Jacket,2499.0,Damaged in transit,Flipkart,0,1
+R00164,O007366,2025-12-19,Sandals,2697.0,Size or fit,Website,0,3
+R00165,O007490,2025-12-23,Sneakers,5598.0,Size or fit,Website,0,2
+R00166,O008157,2025-12-18,Sandals,2697.0,Quality issue,Website,0,3
+R00167,O010205,2025-12-16,Hoodie,3598.0,Refused at delivery,Flipkart,1,2
+R00168,O010370,2025-12-18,Sneakers,2799.0,Size or fit,Flipkart,0,1
+R00169,O010391,2025-12-18,Running Shoes,6598.0,Not as described,Meesho,1,2
+R00170,O011529,2025-12-16,Hoodie,5397.0,Size or fit,Meesho,0,3
+R00171,O011624,2025-12-19,Classic Tee,1497.0,Not as described,WhatsApp,0,3
+R00172,O000875,2025-12-23,Cap,1047.0,Changed mind,Meesho,1,3
+R00173,O000875,2025-12-24,Sunglasses,1299.0,Size or fit,Meesho,1,1
+R00174,O001492,2025-12-15,Backpack,3198.0,Size or fit,WhatsApp,1,2
+R00175,O001492,2025-12-23,Hoodie,3598.0,Refused at delivery,Amazon,1,2
+R00176,O003514,2025-12-22,Hoodie,1799.0,Damaged in transit,Amazon,0,1
+R00177,O000449,2025-12-19,Hoodie,1799.0,Size or fit,Website,0,1
+R00178,O002339,2025-12-27,Cap,349.0,Quality issue,Amazon,1,1
+R00179,O005958,2025-12-26,Hoodie,5397.0,Quality issue,WhatsApp,0,3
+R00180,O006101,2025-12-16,Sneakers,8397.0,Size or fit,Meesho,0,3
+R00181,O007544,2025-12-25,Sneakers,2799.0,Not as described,WhatsApp,0,1
+R00182,O009364,2025-12-21,Sneakers,5598.0,Not as described,Amazon,0,2
+R00183,O000541,2025-12-20,Running Shoes,3299.0,Quality issue,Flipkart,0,1
+R00184,O000653,2025-12-20,Sneakers,5598.0,Refused at delivery,Meesho,1,2
+R00185,O001869,2025-12-23,Sneakers,2799.0,Size or fit,Amazon,0,1
+R00186,O004679,2025-12-28,Hoodie,5397.0,Changed mind,Amazon,0,3
+R00187,O008431,2025-12-24,Backpack,1599.0,Damaged in transit,Flipkart,0,1
+R00188,O008809,2025-12-19,Sandals,2697.0,Size or fit,Amazon,0,3
+R00189,O011121,2025-12-25,Sandals,899.0,Size or fit,Website,0,1
+R00190,O011474,2025-12-29,Denim Jacket,2499.0,Damaged in transit,Amazon,0,1
+R00191,O011830,2025-12-28,Hoodie,1799.0,Quality issue,Amazon,0,1
+R00192,O001546,2025-12-22,Sneakers,5598.0,Refused at delivery,WhatsApp,1,2
+R00193,O001890,2025-12-25,Sneakers,8397.0,Quality issue,Meesho,1,3
+R00194,O004538,2025-12-30,Sandals,1798.0,Quality issue,Meesho,0,2
+R00195,O006019,2025-12-19,Wrist Watch,13497.0,Quality issue,Amazon,1,3
+R00196,O002615,2025-12-22,Running Shoes,9897.0,Refused at delivery,Meesho,1,3
+R00197,O006932,2025-12-22,Classic Tee,499.0,Not as described,Flipkart,0,1
+R00198,O007232,2025-12-25,Denim Jacket,2499.0,Changed mind,Website,0,1
+R00199,O007438,2025-12-21,Hoodie,1799.0,Damaged in transit,WhatsApp,0,1
+R00200,O008887,2025-12-22,Hoodie,1799.0,Refused at delivery,Flipkart,1,1
+R00201,O009197,2025-12-22,Sneakers,2799.0,Size or fit,Meesho,1,1
+R00202,O001689,2025-12-24,Cap,349.0,Quality issue,Amazon,0,1
+R00203,O002019,2025-12-20,Classic Tee,499.0,Damaged in transit,Meesho,0,1
+R00204,O002955,2025-12-22,Sneakers,5598.0,Refused at delivery,WhatsApp,1,2
+R00205,O003969,2025-12-24,Classic Tee,1497.0,Refused at delivery,WhatsApp,1,3
+R00206,O003983,2025-12-27,Sandals,899.0,Size or fit,Meesho,1,1
+R00207,O005080,2025-12-24,Running Shoes,9897.0,Damaged in transit,Amazon,0,3
+R00208,O008496,2025-12-24,Sneakers,5598.0,Size or fit,Flipkart,0,2
+R00209,O001990,2025-12-21,Cap,1047.0,Damaged in transit,Meesho,1,3
+R00210,O002927,2025-12-21,Denim Jacket,2499.0,Refused at delivery,Flipkart,1,1
+R00211,O004697,2026-01-01,Sneakers,8397.0,Not as described,Amazon,0,3
+R00212,O005290,2025-12-26,Sandals,899.0,Quality issue,Meesho,0,1
+R00213,O007193,2025-12-24,Sandals,2697.0,Quality issue,Website,0,3
+R00214,O008454,2025-12-30,Sunglasses,1299.0,Refused at delivery,Meesho,1,1
+R00215,O008985,2025-12-30,Denim Jacket,7497.0,Size or fit,WhatsApp,0,3
+R00216,O001617,2025-12-22,Hoodie,1799.0,Size or fit,Website,0,1
+R00217,O002243,2026-01-01,Sneakers,5598.0,Size or fit,Website,0,2
+R00218,O004100,2025-12-27,Denim Jacket,7497.0,Changed mind,Meesho,0,3
+R00219,O006449,2025-12-31,Hoodie,3598.0,Changed mind,Amazon,0,2
+R00220,O011030,2025-12-23,Sandals,899.0,Not as described,Website,0,1
+R00221,O001919,2025-12-23,Backpack,4797.0,Refused at delivery,Website,1,3
+R00222,O001919,2025-12-25,Hoodie,1799.0,Refused at delivery,Flipkart,1,1
+R00223,O002103,2025-12-29,Running Shoes,6598.0,Refused at delivery,Website,1,2
+R00224,O002354,2025-12-30,Sandals,2697.0,Size or fit,Website,0,3
+R00225,O010137,2025-12-27,Sandals,2697.0,Not as described,Meesho,0,3
+R00226,O011421,2026-01-03,Sandals,1798.0,Refused at delivery,Flipkart,1,2
+R00227,O002291,2026-01-03,Sandals,2697.0,Refused at delivery,Flipkart,1,3
+R00228,O002573,2026-01-01,Cap,698.0,Size or fit,Flipkart,0,2
+R00229,O003184,2025-12-29,Running Shoes,9897.0,Refused at delivery,Flipkart,1,3
+R00230,O003239,2026-01-01,Sneakers,5598.0,Quality issue,Amazon,0,2
+R00231,O004293,2026-01-02,Classic Tee,499.0,Not as described,Flipkart,0,1
+R00232,O004430,2026-01-04,Sneakers,5598.0,Size or fit,Website,0,2
+R00233,O005038,2026-01-05,Cap,698.0,Size or fit,Flipkart,0,2
+R00234,O006143,2025-12-30,Denim Jacket,7497.0,Changed mind,Website,0,3
+R00235,O006853,2025-12-24,Backpack,1599.0,Changed mind,Flipkart,0,1
+R00236,O009476,2025-12-30,Cap,698.0,Not as described,WhatsApp,1,2
+R00237,O010045,2025-12-27,Running Shoes,9897.0,Quality issue,Website,0,3
+R00238,O001808,2025-12-25,Classic Tee,1497.0,Quality issue,Meesho,0,3
+R00239,O005349,2025-12-27,Backpack,1599.0,Size or fit,Flipkart,1,1
+R00240,O010355,2025-12-28,Sandals,2697.0,Quality issue,WhatsApp,0,3
+R00241,O001824,2025-12-28,Hoodie,5397.0,Quality issue,Meesho,0,3
+R00242,O002766,2026-01-01,Cap,349.0,Refused at delivery,Meesho,1,1
+R00243,O003803,2026-01-04,Running Shoes,9897.0,Refused at delivery,Website,1,3
+R00244,O005786,2026-01-06,Sneakers,8397.0,Refused at delivery,Meesho,1,3
+R00245,O006988,2026-01-06,Backpack,4797.0,Quality issue,Amazon,1,3
+R00246,O011524,2026-01-06,Sneakers,2799.0,Quality issue,Website,1,1
+R00247,O003194,2025-12-27,Cap,349.0,Damaged in transit,Meesho,1,1
+R00248,O010789,2025-12-31,Sandals,1798.0,Refused at delivery,Website,1,2
+R00249,O010934,2025-12-28,Cap,349.0,Refused at delivery,WhatsApp,1,1
+R00250,O001013,2026-01-09,Denim Jacket,2499.0,Refused at delivery,Website,1,1
+R00251,O001211,2026-01-07,Sunglasses,2598.0,Not as described,Meesho,1,2
+R00252,O002169,2025-12-31,Classic Tee,1497.0,Size or fit,Flipkart,0,3
+R00253,O007392,2025-12-29,Running Shoes,9897.0,Refused at delivery,Flipkart,1,3
+R00254,O009853,2026-01-08,Cap,1047.0,Changed mind,Meesho,0,3
+R00255,O010852,2026-01-01,Cap,1047.0,Size or fit,Meesho,0,3
+R00256,O004819,2026-01-08,Cap,698.0,Quality issue,Amazon,1,2
+R00257,O010170,2026-01-09,Denim Jacket,7497.0,Not as described,Website,0,3
+R00258,O011740,2026-01-10,Hoodie,5397.0,Damaged in transit,Flipkart,0,3
+R00259,O001484,2025-12-30,Running Shoes,9897.0,Refused at delivery,Website,1,3
+R00260,O004254,2026-01-05,Running Shoes,9897.0,Size or fit,Flipkart,1,3
+R00261,O007734,2026-01-07,Sandals,899.0,Refused at delivery,Meesho,1,1
+R00262,O011143,2026-01-03,Sneakers,8397.0,Size or fit,Amazon,1,3
+R00263,O011343,2026-01-06,Denim Jacket,4998.0,Damaged in transit,Meesho,0,2
+R00264,O004533,2026-01-04,Sandals,2697.0,Not as described,Meesho,0,3
+R00265,O007286,2026-01-11,Denim Jacket,4998.0,Size or fit,Flipkart,1,2
+R00266,O007787,2026-01-12,Running Shoes,3299.0,Quality issue,Website,0,1
+R00267,O008281,2025-12-31,Backpack,4797.0,Changed mind,Website,0,3
+R00268,O011222,2026-01-09,Sneakers,8397.0,Not as described,Website,0,3
+R00269,O002439,2026-01-11,Backpack,3198.0,Changed mind,Meesho,1,2
+R00270,O004608,2026-01-12,Hoodie,3598.0,Damaged in transit,Amazon,0,2
+R00271,O010609,2026-01-08,Running Shoes,3299.0,Changed mind,Meesho,0,1
+R00272,O010609,2026-01-06,Sandals,2697.0,Refused at delivery,WhatsApp,1,3
+R00273,O002972,2026-01-09,Sunglasses,2598.0,Damaged in transit,Amazon,0,2
+R00274,O003369,2026-01-10,Hoodie,3598.0,Quality issue,WhatsApp,1,2
+R00275,O005115,2026-01-07,Sneakers,8397.0,Refused at delivery,Meesho,1,3
+R00276,O006248,2026-01-11,Running Shoes,9897.0,Not as described,Website,0,3
+R00277,O009615,2026-01-14,Cap,1047.0,Quality issue,Website,0,3
+R00278,O009936,2026-01-12,Classic Tee,1497.0,Changed mind,Amazon,1,3
+R00279,O011012,2026-01-12,Hoodie,5397.0,Refused at delivery,Meesho,1,3
+R00280,O001385,2026-01-03,Hoodie,5397.0,Refused at delivery,Flipkart,1,3
+R00281,O002083,2026-01-11,Sunglasses,1299.0,Damaged in transit,Website,0,1
+R00282,O002554,2026-01-09,Sunglasses,1299.0,Refused at delivery,Flipkart,1,1
+R00283,O004202,2026-01-08,Backpack,1599.0,Damaged in transit,WhatsApp,0,1
+R00284,O004575,2026-01-04,Sneakers,2799.0,Refused at delivery,Amazon,1,1
+R00285,O000546,2026-01-05,Sneakers,8397.0,Not as described,Website,0,3
+R00286,O002020,2026-01-15,Denim Jacket,4998.0,Not as described,Website,0,2
+R00287,O002493,2026-01-14,Denim Jacket,7497.0,Changed mind,WhatsApp,0,3
+R00288,O002493,2026-01-06,Classic Tee,499.0,Changed mind,WhatsApp,0,1
+R00289,O005328,2026-01-06,Sneakers,5598.0,Not as described,Meesho,0,2
+R00290,O005915,2026-01-15,Backpack,4797.0,Damaged in transit,Amazon,0,3
+R00291,O002134,2026-01-05,Denim Jacket,2499.0,Not as described,Amazon,1,1
+R00292,O003506,2026-01-11,Sneakers,2799.0,Refused at delivery,Amazon,1,1
+R00293,O004815,2026-01-09,Sneakers,8397.0,Not as described,Flipkart,0,3
+R00294,O007002,2026-01-13,Denim Jacket,2499.0,Not as described,Website,0,1
+R00295,O010508,2026-01-10,Running Shoes,3299.0,Not as described,Meesho,0,1
+R00296,O011045,2026-01-08,Cap,698.0,Damaged in transit,Website,1,2
+R00297,O011196,2026-01-07,Denim Jacket,2499.0,Refused at delivery,WhatsApp,1,1
+R00298,O000606,2026-01-06,Classic Tee,1497.0,Quality issue,WhatsApp,1,3
+R00299,O002313,2026-01-10,Sandals,899.0,Quality issue,Amazon,0,1
+R00300,O004288,2026-01-09,Denim Jacket,2499.0,Not as described,Website,0,1
+R00301,O008932,2026-01-14,Sneakers,8397.0,Quality issue,Amazon,0,3
+R00302,O010711,2026-01-18,Sandals,899.0,Quality issue,Meesho,0,1
+R00303,O000061,2026-01-19,Hoodie,1799.0,Changed mind,Amazon,0,1
+R00304,O004110,2026-01-15,Sandals,1798.0,Not as described,Website,0,2
+R00305,O004442,2026-01-08,Denim Jacket,7497.0,Changed mind,Amazon,0,3
+R00306,O006870,2026-01-15,Sandals,899.0,Not as described,Amazon,0,1
+R00307,O007938,2026-01-10,Classic Tee,499.0,Quality issue,Flipkart,0,1
+R00308,O010421,2026-01-10,Classic Tee,499.0,Damaged in transit,Website,0,1
+R00309,O010579,2026-01-12,Sneakers,5598.0,Size or fit,Flipkart,1,2
+R00310,O001021,2026-01-13,Hoodie,3598.0,Quality issue,Meesho,1,2
+R00311,O001995,2026-01-09,Classic Tee,1497.0,Size or fit,Website,0,3
+R00312,O004413,2026-01-19,Hoodie,5397.0,Damaged in transit,Meesho,1,3
+R00313,O006103,2026-01-10,Hoodie,3598.0,Not as described,Flipkart,0,2
+R00314,O007340,2026-01-16,Sneakers,5598.0,Size or fit,Website,0,2
+R00315,O008096,2026-01-19,Sneakers,5598.0,Refused at delivery,WhatsApp,1,2
+R00316,O001159,2026-01-17,Denim Jacket,2499.0,Refused at delivery,Meesho,1,1
+R00317,O003381,2026-01-19,Classic Tee,998.0,Changed mind,WhatsApp,0,2
+R00318,O003517,2026-01-21,Sneakers,8397.0,Size or fit,Flipkart,0,3
+R00319,O003624,2026-01-13,Denim Jacket,7497.0,Quality issue,Flipkart,0,3
+R00320,O003788,2026-01-21,Backpack,1599.0,Size or fit,WhatsApp,0,1
+R00321,O006406,2026-01-18,Sneakers,5598.0,Not as described,Website,0,2
+R00322,O011021,2026-01-17,Hoodie,5397.0,Size or fit,Flipkart,0,3
+R00323,O011253,2026-01-12,Classic Tee,1497.0,Size or fit,Website,1,3
+R00324,O000730,2026-01-15,Cap,1047.0,Size or fit,Amazon,0,3
+R00325,O008852,2026-01-15,Hoodie,3598.0,Quality issue,WhatsApp,1,2
+R00326,O002618,2026-01-14,Classic Tee,998.0,Not as described,Website,0,2
+R00327,O003199,2026-01-12,Running Shoes,6598.0,Changed mind,WhatsApp,0,2
+R00328,O005154,2026-01-17,Backpack,4797.0,Size or fit,Meesho,1,3
+R00329,O005154,2026-01-15,Sneakers,8397.0,Size or fit,Flipkart,0,3
+R00330,O011366,2026-01-17,Hoodie,3598.0,Damaged in transit,Amazon,0,2
+R00331,O000782,2026-01-19,Backpack,4797.0,Damaged in transit,Flipkart,0,3
+R00332,O002251,2026-01-23,Sandals,899.0,Not as described,Website,1,1
+R00333,O005795,2026-01-23,Sneakers,2799.0,Quality issue,WhatsApp,0,1
+R00334,O005799,2026-01-18,Sneakers,5598.0,Size or fit,Website,0,2
+R00335,O007456,2026-01-15,Sunglasses,1299.0,Size or fit,Amazon,0,1
+R00336,O005007,2026-01-21,Sneakers,5598.0,Refused at delivery,Meesho,1,2
+R00337,O009988,2026-01-24,Sneakers,2799.0,Size or fit,Meesho,1,1
+R00338,O004123,2026-01-23,Cap,1047.0,Quality issue,Meesho,1,3
+R00339,O007283,2026-01-26,Denim Jacket,4998.0,Not as described,Amazon,0,2
+R00340,O007283,2026-01-14,Classic Tee,499.0,Refused at delivery,Meesho,1,1
+R00341,O010342,2026-01-26,Classic Tee,998.0,Quality issue,Meesho,0,2
+R00342,O000105,2026-01-26,Running Shoes,6598.0,Refused at delivery,Website,1,2
+R00343,O000584,2026-01-18,Classic Tee,998.0,Refused at delivery,Meesho,1,2
+R00344,O000584,2026-01-27,Hoodie,5397.0,Changed mind,Website,0,3
+R00345,O003844,2026-01-19,Classic Tee,499.0,Damaged in transit,Meesho,1,1
+R00346,O007412,2026-01-23,Hoodie,5397.0,Damaged in transit,Meesho,1,3
+R00347,O004750,2026-01-22,Classic Tee,998.0,Changed mind,Flipkart,0,2
+R00348,O005701,2026-01-25,Classic Tee,1497.0,Quality issue,Website,0,3
+R00349,O007472,2026-01-20,Denim Jacket,7497.0,Quality issue,Amazon,0,3
+R00350,O005691,2026-01-24,Sneakers,8397.0,Size or fit,Website,0,3
+R00351,O006869,2026-01-18,Backpack,4797.0,Not as described,Amazon,0,3
+R00352,O009034,2026-01-25,Classic Tee,499.0,Refused at delivery,Website,1,1
+R00353,O010439,2026-01-29,Hoodie,3598.0,Quality issue,Website,1,2
+R00354,O010439,2026-01-25,Sandals,899.0,Quality issue,Website,0,1
+R00355,O000530,2026-01-19,Hoodie,3598.0,Not as described,Website,0,2
+R00356,O007381,2026-01-26,Sandals,1798.0,Refused at delivery,Amazon,1,2
+R00357,O007440,2026-01-30,Hoodie,3598.0,Size or fit,Website,1,2
+R00358,O011607,2026-01-30,Running Shoes,3299.0,Quality issue,Website,0,1
+R00359,O011966,2026-01-18,Running Shoes,6598.0,Quality issue,WhatsApp,1,2
+R00360,O001730,2026-01-30,Sneakers,8397.0,Not as described,Website,0,3
+R00361,O001938,2026-01-25,Sandals,899.0,Refused at delivery,WhatsApp,1,1
+R00362,O005423,2026-01-20,Sunglasses,3897.0,Size or fit,WhatsApp,0,3
+R00363,O007466,2026-01-30,Sneakers,2799.0,Size or fit,Website,1,1
+R00364,O007628,2026-01-21,Sneakers,2799.0,Size or fit,Website,1,1
+R00365,O009110,2026-01-23,Running Shoes,9897.0,Damaged in transit,Website,0,3
+R00366,O011111,2026-01-31,Cap,349.0,Damaged in transit,Meesho,1,1
+R00367,O001975,2026-01-25,Cap,1047.0,Quality issue,WhatsApp,0,3
+R00368,O005833,2026-01-20,Sneakers,8397.0,Size or fit,Amazon,0,3
+R00369,O007503,2026-01-24,Sneakers,2799.0,Size or fit,WhatsApp,0,1
+R00370,O011000,2026-01-31,Sandals,899.0,Refused at delivery,Website,1,1
+R00371,O011084,2026-01-24,Sneakers,2799.0,Size or fit,Website,0,1
+R00372,O011428,2026-01-28,Classic Tee,1497.0,Quality issue,Flipkart,1,3
+R00373,O011677,2026-01-30,Sneakers,5598.0,Quality issue,Flipkart,1,2
+R00374,O000977,2026-01-26,Sandals,899.0,Size or fit,Flipkart,0,1
+R00375,O001278,2026-01-28,Sneakers,8397.0,Refused at delivery,Flipkart,1,3
+R00376,O001355,2026-01-21,Sneakers,2799.0,Size or fit,Flipkart,1,1
+R00377,O003376,2026-01-29,Cap,1047.0,Quality issue,Website,0,3
+R00378,O004641,2026-01-25,Sneakers,8397.0,Not as described,Meesho,0,3
+R00379,O009986,2026-01-27,Backpack,3198.0,Refused at delivery,Meesho,1,2
+R00380,O011469,2026-01-24,Running Shoes,3299.0,Damaged in transit,Flipkart,1,1
+R00381,O001292,2026-01-26,Sandals,899.0,Size or fit,Amazon,1,1
+R00382,O008124,2026-01-24,Classic Tee,499.0,Damaged in transit,Website,0,1
+R00383,O008581,2026-01-24,Sandals,1798.0,Not as described,Meesho,1,2
+R00384,O008773,2026-01-23,Hoodie,1799.0,Changed mind,WhatsApp,0,1
+R00385,O010030,2026-01-28,Sandals,1798.0,Refused at delivery,Website,1,2
+R00386,O010417,2026-01-27,Sneakers,2799.0,Size or fit,Meesho,1,1
+R00387,O003685,2026-02-02,Hoodie,3598.0,Refused at delivery,Amazon,1,2
+R00388,O006017,2026-02-04,Sandals,2697.0,Refused at delivery,Meesho,1,3
+R00389,O007858,2026-01-23,Hoodie,1799.0,Size or fit,Website,0,1
+R00390,O009805,2026-02-01,Sneakers,5598.0,Size or fit,Meesho,1,2
+R00391,O010524,2026-02-03,Cap,349.0,Damaged in transit,Website,0,1
+R00392,O002447,2026-01-30,Sandals,1798.0,Not as described,Flipkart,0,2
+R00393,O010129,2026-01-24,Backpack,3198.0,Quality issue,Amazon,0,2
+R00394,O011512,2026-01-31,Sandals,1798.0,Refused at delivery,Amazon,1,2
+R00395,O000839,2026-02-04,Classic Tee,1497.0,Size or fit,Flipkart,0,3
+R00396,O001494,2026-02-02,Classic Tee,1497.0,Changed mind,Meesho,0,3
+R00397,O002578,2026-02-05,Cap,1047.0,Damaged in transit,Meesho,0,3
+R00398,O003260,2026-02-01,Cap,698.0,Size or fit,Meesho,1,2
+R00399,O005167,2026-01-25,Running Shoes,9897.0,Size or fit,Website,0,3
+R00400,O006847,2026-01-27,Sandals,1798.0,Not as described,Website,1,2
+R00401,O007095,2026-01-30,Sandals,2697.0,Quality issue,Amazon,0,3
+R00402,O007262,2026-01-31,Classic Tee,499.0,Damaged in transit,Website,0,1
+R00403,O009023,2026-02-05,Classic Tee,1497.0,Damaged in transit,Website,0,3
+R00404,O010413,2026-01-26,Wrist Watch,8998.0,Size or fit,Flipkart,0,2
+R00405,O010974,2026-02-03,Wrist Watch,4499.0,Not as described,Amazon,0,1
+R00406,O002344,2026-02-06,Cap,1047.0,Quality issue,Amazon,0,3
+R00407,O003783,2026-01-30,Hoodie,1799.0,Quality issue,Meesho,0,1
+R00408,O009148,2026-01-28,Sandals,899.0,Size or fit,Amazon,0,1
+R00409,O010198,2026-01-26,Sneakers,5598.0,Size or fit,Flipkart,0,2
+R00410,O010844,2026-02-04,Sunglasses,2598.0,Quality issue,Website,0,2
+R00411,O004099,2026-02-01,Denim Jacket,4998.0,Damaged in transit,Amazon,0,2
+R00412,O006042,2026-02-06,Backpack,3198.0,Quality issue,Amazon,0,2
+R00413,O009056,2026-02-04,Sunglasses,2598.0,Refused at delivery,Website,1,2
+R00414,O003043,2026-01-29,Hoodie,1799.0,Refused at delivery,Meesho,1,1
+R00415,O003563,2026-02-04,Sandals,2697.0,Quality issue,Website,0,3
+R00416,O004007,2026-01-31,Hoodie,1799.0,Size or fit,Flipkart,0,1
+R00417,O004637,2026-01-29,Sneakers,2799.0,Size or fit,Flipkart,1,1
+R00418,O005163,2026-02-01,Classic Tee,998.0,Size or fit,Website,0,2
+R00419,O005929,2026-01-30,Running Shoes,6598.0,Refused at delivery,Meesho,1,2
+R00420,O007580,2026-02-08,Sneakers,8397.0,Not as described,Meesho,1,3
+R00421,O010883,2026-02-01,Running Shoes,6598.0,Refused at delivery,Flipkart,1,2
+R00422,O002438,2026-02-04,Sunglasses,3897.0,Damaged in transit,Website,0,3
+R00423,O002739,2026-01-31,Cap,1047.0,Damaged in transit,Website,0,3
+R00424,O003603,2026-02-05,Sneakers,8397.0,Refused at delivery,Meesho,1,3
+R00425,O004232,2026-02-03,Sneakers,8397.0,Size or fit,Flipkart,0,3
+R00426,O005342,2026-02-05,Sandals,899.0,Not as described,Amazon,0,1
+R00427,O007435,2026-02-06,Running Shoes,6598.0,Quality issue,Flipkart,0,2
+R00428,O007736,2026-01-30,Running Shoes,3299.0,Refused at delivery,Flipkart,1,1
+R00429,O008223,2026-01-31,Sneakers,8397.0,Not as described,Website,0,3
+R00430,O010642,2026-02-02,Classic Tee,499.0,Not as described,WhatsApp,1,1
+R00431,O011818,2026-02-06,Running Shoes,3299.0,Size or fit,Website,0,1
+R00432,O000470,2026-02-08,Sneakers,8397.0,Size or fit,Flipkart,0,3
+R00433,O001300,2026-02-04,Running Shoes,6598.0,Changed mind,Flipkart,0,2
+R00434,O002146,2026-02-08,Sunglasses,1299.0,Refused at delivery,Meesho,1,1
+R00435,O010461,2026-02-09,Hoodie,3598.0,Changed mind,WhatsApp,0,2
+R00436,O003068,2026-02-04,Sneakers,2799.0,Not as described,Flipkart,0,1
+R00437,O003108,2026-02-04,Sunglasses,2598.0,Quality issue,Website,0,2
+R00438,O004122,2026-02-01,Sunglasses,2598.0,Changed mind,Website,0,2
+R00439,O011473,2026-02-09,Sneakers,2799.0,Refused at delivery,WhatsApp,1,1
+R00440,O002202,2026-02-02,Sandals,1798.0,Size or fit,Flipkart,0,2
+R00441,O003765,2026-02-08,Sandals,2697.0,Not as described,WhatsApp,1,3
+R00442,O008521,2026-02-11,Running Shoes,6598.0,Changed mind,Meesho,1,2
+R00443,O009112,2026-02-06,Sunglasses,2598.0,Changed mind,Website,0,2
+R00444,O011876,2026-02-01,Denim Jacket,7497.0,Size or fit,Flipkart,0,3
+R00445,O000298,2026-02-03,Sneakers,2799.0,Not as described,Website,0,1
+R00446,O005530,2026-02-08,Denim Jacket,2499.0,Damaged in transit,Amazon,0,1
+R00447,O007729,2026-02-10,Sandals,1798.0,Refused at delivery,Meesho,1,2
+R00448,O009583,2026-02-05,Sunglasses,3897.0,Quality issue,Website,0,3
+R00449,O010980,2026-02-03,Sandals,899.0,Not as described,Website,0,1
+R00450,O000740,2026-02-07,Running Shoes,9897.0,Refused at delivery,Flipkart,1,3
+R00451,O001713,2026-02-07,Sneakers,5598.0,Size or fit,Amazon,0,2
+R00452,O002854,2026-02-15,Denim Jacket,7497.0,Not as described,Website,1,3
+R00453,O008978,2026-02-03,Sandals,1798.0,Refused at delivery,Meesho,1,2
+R00454,O009433,2026-02-09,Hoodie,3598.0,Damaged in transit,Meesho,0,2
+R00455,O009534,2026-02-03,Running Shoes,6598.0,Changed mind,Amazon,1,2
+R00456,O009923,2026-02-15,Classic Tee,499.0,Size or fit,WhatsApp,1,1
+R00457,O011344,2026-02-15,Running Shoes,6598.0,Changed mind,Website,1,2
+R00458,O011496,2026-02-05,Backpack,1599.0,Size or fit,Flipkart,0,1
+R00459,O001208,2026-02-09,Cap,1047.0,Size or fit,Website,0,3
+R00460,O002069,2026-02-12,Sneakers,5598.0,Quality issue,Website,0,2
+R00461,O002069,2026-02-10,Hoodie,5397.0,Quality issue,Flipkart,0,3
+R00462,O005740,2026-02-15,Sandals,2697.0,Quality issue,Amazon,0,3
+R00463,O000589,2026-02-11,Cap,349.0,Size or fit,Flipkart,1,1
+R00464,O005022,2026-02-05,Cap,698.0,Changed mind,Meesho,0,2
+R00465,O006899,2026-02-09,Sneakers,2799.0,Size or fit,Meesho,0,1
+R00466,O007421,2026-02-11,Hoodie,1799.0,Quality issue,Meesho,1,1
+R00467,O010819,2026-02-07,Sandals,2697.0,Size or fit,WhatsApp,1,3
+R00468,O000700,2026-02-18,Sandals,1798.0,Quality issue,Flipkart,0,2
+R00469,O002728,2026-02-14,Denim Jacket,2499.0,Refused at delivery,Website,1,1
+R00470,O002728,2026-02-11,Running Shoes,9897.0,Damaged in transit,Amazon,0,3
+R00471,O003428,2026-02-17,Running Shoes,3299.0,Changed mind,Flipkart,1,1
+R00472,O004004,2026-02-11,Sneakers,8397.0,Size or fit,Website,0,3
+R00473,O004487,2026-02-08,Hoodie,5397.0,Not as described,Meesho,0,3
+R00474,O005439,2026-02-10,Sandals,1798.0,Size or fit,Flipkart,0,2
+R00475,O011449,2026-02-16,Denim Jacket,2499.0,Refused at delivery,Website,1,1
+R00476,O003117,2026-02-14,Sandals,1798.0,Quality issue,Flipkart,0,2
+R00477,O004780,2026-02-08,Hoodie,5397.0,Not as described,Flipkart,0,3
+R00478,O005382,2026-02-12,Hoodie,5397.0,Size or fit,Amazon,0,3
+R00479,O011024,2026-02-19,Cap,349.0,Not as described,Amazon,0,1
+R00480,O001994,2026-02-09,Running Shoes,9897.0,Size or fit,Amazon,0,3
+R00481,O002009,2026-02-19,Classic Tee,499.0,Not as described,Website,0,1
+R00482,O004615,2026-02-08,Running Shoes,3299.0,Damaged in transit,Amazon,1,1
+R00483,O005697,2026-02-17,Backpack,1599.0,Not as described,Website,0,1
+R00484,O006819,2026-02-17,Sandals,1798.0,Size or fit,Website,1,2
+R00485,O010262,2026-02-14,Hoodie,1799.0,Refused at delivery,Amazon,1,1
+R00486,O003806,2026-02-14,Running Shoes,6598.0,Damaged in transit,Amazon,0,2
+R00487,O005436,2026-02-21,Sandals,1798.0,Refused at delivery,Meesho,1,2
+R00488,O009587,2026-02-15,Denim Jacket,2499.0,Not as described,Website,0,1
+R00489,O000654,2026-02-12,Sneakers,2799.0,Refused at delivery,Flipkart,1,1
+R00490,O001070,2026-02-16,Backpack,4797.0,Damaged in transit,WhatsApp,0,3
+R00491,O003051,2026-02-19,Sandals,899.0,Not as described,Amazon,0,1
+R00492,O004197,2026-02-16,Hoodie,5397.0,Changed mind,Flipkart,0,3
+R00493,O006165,2026-02-11,Sneakers,8397.0,Quality issue,Amazon,1,3
+R00494,O009212,2026-02-19,Running Shoes,9897.0,Size or fit,Website,0,3
+R00495,O009303,2026-02-19,Wrist Watch,8998.0,Damaged in transit,Website,0,2
+R00496,O010109,2026-02-14,Sunglasses,1299.0,Refused at delivery,Amazon,1,1
+R00497,O010402,2026-02-12,Running Shoes,9897.0,Refused at delivery,Flipkart,1,3
+R00498,O001331,2026-02-20,Sandals,2697.0,Quality issue,Meesho,0,3
+R00499,O002850,2026-02-20,Running Shoes,9897.0,Size or fit,Website,0,3
+R00500,O003380,2026-02-19,Backpack,3198.0,Refused at delivery,Meesho,1,2
+R00501,O003926,2026-02-17,Sandals,1798.0,Refused at delivery,Website,1,2
+R00502,O004038,2026-02-22,Classic Tee,998.0,Size or fit,Amazon,0,2
+R00503,O007342,2026-02-11,Hoodie,1799.0,Size or fit,Website,0,1
+R00504,O010274,2026-02-22,Sandals,2697.0,Not as described,Meesho,0,3
+R00505,O010318,2026-02-14,Hoodie,3598.0,Damaged in transit,Meesho,0,2
+R00506,O000543,2026-02-22,Sunglasses,1299.0,Refused at delivery,WhatsApp,1,1
+R00507,O004713,2026-02-15,Backpack,1599.0,Changed mind,Meesho,1,1
+R00508,O004713,2026-02-18,Sandals,899.0,Refused at delivery,WhatsApp,1,1
+R00509,O006394,2026-02-24,Classic Tee,1497.0,Changed mind,Flipkart,0,3
+R00510,O008320,2026-02-24,Sneakers,2799.0,Size or fit,Flipkart,0,1
+R00511,O010611,2026-02-23,Cap,349.0,Not as described,Website,0,1
+R00512,O002068,2026-02-15,Sneakers,5598.0,Size or fit,Flipkart,1,2
+R00513,O007681,2026-02-23,Denim Jacket,2499.0,Size or fit,Meesho,0,1
+R00514,O005043,2026-02-17,Hoodie,1799.0,Damaged in transit,Flipkart,0,1
+R00515,O006176,2026-02-25,Running Shoes,9897.0,Not as described,Website,0,3
+R00516,O006856,2026-02-22,Hoodie,3598.0,Refused at delivery,Amazon,1,2
+R00517,O009542,2026-02-16,Classic Tee,998.0,Not as described,Website,0,2
+R00518,O001436,2026-02-23,Denim Jacket,2499.0,Damaged in transit,Website,1,1
+R00519,O005801,2026-02-24,Backpack,3198.0,Size or fit,Website,1,2
+R00520,O006900,2026-02-17,Sneakers,8397.0,Refused at delivery,Meesho,1,3
+R00521,O008704,2026-02-15,Wrist Watch,4499.0,Changed mind,Website,1,1
+R00522,O004458,2026-02-19,Sunglasses,3897.0,Size or fit,Website,1,3
+R00523,O006244,2026-02-17,Sunglasses,1299.0,Not as described,Website,0,1
+R00524,O006992,2026-02-23,Sandals,1798.0,Refused at delivery,Website,1,2
+R00525,O006996,2026-02-23,Sunglasses,2598.0,Changed mind,Amazon,0,2
+R00526,O009529,2026-02-17,Sandals,2697.0,Refused at delivery,Amazon,1,3
+R00527,O009674,2026-02-26,Denim Jacket,4998.0,Size or fit,Website,0,2
+R00528,O011458,2026-02-25,Denim Jacket,4998.0,Changed mind,Amazon,0,2
+R00529,O001262,2026-02-21,Classic Tee,1497.0,Not as described,Website,0,3
+R00530,O003664,2026-02-26,Denim Jacket,2499.0,Refused at delivery,Website,1,1
+R00531,O005911,2026-02-26,Sneakers,5598.0,Size or fit,Amazon,0,2
+R00532,O007099,2026-02-21,Hoodie,1799.0,Size or fit,Amazon,0,1
+R00533,O009586,2026-02-28,Sneakers,5598.0,Size or fit,Website,0,2
+R00534,O010626,2026-03-01,Classic Tee,998.0,Damaged in transit,Meesho,0,2
+R00535,O010626,2026-02-17,Sandals,899.0,Not as described,Meesho,0,1
+R00536,O011521,2026-02-28,Sneakers,5598.0,Size or fit,Amazon,0,2
+R00537,O011996,2026-02-20,Sandals,1798.0,Size or fit,Flipkart,0,2
+R00538,O002508,2026-02-24,Sandals,1798.0,Quality issue,WhatsApp,0,2
+R00539,O003574,2026-02-27,Sneakers,8397.0,Refused at delivery,Meesho,1,3
+R00540,O005313,2026-02-28,Denim Jacket,7497.0,Damaged in transit,Meesho,1,3
+R00541,O005914,2026-02-26,Sandals,1798.0,Quality issue,Flipkart,0,2
+R00542,O008725,2026-02-19,Sneakers,8397.0,Refused at delivery,Website,1,3
+R00543,O011398,2026-02-20,Sneakers,8397.0,Refused at delivery,Amazon,1,3
+R00544,O002562,2026-02-28,Denim Jacket,2499.0,Not as described,WhatsApp,0,1
+R00545,O006810,2026-02-21,Sneakers,8397.0,Size or fit,Website,0,3
+R00546,O008832,2026-02-24,Hoodie,1799.0,Refused at delivery,Amazon,1,1
+R00547,O010085,2026-02-28,Classic Tee,998.0,Size or fit,Website,1,2
+R00548,O001324,2026-02-20,Hoodie,1799.0,Size or fit,Flipkart,0,1
+R00549,O002143,2026-03-02,Running Shoes,9897.0,Size or fit,Amazon,0,3
+R00550,O004714,2026-02-22,Sneakers,8397.0,Not as described,Meesho,0,3
+R00551,O009882,2026-02-27,Running Shoes,9897.0,Size or fit,Website,1,3
+R00552,O000338,2026-02-22,Sandals,2697.0,Quality issue,Meesho,1,3
+R00553,O000617,2026-02-26,Sneakers,2799.0,Quality issue,Amazon,0,1
+R00554,O004584,2026-02-26,Cap,1047.0,Changed mind,Amazon,0,3
+R00555,O007583,2026-02-22,Cap,349.0,Damaged in transit,Amazon,0,1
+R00556,O008782,2026-02-28,Denim Jacket,2499.0,Damaged in transit,Website,0,1
+R00557,O010714,2026-02-28,Running Shoes,9897.0,Changed mind,Amazon,1,3
+R00558,O002390,2026-02-27,Sneakers,5598.0,Size or fit,Flipkart,0,2
+R00559,O004920,2026-02-25,Cap,349.0,Quality issue,Amazon,0,1
+R00560,O002768,2026-02-24,Denim Jacket,2499.0,Refused at delivery,Meesho,1,1
+R00561,O004336,2026-02-26,Sandals,899.0,Quality issue,Amazon,0,1
+R00562,O007639,2026-03-07,Classic Tee,998.0,Not as described,Website,0,2
+R00563,O010345,2026-02-26,Sandals,899.0,Size or fit,Flipkart,0,1
+R00564,O011736,2026-03-05,Classic Tee,998.0,Damaged in transit,Flipkart,0,2
+R00565,O002319,2026-02-26,Sneakers,8397.0,Not as described,WhatsApp,1,3
+R00566,O004157,2026-03-03,Sandals,2697.0,Quality issue,Flipkart,0,3
+R00567,O007210,2026-02-27,Sneakers,2799.0,Size or fit,Meesho,0,1
+R00568,O007866,2026-03-05,Sneakers,5598.0,Size or fit,Amazon,1,2
+R00569,O008479,2026-02-27,Sunglasses,3897.0,Refused at delivery,Flipkart,1,3
+R00570,O008806,2026-03-08,Hoodie,1799.0,Changed mind,Amazon,0,1
+R00571,O009189,2026-02-28,Denim Jacket,4998.0,Refused at delivery,Meesho,1,2
+R00572,O009189,2026-02-25,Sandals,899.0,Size or fit,Website,0,1
+R00573,O000545,2026-02-25,Running Shoes,9897.0,Refused at delivery,Amazon,1,3
+R00574,O000741,2026-03-05,Sneakers,2799.0,Not as described,Website,0,1
+R00575,O004170,2026-03-02,Wrist Watch,13497.0,Refused at delivery,Flipkart,1,3
+R00576,O006444,2026-03-09,Sandals,1798.0,Refused at delivery,Meesho,1,2
+R00577,O011324,2026-03-02,Cap,1047.0,Refused at delivery,Meesho,1,3
+R00578,O002457,2026-03-06,Sandals,2697.0,Quality issue,Amazon,0,3
+R00579,O003407,2026-03-07,Sandals,2697.0,Quality issue,Amazon,1,3
+R00580,O003700,2026-03-07,Hoodie,1799.0,Quality issue,Meesho,0,1
+R00581,O006672,2026-02-28,Backpack,1599.0,Refused at delivery,Amazon,1,1
+R00582,O006762,2026-03-02,Sneakers,8397.0,Refused at delivery,WhatsApp,1,3
+R00583,O009268,2026-03-02,Sneakers,5598.0,Quality issue,Amazon,0,2
+R00584,O011257,2026-02-26,Cap,698.0,Quality issue,Meesho,1,2
+R00585,O005470,2026-03-06,Hoodie,5397.0,Refused at delivery,Meesho,1,3
+R00586,O006455,2026-03-09,Classic Tee,998.0,Refused at delivery,Meesho,1,2
+R00587,O000081,2026-03-06,Sandals,2697.0,Not as described,WhatsApp,1,3
+R00588,O000368,2026-03-03,Sneakers,8397.0,Refused at delivery,WhatsApp,1,3
+R00589,O002054,2026-03-02,Sandals,899.0,Not as described,Website,0,1
+R00590,O003007,2026-03-05,Sneakers,5598.0,Not as described,Meesho,1,2
+R00591,O005623,2026-03-11,Backpack,1599.0,Not as described,Meesho,1,1
+R00592,O010254,2026-03-12,Running Shoes,6598.0,Refused at delivery,Website,1,2
+R00593,O000393,2026-03-05,Backpack,3198.0,Quality issue,WhatsApp,0,2
+R00594,O000682,2026-03-03,Classic Tee,998.0,Quality issue,Meesho,0,2
+R00595,O001734,2026-03-06,Sneakers,5598.0,Size or fit,Meesho,0,2
+R00596,O002677,2026-03-11,Sandals,1798.0,Not as described,Amazon,0,2
+R00597,O004986,2026-03-08,Hoodie,3598.0,Quality issue,Website,0,2
+R00598,O006214,2026-03-12,Sneakers,2799.0,Size or fit,Amazon,0,1
+R00599,O009042,2026-03-12,Running Shoes,6598.0,Not as described,Flipkart,0,2
+R00600,O009113,2026-03-03,Backpack,4797.0,Size or fit,Website,1,3
+R00601,O000229,2026-03-12,Hoodie,3598.0,Not as described,WhatsApp,1,2
+R00602,O000725,2026-03-07,Running Shoes,3299.0,Size or fit,Amazon,0,1
+R00603,O000939,2026-03-11,Classic Tee,499.0,Not as described,WhatsApp,0,1
+R00604,O001721,2026-03-05,Classic Tee,998.0,Not as described,Website,0,2
+R00605,O001788,2026-03-05,Classic Tee,1497.0,Changed mind,Website,1,3
+R00606,O005602,2026-03-05,Denim Jacket,4998.0,Quality issue,Website,0,2
+R00607,O007221,2026-03-04,Running Shoes,3299.0,Quality issue,WhatsApp,0,1
+R00608,O009464,2026-03-06,Sneakers,5598.0,Not as described,Amazon,0,2
+R00609,O008409,2026-03-15,Running Shoes,9897.0,Damaged in transit,Meesho,1,3
+R00610,O011630,2026-03-15,Denim Jacket,2499.0,Size or fit,Flipkart,0,1
+R00611,O005262,2026-03-05,Sneakers,8397.0,Quality issue,Flipkart,0,3
+R00612,O007418,2026-03-11,Sneakers,8397.0,Quality issue,Meesho,0,3
+R00613,O008506,2026-03-11,Classic Tee,998.0,Size or fit,Meesho,0,2
+R00614,O008597,2026-03-09,Classic Tee,499.0,Damaged in transit,Website,0,1
+R00615,O000609,2026-03-11,Sneakers,5598.0,Not as described,Meesho,1,2
+R00616,O000790,2026-03-14,Denim Jacket,2499.0,Not as described,Flipkart,0,1
+R00617,O002852,2026-03-15,Classic Tee,1497.0,Not as described,Website,1,3
+R00618,O005205,2026-03-08,Sneakers,5598.0,Size or fit,Amazon,1,2
+R00619,O005365,2026-03-05,Hoodie,1799.0,Damaged in transit,Amazon,0,1
+R00620,O005535,2026-03-16,Sneakers,5598.0,Not as described,Meesho,0,2
+R00621,O007896,2026-03-08,Sunglasses,1299.0,Refused at delivery,Website,1,1
+R00622,O008251,2026-03-16,Cap,349.0,Quality issue,Amazon,0,1
+R00623,O009019,2026-03-09,Hoodie,1799.0,Refused at delivery,Flipkart,1,1
+R00624,O009731,2026-03-14,Sunglasses,2598.0,Size or fit,Website,0,2
+R00625,O006557,2026-03-07,Backpack,1599.0,Quality issue,Amazon,0,1
+R00626,O006825,2026-03-17,Denim Jacket,7497.0,Not as described,Amazon,0,3
+R00627,O008429,2026-03-12,Sandals,2697.0,Size or fit,Flipkart,1,3
+R00628,O010286,2026-03-11,Running Shoes,9897.0,Damaged in transit,WhatsApp,1,3
+R00629,O000516,2026-03-16,Sneakers,2799.0,Not as described,WhatsApp,1,1
+R00630,O003857,2026-03-19,Sandals,1798.0,Size or fit,Website,0,2
+R00631,O000106,2026-03-13,Sandals,2697.0,Quality issue,Flipkart,0,3
+R00632,O000906,2026-03-12,Sneakers,5598.0,Quality issue,Meesho,0,2
+R00633,O003050,2026-03-19,Denim Jacket,4998.0,Refused at delivery,Amazon,1,2
+R00634,O008255,2026-03-17,Hoodie,1799.0,Refused at delivery,Amazon,1,1
+R00635,O009788,2026-03-10,Hoodie,3598.0,Not as described,Amazon,0,2
+R00636,O001049,2026-03-16,Hoodie,3598.0,Not as described,Meesho,0,2
+R00637,O001571,2026-03-15,Denim Jacket,7497.0,Changed mind,Website,0,3
+R00638,O002751,2026-03-09,Running Shoes,6598.0,Quality issue,Amazon,0,2
+R00639,O007093,2026-03-21,Hoodie,5397.0,Size or fit,WhatsApp,1,3
+R00640,O007362,2026-03-14,Sandals,2697.0,Quality issue,Amazon,0,3
+R00641,O008616,2026-03-14,Backpack,3198.0,Not as described,Amazon,0,2
+R00642,O000748,2026-03-11,Running Shoes,6598.0,Refused at delivery,WhatsApp,1,2
+R00643,O001778,2026-03-20,Hoodie,3598.0,Changed mind,Flipkart,0,2
+R00644,O005201,2026-03-10,Backpack,4797.0,Changed mind,Flipkart,0,3
+R00645,O007744,2026-03-13,Sandals,1798.0,Refused at delivery,Amazon,1,2
+R00646,O008392,2026-03-17,Classic Tee,499.0,Changed mind,Website,0,1
+R00647,O000713,2026-03-14,Running Shoes,3299.0,Damaged in transit,Website,0,1
+R00648,O001181,2026-03-22,Running Shoes,6598.0,Size or fit,Website,0,2
+R00649,O001181,2026-03-11,Sneakers,2799.0,Quality issue,Website,0,1
+R00650,O001188,2026-03-11,Sneakers,5598.0,Quality issue,Website,0,2
+R00651,O002070,2026-03-16,Denim Jacket,7497.0,Damaged in transit,Website,0,3
+R00652,O002070,2026-03-15,Classic Tee,998.0,Not as described,Meesho,0,2
+R00653,O002224,2026-03-14,Sandals,899.0,Size or fit,Website,0,1
+R00654,O002420,2026-03-13,Backpack,1599.0,Not as described,Amazon,0,1
+R00655,O004420,2026-03-14,Running Shoes,9897.0,Size or fit,Website,0,3
+R00656,O008270,2026-03-23,Hoodie,1799.0,Damaged in transit,Website,0,1
+R00657,O008316,2026-03-14,Denim Jacket,2499.0,Size or fit,Flipkart,0,1
+R00658,O008959,2026-03-20,Hoodie,1799.0,Refused at delivery,Meesho,1,1
+R00659,O009265,2026-03-18,Cap,1047.0,Quality issue,Amazon,0,3
+R00660,O011516,2026-03-12,Running Shoes,3299.0,Not as described,Website,0,1
+R00661,O000080,2026-03-21,Sneakers,8397.0,Quality issue,Flipkart,1,3
+R00662,O001844,2026-03-19,Denim Jacket,2499.0,Not as described,Meesho,0,1
+R00663,O002625,2026-03-16,Sunglasses,1299.0,Quality issue,Flipkart,0,1
+R00664,O004644,2026-03-18,Hoodie,3598.0,Refused at delivery,WhatsApp,1,2
+R00665,O005727,2026-03-21,Classic Tee,1497.0,Size or fit,Website,0,3
+R00666,O005931,2026-03-12,Backpack,3198.0,Size or fit,Amazon,0,2
+R00667,O006191,2026-03-23,Sandals,2697.0,Refused at delivery,Website,1,3
+R00668,O009149,2026-03-18,Wrist Watch,4499.0,Size or fit,Flipkart,0,1
+R00669,O002940,2026-03-21,Denim Jacket,4998.0,Quality issue,Website,0,2
+R00670,O007398,2026-03-23,Sunglasses,3897.0,Quality issue,Flipkart,0,3
+R00671,O009207,2026-03-22,Hoodie,3598.0,Damaged in transit,Website,0,2
+R00672,O009580,2026-03-25,Cap,1047.0,Changed mind,Flipkart,0,3
+R00673,O009820,2026-03-23,Sandals,2697.0,Not as described,Flipkart,0,3
+R00674,O009975,2026-03-13,Denim Jacket,7497.0,Changed mind,Website,0,3
+R00675,O010567,2026-03-23,Classic Tee,1497.0,Damaged in transit,Website,1,3
+R00676,O011454,2026-03-16,Classic Tee,1497.0,Damaged in transit,Meesho,1,3
+R00677,O006009,2026-03-19,Sneakers,8397.0,Refused at delivery,Flipkart,1,3
+R00678,O007915,2026-03-16,Sneakers,8397.0,Not as described,Website,1,3
+R00679,O011918,2026-03-25,Denim Jacket,4998.0,Quality issue,Website,0,2
+R00680,O000739,2026-03-19,Sandals,2697.0,Size or fit,Meesho,0,3
+R00681,O003090,2026-03-25,Running Shoes,3299.0,Not as described,Website,1,1
+R00682,O010811,2026-03-26,Sunglasses,2598.0,Changed mind,Amazon,0,2
+R00683,O000022,2026-03-16,Cap,349.0,Quality issue,Website,1,1
+R00684,O000157,2026-03-21,Cap,349.0,Not as described,Website,0,1
+R00685,O002274,2026-03-19,Sandals,1798.0,Size or fit,Website,0,2
+R00686,O004598,2026-03-26,Backpack,1599.0,Refused at delivery,WhatsApp,1,1
+R00687,O010063,2026-03-17,Cap,349.0,Size or fit,Amazon,0,1
+R00688,O011633,2026-03-19,Sandals,2697.0,Not as described,Meesho,0,3
+R00689,O000259,2026-03-18,Denim Jacket,4998.0,Quality issue,Amazon,0,2
+R00690,O001905,2026-03-19,Hoodie,5397.0,Damaged in transit,Website,0,3
+R00691,O006292,2026-03-25,Sunglasses,3897.0,Refused at delivery,Website,1,3
+R00692,O007836,2026-03-19,Hoodie,3598.0,Not as described,Amazon,0,2
+R00693,O008987,2026-03-20,Denim Jacket,2499.0,Not as described,Amazon,1,1
+R00694,O009742,2026-03-27,Sandals,1798.0,Not as described,Meesho,1,2
+R00695,O010148,2026-03-22,Backpack,3198.0,Refused at delivery,Meesho,1,2
+R00696,O000936,2026-03-28,Cap,1047.0,Damaged in transit,Amazon,0,3
+R00697,O002970,2026-03-20,Sneakers,2799.0,Not as described,Flipkart,0,1
+R00698,O003884,2026-03-20,Denim Jacket,2499.0,Quality issue,Flipkart,1,1
+R00699,O003892,2026-03-21,Sandals,2697.0,Refused at delivery,Meesho,1,3
+R00700,O010028,2026-03-23,Backpack,1599.0,Not as described,Website,0,1
+R00701,O011500,2026-03-26,Denim Jacket,7497.0,Damaged in transit,WhatsApp,1,3
+R00702,O006032,2026-03-26,Denim Jacket,2499.0,Not as described,Website,0,1
+R00703,O011901,2026-03-20,Sneakers,2799.0,Size or fit,Flipkart,0,1
+R00704,O003801,2026-04-01,Cap,1047.0,Size or fit,WhatsApp,1,3
+R00705,O009571,2026-03-29,Sandals,2697.0,Size or fit,Amazon,0,3
+R00706,O000923,2026-03-31,Sandals,1798.0,Quality issue,Meesho,0,2
+R00707,O004231,2026-03-23,Running Shoes,3299.0,Damaged in transit,Amazon,0,1
+R00708,O006669,2026-03-30,Sneakers,8397.0,Size or fit,Meesho,1,3
+R00709,O009771,2026-03-31,Running Shoes,9897.0,Quality issue,Website,0,3
+R00710,O001196,2026-03-30,Backpack,4797.0,Changed mind,Flipkart,0,3
+R00711,O003667,2026-03-30,Sandals,1798.0,Not as described,Website,1,2
+R00712,O005629,2026-03-30,Denim Jacket,4998.0,Refused at delivery,WhatsApp,1,2
+R00713,O007526,2026-03-24,Sunglasses,1299.0,Damaged in transit,Amazon,1,1
+R00714,O007526,2026-03-27,Running Shoes,6598.0,Refused at delivery,WhatsApp,1,2
+R00715,O011520,2026-03-31,Hoodie,3598.0,Quality issue,Website,0,2
+R00716,O001725,2026-03-30,Classic Tee,998.0,Not as described,Website,0,2
+R00717,O003507,2026-03-25,Cap,349.0,Quality issue,Website,0,1
+R00718,O003762,2026-03-30,Denim Jacket,2499.0,Refused at delivery,Website,1,1
+R00719,O004286,2026-03-23,Hoodie,5397.0,Quality issue,Meesho,0,3
+R00720,O005206,2026-03-28,Sneakers,5598.0,Refused at delivery,Meesho,1,2
+R00721,O005709,2026-03-26,Sneakers,8397.0,Refused at delivery,Amazon,1,3
+R00722,O006336,2026-03-24,Sandals,899.0,Not as described,Meesho,1,1
+R00723,O007071,2026-03-28,Sandals,1798.0,Quality issue,Website,0,2
+R00724,O008870,2026-03-27,Sandals,899.0,Quality issue,Website,0,1
+R00725,O010009,2026-03-27,Backpack,4797.0,Refused at delivery,Website,1,3
+R00726,O010702,2026-04-01,Sunglasses,2598.0,Quality issue,Website,1,2
+R00727,O002541,2026-03-30,Hoodie,5397.0,Changed mind,WhatsApp,1,3
+R00728,O004002,2026-03-25,Denim Jacket,2499.0,Changed mind,Meesho,1,1
+R00729,O004310,2026-03-24,Hoodie,1799.0,Not as described,Meesho,1,1
+R00730,O005703,2026-04-02,Sneakers,8397.0,Quality issue,WhatsApp,0,3
+R00731,O007842,2026-03-25,Cap,698.0,Not as described,Website,0,2
+R00732,O008170,2026-03-31,Denim Jacket,4998.0,Not as described,Flipkart,1,2
+R00733,O008934,2026-04-05,Sneakers,2799.0,Refused at delivery,Flipkart,1,1
+R00734,O010520,2026-03-25,Classic Tee,1497.0,Refused at delivery,WhatsApp,1,3
+R00735,O011649,2026-03-27,Running Shoes,9897.0,Changed mind,Amazon,0,3
+R00736,O011673,2026-03-28,Cap,698.0,Changed mind,Amazon,1,2
+R00737,O011783,2026-04-03,Hoodie,3598.0,Quality issue,Amazon,1,2
+R00738,O001363,2026-04-03,Cap,698.0,Changed mind,Website,0,2
+R00739,O001473,2026-03-26,Running Shoes,6598.0,Not as described,Amazon,0,2
+R00740,O003981,2026-04-03,Hoodie,5397.0,Changed mind,Meesho,0,3
+R00741,O005967,2026-04-02,Running Shoes,9897.0,Size or fit,Website,0,3
+R00742,O009741,2026-03-29,Running Shoes,9897.0,Size or fit,Website,0,3
+R00743,O010036,2026-03-25,Sneakers,8397.0,Not as described,WhatsApp,1,3
+R00744,O010721,2026-04-04,Wrist Watch,13497.0,Refused at delivery,Website,1,3
+R00745,O011211,2026-03-29,Hoodie,1799.0,Size or fit,Amazon,1,1
+R00746,O011355,2026-03-28,Denim Jacket,2499.0,Changed mind,Website,0,1
+R00747,O003404,2026-04-03,Hoodie,1799.0,Size or fit,Amazon,0,1
+R00748,O007560,2026-03-31,Hoodie,1799.0,Not as described,WhatsApp,0,1
+R00749,O001126,2026-04-04,Hoodie,1799.0,Not as described,Flipkart,1,1
+R00750,O003185,2026-03-27,Sneakers,8397.0,Size or fit,Meesho,1,3
+R00751,O006641,2026-03-30,Cap,698.0,Changed mind,WhatsApp,0,2
+R00752,O009666,2026-04-02,Hoodie,3598.0,Not as described,Flipkart,1,2
+R00753,O011231,2026-04-03,Classic Tee,1497.0,Changed mind,Website,0,3
+R00754,O011787,2026-04-02,Hoodie,3598.0,Quality issue,Website,0,2
+R00755,O002937,2026-03-31,Denim Jacket,4998.0,Not as described,WhatsApp,0,2
+R00756,O005499,2026-04-04,Hoodie,3598.0,Changed mind,Website,0,2
+R00757,O006120,2026-03-31,Running Shoes,9897.0,Quality issue,Flipkart,0,3
+R00758,O007228,2026-03-29,Sneakers,8397.0,Size or fit,Amazon,0,3
+R00759,O007679,2026-04-03,Sunglasses,3897.0,Not as described,Flipkart,0,3
+R00760,O007802,2026-04-06,Running Shoes,3299.0,Changed mind,Website,0,1
+R00761,O007947,2026-04-08,Classic Tee,1497.0,Refused at delivery,Website,1,3
+R00762,O008023,2026-04-08,Sunglasses,1299.0,Quality issue,Meesho,0,1
+R00763,O008379,2026-04-04,Denim Jacket,4998.0,Changed mind,Amazon,0,2
+R00764,O008873,2026-03-28,Backpack,4797.0,Not as described,Meesho,1,3
+R00765,O010099,2026-04-04,Denim Jacket,2499.0,Size or fit,Flipkart,0,1
+R00766,O010164,2026-03-29,Hoodie,1799.0,Size or fit,Website,0,1
+R00767,O011462,2026-03-29,Running Shoes,3299.0,Damaged in transit,Meesho,1,1
+R00768,O011972,2026-04-01,Sunglasses,3897.0,Changed mind,Amazon,0,3
+R00769,O001044,2026-04-04,Running Shoes,6598.0,Damaged in transit,Website,1,2
+R00770,O001678,2026-04-07,Denim Jacket,7497.0,Size or fit,Meesho,0,3
+R00771,O006356,2026-04-05,Sneakers,2799.0,Quality issue,Meesho,0,1
+R00772,O009970,2026-03-31,Classic Tee,1497.0,Not as described,Website,1,3
+R00773,O009984,2026-03-29,Sneakers,5598.0,Not as described,Flipkart,0,2
+R00774,O000802,2026-03-31,Hoodie,5397.0,Damaged in transit,Amazon,0,3
+R00775,O003440,2026-04-11,Sneakers,5598.0,Size or fit,Website,0,2
+R00776,O004486,2026-04-03,Sunglasses,2598.0,Changed mind,Meesho,0,2
+R00777,O006043,2026-04-08,Sneakers,5598.0,Size or fit,Amazon,0,2
+R00778,O006958,2026-03-31,Backpack,3198.0,Refused at delivery,Website,1,2
+R00779,O011738,2026-04-04,Sneakers,2799.0,Not as described,Website,1,1
+R00780,O000252,2026-04-08,Cap,698.0,Refused at delivery,Flipkart,1,2
+R00781,O001658,2026-04-10,Sunglasses,1299.0,Damaged in transit,Meesho,0,1
+R00782,O005810,2026-04-07,Backpack,3198.0,Size or fit,Website,0,2
+R00783,O006025,2026-04-03,Sneakers,2799.0,Size or fit,WhatsApp,0,1
+R00784,O007277,2026-04-12,Sneakers,2799.0,Size or fit,Website,0,1
+R00785,O009235,2026-04-09,Running Shoes,6598.0,Quality issue,Website,0,2
+R00786,O011980,2026-04-08,Sneakers,5598.0,Quality issue,WhatsApp,0,2
+R00787,O000226,2026-04-08,Denim Jacket,7497.0,Quality issue,Meesho,0,3
+R00788,O001495,2026-04-09,Sneakers,5598.0,Quality issue,Amazon,0,2
+R00789,O002847,2026-04-11,Sneakers,5598.0,Refused at delivery,Meesho,1,2
+R00790,O003846,2026-04-05,Sneakers,8397.0,Quality issue,WhatsApp,0,3
+R00791,O004991,2026-04-11,Backpack,3198.0,Changed mind,Amazon,0,2
+R00792,O005969,2026-04-12,Classic Tee,499.0,Changed mind,Website,0,1
+R00793,O006844,2026-04-02,Cap,1047.0,Size or fit,Website,0,3
+R00794,O011255,2026-04-03,Sneakers,5598.0,Quality issue,Flipkart,0,2
+R00795,O011255,2026-04-11,Running Shoes,6598.0,Quality issue,Website,1,2
+R00796,O000318,2026-04-07,Sandals,1798.0,Not as described,Website,0,2
+R00797,O000319,2026-04-09,Sneakers,8397.0,Size or fit,Website,0,3
+R00798,O001746,2026-04-04,Sneakers,8397.0,Quality issue,Meesho,1,3
+R00799,O004654,2026-04-05,Sandals,899.0,Size or fit,Flipkart,1,1
+R00800,O004733,2026-04-12,Sandals,899.0,Refused at delivery,Website,1,1
+R00801,O006223,2026-04-06,Classic Tee,1497.0,Not as described,WhatsApp,0,3
+R00802,O007220,2026-04-05,Classic Tee,1497.0,Size or fit,Amazon,1,3
+R00803,O008557,2026-04-02,Sneakers,5598.0,Refused at delivery,Amazon,1,2
+R00804,O010587,2026-04-05,Sandals,2697.0,Refused at delivery,Meesho,1,3
+R00805,O000614,2026-04-13,Hoodie,3598.0,Quality issue,Website,0,2
+R00806,O003921,2026-04-15,Hoodie,5397.0,Size or fit,Meesho,1,3
+R00807,O005882,2026-04-09,Hoodie,5397.0,Size or fit,Amazon,1,3
+R00808,O007195,2026-04-09,Cap,698.0,Not as described,Amazon,0,2
+R00809,O008254,2026-04-15,Classic Tee,499.0,Size or fit,Flipkart,0,1
+R00810,O009052,2026-04-07,Sandals,899.0,Quality issue,Meesho,0,1
+R00811,O009398,2026-04-07,Running Shoes,9897.0,Damaged in transit,Amazon,0,3
+R00812,O010006,2026-04-10,Sandals,2697.0,Not as described,WhatsApp,0,3
+R00813,O010070,2026-04-15,Wrist Watch,13497.0,Not as described,Website,0,3
+R00814,O000382,2026-04-15,Classic Tee,998.0,Damaged in transit,Flipkart,0,2
+R00815,O002028,2026-04-10,Backpack,3198.0,Not as described,Flipkart,0,2
+R00816,O002781,2026-04-09,Denim Jacket,2499.0,Damaged in transit,Meesho,0,1
+R00817,O005144,2026-04-06,Sandals,1798.0,Not as described,WhatsApp,0,2
+R00818,O007682,2026-04-13,Hoodie,1799.0,Size or fit,Meesho,1,1
+R00819,O003773,2026-04-10,Hoodie,5397.0,Changed mind,Amazon,0,3
+R00820,O004243,2026-04-13,Classic Tee,1497.0,Refused at delivery,Amazon,1,3
+R00821,O007615,2026-04-14,Sneakers,5598.0,Refused at delivery,Website,1,2
+R00822,O008334,2026-04-10,Sneakers,8397.0,Size or fit,Flipkart,1,3
+R00823,O010232,2026-04-08,Running Shoes,9897.0,Refused at delivery,Meesho,1,3
+R00824,O001586,2026-04-16,Hoodie,1799.0,Refused at delivery,Amazon,1,1
+R00825,O001805,2026-04-07,Running Shoes,9897.0,Refused at delivery,Website,1,3
+R00826,O002544,2026-04-07,Running Shoes,6598.0,Not as described,Website,0,2
+R00827,O004968,2026-04-13,Backpack,1599.0,Refused at delivery,Meesho,1,1
+R00828,O007989,2026-04-12,Sandals,899.0,Size or fit,Meesho,1,1
+R00829,O008051,2026-04-17,Backpack,3198.0,Damaged in transit,Amazon,0,2
+R00830,O008172,2026-04-14,Sandals,1798.0,Quality issue,Website,1,2
+R00831,O011681,2026-04-06,Classic Tee,1497.0,Quality issue,Flipkart,0,3
+R00832,O003261,2026-04-14,Hoodie,3598.0,Quality issue,WhatsApp,1,2
+R00833,O003261,2026-04-16,Cap,349.0,Not as described,Amazon,0,1
+R00834,O005928,2026-04-08,Running Shoes,6598.0,Size or fit,Website,0,2
+R00835,O006337,2026-04-12,Sneakers,5598.0,Not as described,Amazon,0,2
+R00836,O007170,2026-04-17,Sandals,1798.0,Size or fit,Flipkart,0,2
+R00837,O007948,2026-04-17,Hoodie,3598.0,Refused at delivery,Amazon,1,2
+R00838,O010053,2026-04-19,Hoodie,1799.0,Changed mind,Amazon,0,1
+R00839,O000290,2026-04-19,Classic Tee,1497.0,Not as described,Amazon,0,3
+R00840,O000711,2026-04-20,Sandals,899.0,Size or fit,Meesho,0,1
+R00841,O001874,2026-04-10,Cap,698.0,Damaged in transit,Website,1,2
+R00842,O001874,2026-04-15,Running Shoes,9897.0,Size or fit,Meesho,1,3
+R00843,O003798,2026-04-12,Hoodie,3598.0,Refused at delivery,WhatsApp,1,2
+R00844,O005065,2026-04-12,Denim Jacket,4998.0,Size or fit,Amazon,0,2
+R00845,O008085,2026-04-18,Sneakers,5598.0,Quality issue,Flipkart,0,2
+R00846,O008776,2026-04-20,Running Shoes,9897.0,Not as described,Website,1,3
+R00847,O009866,2026-04-15,Denim Jacket,2499.0,Damaged in transit,Website,0,1
+R00848,O009930,2026-04-12,Running Shoes,9897.0,Changed mind,Flipkart,0,3
+R00849,O010349,2026-04-09,Running Shoes,9897.0,Size or fit,Amazon,1,3
+R00850,O010349,2026-04-08,Sandals,2697.0,Quality issue,Website,0,3
+R00851,O010409,2026-04-10,Running Shoes,3299.0,Quality issue,Website,0,1
+R00852,O003204,2026-04-18,Cap,698.0,Size or fit,Meesho,0,2
+R00853,O003204,2026-04-09,Running Shoes,3299.0,Quality issue,Meesho,1,1
+R00854,O003853,2026-04-11,Running Shoes,9897.0,Refused at delivery,Meesho,1,3
+R00855,O006082,2026-04-11,Wrist Watch,13497.0,Refused at delivery,Website,1,3
+R00856,O010840,2026-04-12,Sneakers,8397.0,Size or fit,Meesho,1,3
+R00857,O011109,2026-04-15,Cap,1047.0,Refused at delivery,Amazon,1,3
+R00858,O004435,2026-04-21,Sandals,899.0,Size or fit,Website,0,1
+R00859,O004513,2026-04-12,Cap,349.0,Changed mind,Website,0,1
+R00860,O005010,2026-04-10,Hoodie,5397.0,Refused at delivery,Amazon,1,3
+R00861,O001370,2026-04-17,Denim Jacket,4998.0,Changed mind,Flipkart,0,2
+R00862,O006750,2026-04-18,Classic Tee,1497.0,Damaged in transit,Website,0,3
+R00863,O001286,2026-04-23,Running Shoes,3299.0,Size or fit,Amazon,0,1
+R00864,O003027,2026-04-17,Classic Tee,499.0,Changed mind,Website,0,1
+R00865,O003640,2026-04-15,Cap,349.0,Damaged in transit,Flipkart,0,1
+R00866,O003675,2026-04-21,Cap,349.0,Size or fit,Flipkart,0,1
+R00867,O008352,2026-04-17,Sneakers,2799.0,Quality issue,Website,0,1
+R00868,O010835,2026-04-15,Hoodie,5397.0,Not as described,Flipkart,1,3
+R00869,O010895,2026-04-17,Backpack,1599.0,Changed mind,Flipkart,0,1
+R00870,O011754,2026-04-21,Classic Tee,499.0,Quality issue,Website,0,1
+R00871,O011789,2026-04-15,Hoodie,3598.0,Damaged in transit,Amazon,0,2
+R00872,O000387,2026-04-21,Denim Jacket,4998.0,Size or fit,Amazon,0,2
+R00873,O000570,2026-04-14,Sneakers,8397.0,Quality issue,Meesho,1,3
+R00874,O002421,2026-04-24,Running Shoes,6598.0,Refused at delivery,Website,1,2
+R00875,O005217,2026-04-17,Sneakers,5598.0,Refused at delivery,Website,1,2
+R00876,O007748,2026-04-19,Cap,1047.0,Not as described,WhatsApp,1,3
+R00877,O008344,2026-04-18,Sneakers,2799.0,Refused at delivery,Flipkart,1,1
+R00878,O011926,2026-04-20,Hoodie,1799.0,Changed mind,Meesho,1,1
+R00879,O001838,2026-04-24,Classic Tee,499.0,Refused at delivery,Flipkart,1,1
+R00880,O002234,2026-04-22,Running Shoes,3299.0,Size or fit,Amazon,0,1
+R00881,O002834,2026-04-26,Cap,1047.0,Damaged in transit,Website,0,3
+R00882,O002978,2026-04-21,Sneakers,2799.0,Size or fit,WhatsApp,0,1
+R00883,O003913,2026-04-20,Sneakers,2799.0,Not as described,Flipkart,0,1
+R00884,O005176,2026-04-14,Cap,1047.0,Changed mind,Meesho,0,3
+R00885,O008134,2026-04-25,Sandals,2697.0,Not as described,Website,0,3
+R00886,O008168,2026-04-25,Sneakers,2799.0,Size or fit,Flipkart,1,1
+R00887,O008943,2026-04-23,Classic Tee,1497.0,Refused at delivery,Website,1,3
+R00888,O009036,2026-04-14,Sneakers,8397.0,Size or fit,Amazon,0,3
+R00889,O009192,2026-04-17,Cap,698.0,Damaged in transit,Meesho,0,2
+R00890,O009809,2026-04-14,Cap,349.0,Refused at delivery,Meesho,1,1
+R00891,O010308,2026-04-26,Denim Jacket,4998.0,Not as described,Amazon,1,2
+R00892,O010585,2026-04-23,Sneakers,8397.0,Not as described,Amazon,1,3
+R00893,O011418,2026-04-17,Running Shoes,6598.0,Not as described,Meesho,0,2
+R00894,O003727,2026-04-18,Sneakers,8397.0,Not as described,Flipkart,0,3
+R00895,O004569,2026-04-25,Sunglasses,1299.0,Damaged in transit,Flipkart,1,1
+R00896,O007265,2026-04-16,Hoodie,3598.0,Not as described,Meesho,1,2
+R00897,O007265,2026-04-27,Sandals,899.0,Quality issue,Website,0,1
+R00898,O009951,2026-04-17,Sandals,899.0,Refused at delivery,Flipkart,1,1
+R00899,O000260,2026-04-24,Running Shoes,3299.0,Quality issue,Amazon,0,1
+R00900,O010814,2026-04-21,Hoodie,1799.0,Refused at delivery,Website,1,1
+R00901,O011294,2026-04-17,Backpack,3198.0,Refused at delivery,Meesho,1,2
+R00902,O000079,2026-04-17,Hoodie,3598.0,Damaged in transit,WhatsApp,0,2
+R00903,O001655,2026-04-21,Sneakers,5598.0,Refused at delivery,Meesho,1,2
+R00904,O005875,2026-04-25,Hoodie,5397.0,Quality issue,Website,0,3
+R00905,O007894,2026-04-18,Backpack,3198.0,Size or fit,Amazon,1,2
+R00906,O008593,2026-04-18,Sandals,1798.0,Quality issue,Website,0,2
+R00907,O011017,2026-04-26,Running Shoes,6598.0,Refused at delivery,Website,1,2
+R00908,O001901,2026-04-23,Sandals,1798.0,Quality issue,Flipkart,1,2
+R00909,O003088,2026-04-27,Backpack,4797.0,Size or fit,Meesho,1,3
+R00910,O004040,2026-04-24,Sneakers,8397.0,Size or fit,Website,0,3
+R00911,O006159,2026-04-27,Classic Tee,998.0,Damaged in transit,Flipkart,0,2
+R00912,O006828,2026-04-30,Denim Jacket,4998.0,Not as described,Flipkart,1,2
+R00913,O007257,2026-04-26,Classic Tee,1497.0,Damaged in transit,Amazon,0,3
+R00914,O009912,2026-04-30,Denim Jacket,2499.0,Changed mind,Flipkart,1,1
+R00915,O004000,2026-04-20,Cap,1047.0,Size or fit,Flipkart,0,3
+R00916,O005672,2026-04-25,Sandals,1798.0,Refused at delivery,Website,1,2
+R00917,O006312,2026-04-28,Sneakers,8397.0,Not as described,WhatsApp,1,3
+R00918,O006323,2026-05-01,Denim Jacket,7497.0,Damaged in transit,Website,0,3
+R00919,O007338,2026-04-25,Sneakers,8397.0,Refused at delivery,WhatsApp,1,3
+R00920,O009187,2026-04-26,Running Shoes,9897.0,Changed mind,Amazon,1,3
+R00921,O010055,2026-04-20,Sneakers,5598.0,Not as described,Meesho,1,2
+R00922,O010219,2026-04-25,Sneakers,8397.0,Size or fit,Flipkart,0,3
+R00923,O010219,2026-04-22,Running Shoes,9897.0,Size or fit,Amazon,1,3
+R00924,O001988,2026-04-23,Denim Jacket,2499.0,Refused at delivery,WhatsApp,1,1
+R00925,O003818,2026-05-01,Running Shoes,9897.0,Size or fit,Amazon,0,3
+R00926,O005818,2026-05-02,Denim Jacket,7497.0,Changed mind,Meesho,0,3
+R00927,O011498,2026-04-27,Sandals,1798.0,Quality issue,Website,0,2
+R00928,O011680,2026-04-23,Sandals,2697.0,Size or fit,Website,0,3
+R00929,O003611,2026-04-30,Sneakers,8397.0,Size or fit,Website,0,3
+R00930,O003713,2026-04-23,Sneakers,8397.0,Not as described,Amazon,0,3
+R00931,O006303,2026-05-01,Sunglasses,2598.0,Size or fit,Website,0,2
+R00932,O010602,2026-04-26,Sunglasses,2598.0,Not as described,Meesho,1,2
+R00933,O010602,2026-04-27,Hoodie,3598.0,Not as described,Amazon,0,2
+R00934,O001129,2026-04-24,Hoodie,5397.0,Damaged in transit,Flipkart,1,3
+R00935,O003137,2026-04-23,Hoodie,1799.0,Damaged in transit,Meesho,1,1
+R00936,O006846,2026-04-28,Hoodie,1799.0,Not as described,Flipkart,1,1
+R00937,O006846,2026-04-25,Classic Tee,499.0,Refused at delivery,Flipkart,1,1
+R00938,O000395,2026-05-05,Sneakers,8397.0,Size or fit,Meesho,0,3
+R00939,O000397,2026-05-01,Sandals,2697.0,Quality issue,Amazon,0,3
+R00940,O001437,2026-04-27,Denim Jacket,7497.0,Quality issue,Flipkart,0,3
+R00941,O002204,2026-05-03,Cap,349.0,Not as described,Website,0,1
+R00942,O004846,2026-04-30,Sandals,1798.0,Size or fit,WhatsApp,0,2
+R00943,O005385,2026-05-05,Denim Jacket,7497.0,Damaged in transit,Flipkart,0,3
+R00944,O005994,2026-05-03,Sneakers,2799.0,Refused at delivery,Amazon,1,1
+R00945,O006115,2026-04-28,Classic Tee,1497.0,Refused at delivery,Meesho,1,3
+R00946,O006115,2026-04-23,Denim Jacket,4998.0,Changed mind,Website,0,2
+R00947,O009728,2026-04-27,Sunglasses,3897.0,Size or fit,Amazon,0,3
+R00948,O000197,2026-04-26,Running Shoes,6598.0,Quality issue,WhatsApp,0,2
+R00949,O001619,2026-04-26,Backpack,1599.0,Not as described,Website,0,1
+R00950,O001818,2026-04-26,Backpack,3198.0,Refused at delivery,Website,1,2
+R00951,O010451,2026-05-02,Classic Tee,998.0,Refused at delivery,Website,1,2
+R00952,O010477,2026-04-29,Sneakers,5598.0,Size or fit,Flipkart,0,2
+R00953,O000619,2026-05-03,Backpack,1599.0,Quality issue,Flipkart,1,1
+R00954,O002326,2026-04-28,Sneakers,8397.0,Refused at delivery,Meesho,1,3
+R00955,O002373,2026-05-07,Classic Tee,499.0,Changed mind,Meesho,1,1
+R00956,O004352,2026-04-27,Classic Tee,1497.0,Not as described,Meesho,1,3
+R00957,O007121,2026-04-29,Sunglasses,1299.0,Quality issue,Amazon,0,1
+R00958,O009158,2026-05-05,Backpack,3198.0,Damaged in transit,Website,1,2
+R00959,O010002,2026-04-30,Running Shoes,6598.0,Refused at delivery,Website,1,2
+R00960,O011598,2026-05-04,Sneakers,2799.0,Size or fit,Amazon,0,1
+R00961,O000448,2026-05-03,Cap,1047.0,Quality issue,Website,0,3
+R00962,O009071,2026-05-05,Sneakers,2799.0,Refused at delivery,Meesho,1,1
+R00963,O009973,2026-04-29,Hoodie,5397.0,Quality issue,Website,0,3
+R00964,O000744,2026-05-06,Classic Tee,998.0,Size or fit,Website,0,2
+R00965,O002056,2026-04-29,Sneakers,5598.0,Size or fit,Flipkart,0,2
+R00966,O005058,2026-05-02,Cap,698.0,Changed mind,Website,1,2
+R00967,O005769,2026-04-28,Hoodie,1799.0,Changed mind,Website,0,1
+R00968,O008718,2026-05-01,Sandals,1798.0,Quality issue,Website,0,2
+R00969,O009501,2026-04-27,Hoodie,3598.0,Size or fit,Flipkart,0,2
+R00970,O002207,2026-05-05,Sandals,899.0,Quality issue,Amazon,0,1
+R00971,O004471,2026-05-10,Running Shoes,6598.0,Not as described,Amazon,0,2
+R00972,O007386,2026-05-10,Classic Tee,1497.0,Refused at delivery,Flipkart,1,3
+R00973,O007496,2026-05-10,Backpack,3198.0,Size or fit,Website,0,2
+R00974,O008216,2026-05-08,Denim Jacket,2499.0,Quality issue,Website,0,1
+R00975,O010358,2026-04-28,Sandals,2697.0,Not as described,Website,1,3
+R00976,O001001,2026-05-04,Denim Jacket,7497.0,Not as described,Website,0,3
+R00977,O002133,2026-05-03,Hoodie,1799.0,Size or fit,Website,0,1
+R00978,O002527,2026-05-07,Sandals,899.0,Quality issue,Website,0,1
+R00979,O002527,2026-05-06,Cap,1047.0,Quality issue,Amazon,0,3
+R00980,O002637,2026-05-02,Sandals,899.0,Quality issue,Flipkart,0,1
+R00981,O003166,2026-05-03,Backpack,4797.0,Size or fit,WhatsApp,0,3
+R00982,O004698,2026-05-04,Denim Jacket,4998.0,Damaged in transit,Meesho,0,2
+R00983,O007404,2026-05-07,Backpack,1599.0,Size or fit,Website,0,1
+R00984,O009554,2026-05-11,Sneakers,5598.0,Quality issue,Website,1,2
+R00985,O009554,2026-05-11,Running Shoes,9897.0,Not as described,Meesho,1,3
+R00986,O011151,2026-05-07,Sneakers,2799.0,Quality issue,Amazon,0,1
+R00987,O011378,2026-05-08,Wrist Watch,8998.0,Damaged in transit,Meesho,1,2
+R00988,O002162,2026-05-04,Sneakers,8397.0,Not as described,WhatsApp,0,3
+R00989,O004998,2026-04-30,Sneakers,5598.0,Size or fit,Flipkart,0,2
+R00990,O006897,2026-05-03,Cap,349.0,Quality issue,Amazon,1,1
+R00991,O009858,2026-05-01,Hoodie,5397.0,Not as described,Amazon,1,3
+R00992,O010253,2026-04-30,Hoodie,5397.0,Not as described,Flipkart,0,3
+R00993,O011405,2026-04-30,Sneakers,8397.0,Size or fit,Website,0,3
+R00994,O000018,2026-05-02,Sandals,2697.0,Size or fit,Website,0,3
+R00995,O002092,2026-05-04,Hoodie,1799.0,Quality issue,Website,0,1
+R00996,O002368,2026-05-12,Sneakers,2799.0,Size or fit,Meesho,0,1
+R00997,O003868,2026-05-13,Sneakers,2799.0,Quality issue,Flipkart,0,1
+R00998,O003868,2026-05-08,Running Shoes,9897.0,Damaged in transit,Amazon,0,3
+R00999,O006057,2026-05-03,Denim Jacket,4998.0,Damaged in transit,Amazon,0,2
+R01000,O006225,2026-05-13,Denim Jacket,2499.0,Damaged in transit,Website,0,1
+R01001,O008006,2026-05-07,Hoodie,5397.0,Size or fit,Flipkart,0,3
+R01002,O008006,2026-05-08,Classic Tee,1497.0,Quality issue,Website,0,3
+R01003,O008012,2026-05-02,Hoodie,1799.0,Refused at delivery,Website,1,1
+R01004,O000599,2026-05-04,Sandals,899.0,Not as described,Amazon,0,1
+R01005,O003457,2026-05-05,Backpack,1599.0,Quality issue,Meesho,0,1
+R01006,O003805,2026-05-04,Backpack,3198.0,Not as described,Website,0,2
+R01007,O006050,2026-05-02,Sneakers,8397.0,Quality issue,Meesho,1,3
+R01008,O006314,2026-05-02,Backpack,1599.0,Quality issue,Amazon,0,1
+R01009,O001449,2026-05-03,Sunglasses,2598.0,Not as described,Amazon,0,2
+R01010,O002708,2026-05-11,Classic Tee,1497.0,Quality issue,Website,0,3
+R01011,O006529,2026-05-05,Classic Tee,1497.0,Damaged in transit,WhatsApp,1,3
+R01012,O006627,2026-05-11,Sneakers,5598.0,Size or fit,Flipkart,1,2
+R01013,O007107,2026-05-14,Sandals,1798.0,Quality issue,Amazon,0,2
+R01014,O003396,2026-05-08,Hoodie,3598.0,Refused at delivery,Amazon,1,2
+R01015,O004260,2026-05-16,Sneakers,8397.0,Quality issue,Flipkart,0,3
+R01016,O005358,2026-05-12,Running Shoes,9897.0,Refused at delivery,Amazon,1,3
+R01017,O007061,2026-05-06,Backpack,4797.0,Damaged in transit,Amazon,0,3
+R01018,O008333,2026-05-12,Sunglasses,2598.0,Size or fit,Amazon,0,2
+R01019,O010015,2026-05-11,Classic Tee,499.0,Quality issue,Flipkart,0,1
+R01020,O000563,2026-05-09,Backpack,4797.0,Refused at delivery,Amazon,1,3
+R01021,O003668,2026-05-16,Sandals,1798.0,Size or fit,Meesho,0,2
+R01022,O004741,2026-05-05,Denim Jacket,2499.0,Not as described,Website,0,1
+R01023,O005570,2026-05-14,Cap,349.0,Damaged in transit,Flipkart,0,1
+R01024,O008752,2026-05-08,Cap,698.0,Changed mind,WhatsApp,0,2
+R01025,O009670,2026-05-07,Hoodie,3598.0,Changed mind,Website,0,2
+R01026,O009670,2026-05-16,Wrist Watch,4499.0,Damaged in transit,Meesho,0,1
+R01027,O010571,2026-05-11,Wrist Watch,8998.0,Quality issue,Meesho,0,2
+R01028,O001140,2026-05-17,Sneakers,2799.0,Refused at delivery,WhatsApp,1,1
+R01029,O001590,2026-05-14,Cap,349.0,Refused at delivery,Meesho,1,1
+R01030,O003046,2026-05-17,Running Shoes,6598.0,Size or fit,Website,0,2
+R01031,O003715,2026-05-18,Cap,698.0,Damaged in transit,Meesho,1,2
+R01032,O006480,2026-05-17,Sandals,1798.0,Size or fit,WhatsApp,1,2
+R01033,O007529,2026-05-08,Cap,1047.0,Size or fit,Amazon,1,3
+R01034,O009037,2026-05-06,Sandals,1798.0,Refused at delivery,WhatsApp,1,2
+R01035,O000174,2026-05-14,Sandals,2697.0,Refused at delivery,Flipkart,1,3
+R01036,O002872,2026-05-08,Cap,349.0,Quality issue,Website,0,1
+R01037,O004230,2026-05-17,Backpack,1599.0,Damaged in transit,Meesho,0,1
+R01038,O005160,2026-05-14,Hoodie,3598.0,Damaged in transit,Website,0,2
+R01039,O005554,2026-05-08,Running Shoes,3299.0,Not as described,Website,1,1
+R01040,O008269,2026-05-08,Backpack,1599.0,Size or fit,Website,0,1
+R01041,O011099,2026-05-10,Backpack,3198.0,Damaged in transit,Website,0,2
+R01042,O011558,2026-05-12,Hoodie,1799.0,Refused at delivery,WhatsApp,1,1
+R01043,O003924,2026-05-15,Denim Jacket,7497.0,Damaged in transit,Flipkart,0,3
+R01044,O003974,2026-05-15,Cap,349.0,Damaged in transit,Website,0,1
+R01045,O004614,2026-05-14,Sneakers,2799.0,Size or fit,Amazon,0,1
+R01046,O011281,2026-05-18,Sneakers,2799.0,Not as described,Meesho,1,1
+R01047,O000840,2026-05-21,Classic Tee,499.0,Changed mind,Flipkart,1,1
+R01048,O002674,2026-05-13,Denim Jacket,2499.0,Refused at delivery,Website,1,1
+R01049,O003663,2026-05-13,Denim Jacket,4998.0,Changed mind,Meesho,1,2
+R01050,O003919,2026-05-18,Sandals,1798.0,Quality issue,Website,0,2
+R01051,O005235,2026-05-19,Running Shoes,9897.0,Quality issue,Amazon,0,3
+R01052,O007680,2026-05-13,Sunglasses,3897.0,Changed mind,Meesho,0,3
+R01053,O010270,2026-05-10,Hoodie,3598.0,Changed mind,WhatsApp,0,2
+R01054,O002402,2026-05-17,Hoodie,1799.0,Not as described,Website,0,1
+R01055,O003961,2026-05-20,Classic Tee,1497.0,Size or fit,WhatsApp,1,3
+R01056,O007233,2026-05-18,Sneakers,5598.0,Refused at delivery,WhatsApp,1,2
+R01057,O007444,2026-05-19,Sneakers,8397.0,Size or fit,Flipkart,0,3
+R01058,O008713,2026-05-20,Denim Jacket,4998.0,Not as described,Flipkart,1,2
+R01059,O009300,2026-05-10,Hoodie,3598.0,Refused at delivery,Flipkart,1,2
+R01060,O011339,2026-05-11,Sandals,2697.0,Size or fit,Website,0,3
+R01061,O000334,2026-05-21,Sunglasses,2598.0,Quality issue,Website,1,2
+R01062,O001310,2026-05-22,Classic Tee,1497.0,Changed mind,WhatsApp,1,3
+R01063,O005016,2026-05-19,Cap,1047.0,Quality issue,Amazon,1,3
+R01064,O009653,2026-05-15,Denim Jacket,2499.0,Size or fit,Amazon,0,1
+R01065,O000759,2026-05-23,Sneakers,2799.0,Size or fit,Meesho,0,1
+R01066,O000807,2026-05-18,Sandals,1798.0,Quality issue,Website,0,2
+R01067,O001329,2026-05-20,Sneakers,8397.0,Size or fit,Flipkart,1,3
+R01068,O002222,2026-05-19,Sneakers,2799.0,Not as described,Website,0,1
+R01069,O005561,2026-05-12,Running Shoes,6598.0,Refused at delivery,WhatsApp,1,2
+R01070,O006264,2026-05-12,Hoodie,5397.0,Quality issue,Website,0,3
+R01071,O008092,2026-05-21,Classic Tee,499.0,Changed mind,Meesho,0,1
+R01072,O008092,2026-05-19,Sneakers,2799.0,Size or fit,WhatsApp,0,1
+R01073,O010498,2026-05-16,Cap,349.0,Changed mind,Website,0,1
+R01074,O003087,2026-05-13,Hoodie,3598.0,Refused at delivery,Meesho,1,2
+R01075,O006872,2026-05-14,Sneakers,8397.0,Not as described,Website,1,3
+R01076,O006872,2026-05-18,Sandals,2697.0,Quality issue,WhatsApp,1,3
+R01077,O001163,2026-05-22,Sneakers,8397.0,Refused at delivery,Meesho,1,3
+R01078,O001893,2026-05-23,Hoodie,5397.0,Quality issue,Flipkart,0,3
+R01079,O004061,2026-05-14,Hoodie,5397.0,Not as described,Website,0,3
+R01080,O004915,2026-05-15,Sneakers,2799.0,Quality issue,Website,0,1
+R01081,O005169,2026-05-25,Classic Tee,998.0,Not as described,Meesho,0,2
+R01082,O007171,2026-05-20,Sneakers,2799.0,Size or fit,Flipkart,1,1
+R01083,O007363,2026-05-17,Backpack,4797.0,Quality issue,Meesho,0,3
+R01084,O009033,2026-05-18,Sandals,2697.0,Refused at delivery,WhatsApp,1,3
+R01085,O011004,2026-05-18,Hoodie,3598.0,Refused at delivery,Website,1,2
+R01086,O011641,2026-05-16,Running Shoes,3299.0,Size or fit,Meesho,0,1
+R01087,O001861,2026-05-24,Sneakers,5598.0,Size or fit,Flipkart,0,2
+R01088,O002109,2026-05-22,Sneakers,5598.0,Size or fit,Amazon,1,2
+R01089,O002962,2026-05-21,Classic Tee,998.0,Not as described,Flipkart,0,2
+R01090,O004860,2026-05-23,Sneakers,5598.0,Not as described,Website,0,2
+R01091,O005417,2026-05-22,Sunglasses,3897.0,Refused at delivery,Amazon,1,3
+R01092,O009354,2026-05-21,Wrist Watch,8998.0,Changed mind,Website,1,2
+R01093,O010828,2026-05-15,Denim Jacket,4998.0,Changed mind,Amazon,0,2
+R01094,O001856,2026-05-19,Sneakers,5598.0,Not as described,WhatsApp,0,2
+R01095,O002427,2026-05-20,Sneakers,2799.0,Size or fit,Website,0,1
+R01096,O002427,2026-05-25,Backpack,3198.0,Size or fit,Website,0,2
+R01097,O002488,2026-05-18,Running Shoes,6598.0,Damaged in transit,Amazon,0,2
+R01098,O006760,2026-05-19,Hoodie,3598.0,Changed mind,Amazon,0,2
+R01099,O009172,2026-05-28,Sneakers,8397.0,Quality issue,Meesho,0,3
+R01100,O006756,2026-05-26,Backpack,1599.0,Damaged in transit,Amazon,0,1
+R01101,O006857,2026-05-20,Classic Tee,499.0,Quality issue,Flipkart,1,1
+R01102,O009448,2026-05-28,Classic Tee,1497.0,Refused at delivery,Meesho,1,3
+R01103,O011726,2026-05-28,Denim Jacket,4998.0,Quality issue,Amazon,0,2
+R01104,O000147,2026-05-18,Denim Jacket,7497.0,Damaged in transit,Website,0,3
+R01105,O001525,2026-05-18,Sandals,899.0,Quality issue,Website,1,1
+R01106,O002725,2026-05-29,Sandals,899.0,Not as described,Website,0,1
+R01107,O003532,2026-05-29,Hoodie,1799.0,Refused at delivery,Amazon,1,1
+R01108,O005815,2026-05-20,Classic Tee,1497.0,Damaged in transit,Amazon,1,3
+R01109,O001358,2026-05-24,Running Shoes,6598.0,Damaged in transit,Amazon,0,2
+R01110,O002560,2026-05-22,Classic Tee,1497.0,Not as described,Meesho,0,3
+R01111,O006631,2026-05-20,Sneakers,5598.0,Not as described,Website,0,2
+R01112,O010788,2026-05-21,Sneakers,8397.0,Not as described,Flipkart,0,3
+R01113,O011555,2026-05-30,Classic Tee,998.0,Size or fit,Flipkart,1,2
+R01114,O001982,2026-05-30,Hoodie,1799.0,Not as described,WhatsApp,1,1
+R01115,O005865,2026-05-31,Sandals,1798.0,Not as described,Flipkart,0,2
+R01116,O006378,2026-05-26,Classic Tee,499.0,Size or fit,Flipkart,0,1
+R01117,O003725,2026-06-01,Wrist Watch,8998.0,Not as described,Website,0,2
+R01118,O010935,2026-05-27,Hoodie,3598.0,Refused at delivery,Amazon,1,2
+R01119,O001391,2026-05-24,Hoodie,5397.0,Damaged in transit,Website,0,3
+R01120,O001430,2026-06-03,Denim Jacket,2499.0,Size or fit,Website,0,1
+R01121,O005186,2026-06-04,Sneakers,8397.0,Size or fit,WhatsApp,0,3
+R01122,O006482,2026-06-04,Denim Jacket,2499.0,Size or fit,WhatsApp,0,1
+R01123,O007383,2026-05-26,Backpack,3198.0,Damaged in transit,Flipkart,0,2
+R01124,O010142,2026-06-04,Backpack,1599.0,Size or fit,Amazon,0,1
+R01125,O010208,2026-06-03,Backpack,4797.0,Damaged in transit,Amazon,1,3
+R01126,O010208,2026-06-03,Sneakers,8397.0,Quality issue,Amazon,0,3
+R01127,O000701,2026-05-31,Sneakers,2799.0,Refused at delivery,Website,1,1
+R01128,O000902,2026-05-28,Hoodie,5397.0,Not as described,Amazon,0,3
+R01129,O001284,2026-05-31,Running Shoes,3299.0,Changed mind,Website,0,1
+R01130,O003740,2026-05-30,Backpack,3198.0,Changed mind,Flipkart,0,2
+R01131,O011538,2026-06-01,Hoodie,1799.0,Refused at delivery,Meesho,1,1
+R01132,O011567,2026-05-29,Running Shoes,3299.0,Size or fit,Website,0,1
+R01133,O000279,2026-05-29,Sandals,2697.0,Not as described,WhatsApp,1,3
+R01134,O003047,2026-05-26,Backpack,1599.0,Size or fit,Amazon,0,1
+R01135,O005798,2026-06-03,Classic Tee,1497.0,Changed mind,Website,0,3
+R01136,O009005,2026-05-29,Sneakers,8397.0,Refused at delivery,Amazon,1,3
+R01137,O010173,2026-05-31,Hoodie,3598.0,Damaged in transit,Amazon,0,2
+R01138,O000419,2026-06-02,Classic Tee,998.0,Size or fit,Amazon,1,2
+R01139,O000825,2026-06-03,Sneakers,8397.0,Size or fit,Meesho,0,3
+R01140,O004956,2026-06-07,Sandals,2697.0,Refused at delivery,Meesho,1,3
+R01141,O011875,2026-06-07,Hoodie,3598.0,Refused at delivery,Meesho,1,2
+R01142,O000175,2026-05-31,Wrist Watch,4499.0,Size or fit,Website,1,1
+R01143,O002335,2026-06-07,Hoodie,3598.0,Size or fit,Website,0,2
+R01144,O004082,2026-06-08,Hoodie,1799.0,Changed mind,Amazon,0,1
+R01145,O005242,2026-06-06,Sunglasses,1299.0,Changed mind,Amazon,0,1
+R01146,O008590,2026-06-03,Denim Jacket,4998.0,Quality issue,Meesho,0,2
+R01147,O001594,2026-06-02,Denim Jacket,2499.0,Not as described,Website,0,1
+R01148,O004757,2026-06-07,Running Shoes,9897.0,Not as described,Website,0,3
+R01149,O006076,2026-06-03,Sneakers,8397.0,Not as described,WhatsApp,0,3
+R01150,O009972,2026-06-05,Hoodie,5397.0,Changed mind,Flipkart,0,3
+R01151,O010371,2026-05-31,Wrist Watch,8998.0,Not as described,Amazon,0,2
+R01152,O010436,2026-06-04,Sneakers,8397.0,Size or fit,Website,0,3
+R01153,O011227,2026-06-07,Backpack,4797.0,Refused at delivery,Amazon,1,3
+R01154,O007344,2026-06-01,Sneakers,5598.0,Not as described,Website,0,2
+R01155,O007929,2026-05-29,Sandals,2697.0,Quality issue,Meesho,0,3
+R01156,O008117,2026-06-10,Sandals,2697.0,Not as described,Website,0,3
+R01157,O001425,2026-06-05,Sunglasses,1299.0,Refused at delivery,WhatsApp,1,1
+R01158,O002642,2026-06-03,Sneakers,8397.0,Quality issue,Website,0,3
+R01159,O005708,2026-06-08,Cap,698.0,Size or fit,WhatsApp,0,2
+R01160,O008173,2026-06-06,Hoodie,1799.0,Changed mind,Flipkart,1,1
+R01161,O009532,2026-06-04,Classic Tee,1497.0,Refused at delivery,Meesho,1,3
+R01162,O011495,2026-06-07,Classic Tee,499.0,Changed mind,Flipkart,0,1
+R01163,O011867,2026-06-07,Sandals,1798.0,Not as described,Flipkart,0,2
+R01164,O000488,2026-06-08,Hoodie,5397.0,Not as described,Flipkart,0,3
+R01165,O002952,2026-05-31,Sandals,2697.0,Size or fit,Meesho,1,3
+R01166,O003697,2026-06-02,Backpack,3198.0,Not as described,Meesho,1,2
+R01167,O004955,2026-06-07,Sneakers,5598.0,Refused at delivery,Website,1,2
+R01168,O005193,2026-06-05,Sneakers,8397.0,Size or fit,Website,0,3
+R01169,O005903,2026-06-05,Sneakers,2799.0,Refused at delivery,Website,1,1
+R01170,O005376,2026-06-11,Sneakers,2799.0,Quality issue,Meesho,0,1
+R01171,O005453,2026-06-09,Sandals,899.0,Size or fit,WhatsApp,0,1
+R01172,O005912,2026-06-01,Running Shoes,9897.0,Refused at delivery,Website,1,3
+R01173,O007083,2026-06-13,Hoodie,3598.0,Refused at delivery,Website,1,2
+R01174,O011052,2026-06-01,Sunglasses,1299.0,Damaged in transit,Amazon,0,1
+R01175,O011192,2026-06-02,Classic Tee,499.0,Size or fit,Website,0,1
+R01176,O001810,2026-06-03,Sandals,899.0,Refused at delivery,Flipkart,1,1
+R01177,O003903,2026-06-03,Sneakers,8397.0,Quality issue,Flipkart,0,3
+R01178,O005373,2026-06-04,Classic Tee,499.0,Changed mind,Amazon,0,1
+R01179,O007481,2026-06-07,Sandals,1798.0,Refused at delivery,WhatsApp,1,2
+R01180,O008241,2026-06-14,Sandals,899.0,Refused at delivery,Meesho,1,1
+R01181,O008676,2026-06-12,Sunglasses,1299.0,Quality issue,Website,0,1
+R01182,O008871,2026-06-12,Running Shoes,6598.0,Refused at delivery,Website,1,2
+R01183,O011006,2026-06-10,Denim Jacket,7497.0,Refused at delivery,Flipkart,1,3
+R01184,O000337,2026-06-13,Denim Jacket,4998.0,Refused at delivery,Website,1,2
+R01185,O002507,2026-06-07,Sneakers,8397.0,Not as described,Amazon,0,3
+R01186,O004064,2026-06-04,Classic Tee,499.0,Size or fit,Amazon,0,1
+R01187,O006250,2026-06-15,Denim Jacket,2499.0,Not as described,Meesho,0,1
+R01188,O008986,2026-06-14,Backpack,1599.0,Size or fit,WhatsApp,0,1
+R01189,O008986,2026-06-05,Running Shoes,9897.0,Size or fit,WhatsApp,0,3
+R01190,O009953,2026-06-12,Sandals,899.0,Quality issue,Flipkart,0,1
+R01191,O000756,2026-06-16,Sunglasses,2598.0,Not as described,Amazon,1,2
+R01192,O003772,2026-06-13,Running Shoes,6598.0,Changed mind,Meesho,1,2
+R01193,O004329,2026-06-06,Running Shoes,3299.0,Damaged in transit,Website,0,1
+R01194,O005179,2026-06-14,Sneakers,2799.0,Quality issue,Amazon,0,1
+R01195,O010753,2026-06-09,Backpack,3198.0,Size or fit,Website,0,2
+R01196,O011262,2026-06-10,Cap,1047.0,Changed mind,Meesho,0,3
+R01197,O011326,2026-06-14,Sneakers,2799.0,Size or fit,Website,1,1
+R01198,O011383,2026-06-10,Running Shoes,3299.0,Quality issue,Meesho,0,1
+R01199,O003045,2026-06-16,Hoodie,1799.0,Quality issue,Website,0,1
+R01200,O004864,2026-06-17,Running Shoes,3299.0,Refused at delivery,Website,1,1
+R01201,O008176,2026-06-17,Hoodie,3598.0,Size or fit,WhatsApp,0,2
+R01202,O008894,2026-06-15,Sandals,2697.0,Size or fit,WhatsApp,1,3
+R01203,O009492,2026-06-10,Hoodie,5397.0,Refused at delivery,Meesho,1,3
+R01204,O001833,2026-06-16,Running Shoes,9897.0,Not as described,Meesho,0,3
+R01205,O002844,2026-06-19,Sandals,1798.0,Refused at delivery,Flipkart,1,2
+R01206,O003398,2026-06-09,Denim Jacket,4998.0,Not as described,WhatsApp,0,2
+R01207,O004557,2026-06-18,Backpack,1599.0,Size or fit,Website,0,1
+R01208,O006520,2026-06-07,Denim Jacket,2499.0,Changed mind,Amazon,0,1
+R01209,O007452,2026-06-13,Sneakers,5598.0,Size or fit,Meesho,1,2
+R01210,O000924,2026-06-09,Backpack,4797.0,Damaged in transit,Meesho,0,3
+R01211,O004590,2026-06-15,Denim Jacket,4998.0,Damaged in transit,Website,0,2
+R01212,O005156,2026-06-18,Sandals,899.0,Not as described,Flipkart,0,1
+R01213,O006086,2026-06-12,Hoodie,3598.0,Quality issue,Website,0,2
+R01214,O007369,2026-06-08,Sandals,1798.0,Quality issue,Website,0,2
+R01215,O008630,2026-06-08,Denim Jacket,7497.0,Refused at delivery,WhatsApp,1,3
+R01216,O009831,2026-06-10,Sneakers,2799.0,Not as described,Meesho,0,1
+R01217,O009831,2026-06-18,Classic Tee,998.0,Quality issue,Flipkart,0,2
+R01218,O010578,2026-06-15,Sneakers,5598.0,Not as described,Meesho,0,2
+R01219,O011273,2026-06-19,Cap,349.0,Not as described,Amazon,0,1
+R01220,O002367,2026-06-13,Sneakers,8397.0,Size or fit,Website,0,3
+R01221,O008345,2026-06-10,Sandals,1798.0,Quality issue,Amazon,0,2
+R01222,O008683,2026-06-10,Running Shoes,9897.0,Not as described,Amazon,0,3
+R01223,O000255,2026-06-12,Hoodie,1799.0,Refused at delivery,Amazon,1,1
+R01224,O002945,2026-06-14,Cap,698.0,Refused at delivery,Meesho,1,2
+R01225,O004115,2026-06-18,Backpack,1599.0,Size or fit,Flipkart,0,1
+R01226,O004688,2026-06-17,Running Shoes,3299.0,Changed mind,Meesho,0,1
+R01227,O004778,2026-06-12,Cap,698.0,Not as described,Meesho,1,2
+R01228,O007166,2026-06-17,Sneakers,5598.0,Refused at delivery,WhatsApp,1,2
+R01229,O008764,2026-06-10,Sneakers,2799.0,Size or fit,Meesho,0,1
+R01230,O008779,2026-06-10,Sneakers,8397.0,Size or fit,Meesho,1,3
+R01231,O010617,2026-06-17,Sneakers,5598.0,Size or fit,Website,0,2
+R01232,O004412,2026-06-13,Classic Tee,499.0,Quality issue,Website,1,1
+R01233,O005610,2026-06-14,Sneakers,5598.0,Size or fit,Meesho,0,2
+R01234,O006565,2026-06-23,Sneakers,8397.0,Size or fit,Flipkart,0,3
+R01235,O009080,2026-06-22,Denim Jacket,7497.0,Refused at delivery,Meesho,1,3
+R01236,O009249,2026-06-13,Denim Jacket,2499.0,Not as described,Meesho,0,1
+R01237,O000044,2026-06-12,Hoodie,3598.0,Changed mind,Website,0,2
+R01238,O002857,2026-06-20,Sneakers,5598.0,Size or fit,Website,0,2
+R01239,O003601,2026-06-23,Sneakers,8397.0,Quality issue,Meesho,0,3
+R01240,O006791,2026-06-18,Sunglasses,2598.0,Not as described,Amazon,1,2
+R01241,O010550,2026-06-19,Classic Tee,1497.0,Size or fit,Website,0,3
+R01242,O011702,2026-06-20,Classic Tee,1497.0,Not as described,Amazon,1,3
+R01243,O001770,2026-06-13,Hoodie,5397.0,Not as described,Flipkart,0,3
+R01244,O005717,2026-06-20,Hoodie,5397.0,Size or fit,Amazon,1,3
+R01245,O007485,2026-06-23,Sneakers,8397.0,Size or fit,Amazon,0,3
+R01246,O007751,2026-06-24,Classic Tee,1497.0,Refused at delivery,Flipkart,1,3
+R01247,O007980,2026-06-17,Sandals,2697.0,Quality issue,Amazon,0,3
+R01248,O010333,2026-06-16,Backpack,3198.0,Size or fit,Amazon,0,2
+R01249,O011408,2026-06-17,Hoodie,5397.0,Refused at delivery,Meesho,1,3
+R01250,O003870,2026-06-24,Sneakers,2799.0,Quality issue,Amazon,0,1
+R01251,O003870,2026-06-22,Cap,1047.0,Refused at delivery,WhatsApp,1,3
+R01252,O011031,2026-06-22,Cap,349.0,Changed mind,Meesho,1,1
+R01253,O011457,2026-06-17,Classic Tee,1497.0,Damaged in transit,WhatsApp,0,3
+R01254,O000995,2026-06-15,Running Shoes,6598.0,Changed mind,Meesho,0,2
+R01255,O006537,2026-06-15,Sneakers,8397.0,Size or fit,Meesho,0,3
+R01256,O002741,2026-06-26,Sneakers,5598.0,Not as described,WhatsApp,0,2
+R01257,O006342,2026-06-20,Denim Jacket,4998.0,Refused at delivery,Flipkart,1,2
+R01258,O009399,2026-06-26,Sunglasses,1299.0,Quality issue,Website,0,1
+R01259,O011305,2026-06-23,Cap,349.0,Size or fit,Amazon,0,1
+R01260,O001593,2026-06-18,Hoodie,5397.0,Quality issue,Meesho,1,3
+R01261,O005346,2026-06-17,Denim Jacket,2499.0,Changed mind,Flipkart,1,1
+R01262,O007676,2026-06-24,Running Shoes,6598.0,Damaged in transit,Meesho,0,2
+R01263,O008933,2026-06-22,Sandals,1798.0,Quality issue,Website,0,2
+R01264,O000154,2026-06-23,Denim Jacket,4998.0,Refused at delivery,Meesho,1,2
+R01265,O003687,2026-06-27,Sunglasses,3897.0,Refused at delivery,Meesho,1,3
+R01266,O003743,2026-06-25,Hoodie,5397.0,Refused at delivery,WhatsApp,1,3
+R01267,O007664,2026-06-25,Running Shoes,6598.0,Quality issue,WhatsApp,1,2
+R01268,O008553,2026-06-30,Denim Jacket,4998.0,Damaged in transit,Website,0,2
+R01269,O009156,2026-06-29,Sunglasses,2598.0,Quality issue,Amazon,0,2
+R01270,O009232,2026-06-27,Hoodie,3598.0,Refused at delivery,WhatsApp,1,2
+R01271,O011536,2026-06-22,Sandals,2697.0,Size or fit,Amazon,0,3
+R01272,O001758,2026-06-23,Sunglasses,3897.0,Not as described,Website,0,3
+R01273,O001904,2026-06-27,Denim Jacket,7497.0,Size or fit,Website,0,3
+R01274,O003126,2026-06-25,Sunglasses,2598.0,Size or fit,Meesho,0,2
+R01275,O005300,2026-06-22,Cap,698.0,Changed mind,Website,0,2
+R01276,O009935,2026-06-25,Hoodie,3598.0,Refused at delivery,Website,1,2
+R01277,O010651,2026-06-28,Sneakers,5598.0,Size or fit,Website,0,2
+R01278,O011419,2026-06-25,Sandals,899.0,Size or fit,Amazon,0,1
+R01279,O011800,2026-06-30,Classic Tee,998.0,Changed mind,Website,0,2
+R01280,O001615,2026-06-24,Sandals,2697.0,Size or fit,WhatsApp,0,3
+R01281,O001615,2026-06-21,Classic Tee,998.0,Changed mind,Meesho,0,2
+R01282,O002357,2026-07-01,Classic Tee,998.0,Damaged in transit,Amazon,1,2
+R01283,O002936,2026-06-23,Denim Jacket,2499.0,Size or fit,Meesho,1,1
+R01284,O003285,2026-07-01,Sneakers,2799.0,Size or fit,Website,0,1
+R01285,O003468,2026-06-24,Backpack,3198.0,Changed mind,Website,0,2
+R01286,O005431,2026-06-27,Hoodie,5397.0,Changed mind,WhatsApp,1,3
+R01287,O006390,2026-06-21,Sandals,899.0,Quality issue,Flipkart,0,1
+R01288,O011682,2026-06-27,Running Shoes,9897.0,Quality issue,Meesho,1,3
+R01289,O001462,2026-06-28,Hoodie,3598.0,Quality issue,Flipkart,0,2
+R01290,O002868,2026-06-28,Sneakers,8397.0,Size or fit,Website,0,3
+R01291,O008801,2026-06-25,Denim Jacket,2499.0,Size or fit,Flipkart,0,1
+R01292,O011167,2026-06-30,Sneakers,2799.0,Quality issue,Flipkart,0,1
+R01293,O011714,2026-06-23,Sandals,1798.0,Quality issue,Meesho,1,2
+R01294,O011714,2026-07-01,Classic Tee,499.0,Damaged in transit,Website,1,1
+R01295,O006064,2026-06-30,Running Shoes,9897.0,Changed mind,Website,0,3
+R01296,O000729,2026-06-26,Running Shoes,3299.0,Changed mind,Flipkart,0,1
+R01297,O002994,2026-06-23,Denim Jacket,2499.0,Not as described,Amazon,0,1
+R01298,O003119,2026-06-29,Classic Tee,998.0,Damaged in transit,Website,0,2
+R01299,O004397,2026-06-28,Running Shoes,3299.0,Damaged in transit,Flipkart,0,1
+R01300,O005808,2026-07-02,Classic Tee,1497.0,Quality issue,WhatsApp,1,3
+R01301,O010278,2026-06-26,Denim Jacket,4998.0,Size or fit,Website,0,2
+R01302,O001064,2026-06-29,Classic Tee,499.0,Quality issue,WhatsApp,0,1
+R01303,O003749,2026-07-05,Sneakers,5598.0,Refused at delivery,Website,1,2
+R01304,O003749,2026-07-02,Backpack,3198.0,Size or fit,Website,0,2
+R01305,O003815,2026-06-24,Sandals,1798.0,Quality issue,Amazon,0,2
+R01306,O004995,2026-07-03,Sneakers,8397.0,Not as described,Amazon,1,3
+R01307,O005194,2026-07-04,Sneakers,8397.0,Quality issue,Website,0,3
+R01308,O008585,2026-07-03,Sandals,1798.0,Refused at delivery,Amazon,1,2
+R01309,O002385,2026-07-03,Sandals,899.0,Size or fit,Flipkart,0,1
+R01310,O008868,2026-06-29,Sunglasses,1299.0,Size or fit,Website,0,1
+R01311,O008868,2026-07-04,Classic Tee,1497.0,Size or fit,Amazon,0,3
+R01312,O000800,2026-06-27,Hoodie,3598.0,Refused at delivery,Amazon,1,2
+R01313,O002662,2026-06-30,Backpack,4797.0,Changed mind,Amazon,1,3
+R01314,O007557,2026-06-30,Sandals,2697.0,Not as described,Flipkart,1,3
+R01315,O010275,2026-07-07,Backpack,4797.0,Damaged in transit,WhatsApp,0,3
+R01316,O010684,2026-06-28,Sneakers,8397.0,Size or fit,WhatsApp,0,3
+R01317,O001359,2026-06-30,Hoodie,1799.0,Not as described,WhatsApp,0,1
+R01318,O003665,2026-06-28,Sandals,1798.0,Not as described,Amazon,1,2
+R01319,O004350,2026-06-28,Denim Jacket,2499.0,Not as described,Website,0,1
+R01320,O005976,2026-07-09,Classic Tee,499.0,Damaged in transit,Amazon,0,1
+R01321,O008031,2026-07-02,Classic Tee,998.0,Size or fit,Meesho,1,2
+R01322,O009438,2026-07-06,Denim Jacket,4998.0,Refused at delivery,Amazon,1,2
+R01323,O009438,2026-06-30,Running Shoes,3299.0,Not as described,Website,0,1
+R01324,O010061,2026-07-04,Classic Tee,998.0,Damaged in transit,Flipkart,0,2
+R01325,O010993,2026-07-01,Sneakers,5598.0,Refused at delivery,Website,1,2
+R01326,O010993,2026-07-06,Cap,1047.0,Quality issue,WhatsApp,1,3
+R01327,O000041,2026-06-29,Sneakers,5598.0,Refused at delivery,WhatsApp,1,2
+R01328,O000195,2026-07-02,Hoodie,3598.0,Changed mind,Flipkart,0,2
+R01329,O000195,2026-07-04,Denim Jacket,7497.0,Refused at delivery,WhatsApp,1,3
+R01330,O002252,2026-06-28,Classic Tee,1497.0,Damaged in transit,Meesho,0,3
+R01331,O006681,2026-07-09,Sandals,899.0,Not as described,Flipkart,0,1
+R01332,O010115,2026-07-06,Sandals,2697.0,Refused at delivery,Flipkart,1,3
+R01333,O000660,2026-07-07,Sneakers,8397.0,Size or fit,Website,0,3
+R01334,O007306,2026-07-08,Running Shoes,6598.0,Size or fit,Meesho,0,2
+R01335,O010807,2026-07-09,Sandals,2697.0,Quality issue,Amazon,0,3
+R01336,O003502,2026-07-01,Sandals,2697.0,Size or fit,Amazon,0,3
+R01337,O007987,2026-07-09,Backpack,1599.0,Refused at delivery,Flipkart,1,1
+R01338,O008022,2026-07-12,Running Shoes,3299.0,Quality issue,Amazon,1,1
+R01339,O009225,2026-07-02,Denim Jacket,2499.0,Size or fit,Website,0,1
+R01340,O001362,2026-07-01,Classic Tee,1497.0,Refused at delivery,Website,1,3
+R01341,O005028,2026-07-01,Sneakers,2799.0,Size or fit,Flipkart,0,1
+R01342,O007541,2026-07-03,Sneakers,5598.0,Quality issue,WhatsApp,0,2
+R01343,O010977,2026-07-08,Sandals,899.0,Refused at delivery,Website,1,1
+R01344,O011083,2026-07-07,Sneakers,2799.0,Not as described,Flipkart,0,1
+R01345,O004279,2026-07-04,Sandals,899.0,Size or fit,WhatsApp,0,1
+R01346,O005639,2026-07-12,Sandals,1798.0,Not as described,Flipkart,0,2
+R01347,O002749,2026-07-09,Running Shoes,3299.0,Changed mind,Website,0,1
+R01348,O004263,2026-07-12,Sneakers,2799.0,Size or fit,Website,0,1
+R01349,O006139,2026-07-05,Sneakers,5598.0,Size or fit,Meesho,0,2
+R01350,O007979,2026-07-03,Running Shoes,6598.0,Changed mind,WhatsApp,0,2
+R01351,O010394,2026-07-10,Cap,1047.0,Size or fit,Flipkart,0,3
+R01352,O010997,2026-07-14,Denim Jacket,7497.0,Quality issue,WhatsApp,0,3
+R01353,O006299,2026-07-05,Backpack,1599.0,Refused at delivery,Website,1,1
+R01354,O010416,2026-07-16,Sneakers,8397.0,Not as described,Meesho,1,3
+R01355,O002306,2026-07-14,Sandals,1798.0,Quality issue,Meesho,0,2
+R01356,O004103,2026-07-16,Running Shoes,6598.0,Size or fit,Meesho,0,2
+R01357,O005164,2026-07-07,Classic Tee,998.0,Quality issue,Amazon,1,2
+R01358,O006798,2026-07-12,Sunglasses,3897.0,Changed mind,Amazon,0,3
+R01359,O001477,2026-07-07,Sandals,1798.0,Refused at delivery,WhatsApp,1,2
+R01360,O004505,2026-07-12,Hoodie,3598.0,Refused at delivery,WhatsApp,1,2
+R01361,O007138,2026-07-06,Sneakers,2799.0,Size or fit,Meesho,0,1
+R01362,O007667,2026-07-12,Classic Tee,499.0,Refused at delivery,Flipkart,1,1
+R01363,O008125,2026-07-07,Running Shoes,9897.0,Quality issue,Amazon,0,3
+R01364,O011387,2026-07-14,Backpack,4797.0,Changed mind,Website,0,3
+R01365,O011845,2026-07-07,Cap,349.0,Size or fit,Website,0,1
+R01366,O000493,2026-07-15,Denim Jacket,4998.0,Refused at delivery,Meesho,1,2
+R01367,O000644,2026-07-17,Hoodie,5397.0,Changed mind,Website,0,3
+R01368,O000836,2026-07-07,Running Shoes,6598.0,Changed mind,Meesho,1,2
+R01369,O006602,2026-07-19,Cap,349.0,Quality issue,Meesho,1,1
+R01370,O010072,2026-07-16,Hoodie,3598.0,Changed mind,Meesho,0,2
+R01371,O002797,2026-07-20,Sneakers,8397.0,Quality issue,Website,0,3
+R01372,O002965,2026-07-19,Sneakers,8397.0,Size or fit,Website,0,3
+R01373,O004041,2026-07-13,Running Shoes,6598.0,Quality issue,Website,0,2
+R01374,O004162,2026-07-09,Denim Jacket,7497.0,Quality issue,Flipkart,1,3
+R01375,O003320,2026-07-15,Sandals,2697.0,Not as described,Flipkart,0,3
+R01376,O008995,2026-07-15,Classic Tee,1497.0,Quality issue,Website,1,3
+R01377,O001867,2026-07-10,Sunglasses,3897.0,Refused at delivery,WhatsApp,1,3
+R01378,O003841,2026-07-22,Backpack,3198.0,Refused at delivery,Website,1,2
+R01379,O007832,2026-07-17,Sneakers,2799.0,Size or fit,Website,1,1
+R01380,O008277,2026-07-21,Hoodie,1799.0,Refused at delivery,WhatsApp,1,1
+R01381,O001306,2026-07-13,Hoodie,5397.0,Damaged in transit,Flipkart,0,3
+R01382,O003945,2026-07-22,Hoodie,1799.0,Size or fit,Website,0,1
+R01383,O005015,2026-07-18,Classic Tee,1497.0,Damaged in transit,Meesho,0,3
+R01384,O005429,2026-07-11,Running Shoes,9897.0,Not as described,Website,0,3
+R01385,O007462,2026-07-12,Sneakers,5598.0,Not as described,Website,0,2
+R01386,O008403,2026-07-13,Hoodie,5397.0,Not as described,Website,0,3
+R01387,O001010,2026-07-16,Denim Jacket,4998.0,Damaged in transit,Amazon,0,2
+R01388,O005790,2026-07-15,Running Shoes,3299.0,Changed mind,Meesho,1,1
+R01389,O007755,2026-07-18,Sandals,2697.0,Quality issue,Amazon,1,3
+R01390,O010872,2026-07-15,Hoodie,3598.0,Damaged in transit,WhatsApp,0,2
+R01391,O010872,2026-07-21,Sandals,2697.0,Quality issue,Website,1,3
+R01392,O000236,2026-07-25,Sneakers,5598.0,Size or fit,Meesho,0,2
+R01393,O004894,2026-07-13,Sandals,2697.0,Not as described,Amazon,0,3
+R01394,O006755,2026-07-14,Sneakers,8397.0,Refused at delivery,Website,1,3
+R01395,O008406,2026-07-16,Wrist Watch,4499.0,Changed mind,WhatsApp,0,1
+R01396,O011311,2026-07-17,Cap,1047.0,Size or fit,Amazon,0,3
+R01397,O002241,2026-07-25,Sandals,2697.0,Size or fit,Website,0,3
+R01398,O003858,2026-07-14,Sneakers,8397.0,Refused at delivery,WhatsApp,1,3
+R01399,O006095,2026-07-17,Hoodie,1799.0,Changed mind,Meesho,0,1
+R01400,O011802,2026-07-26,Sneakers,2799.0,Not as described,Website,0,1
+R01401,O004965,2026-07-20,Hoodie,3598.0,Damaged in transit,Website,0,2
+R01402,O009627,2026-07-20,Sunglasses,2598.0,Quality issue,Amazon,0,2
+R01403,O011135,2026-07-27,Hoodie,5397.0,Refused at delivery,Meesho,1,3
+R01404,O011135,2026-07-16,Cap,1047.0,Not as described,Flipkart,0,3
+R01405,O002295,2026-07-23,Running Shoes,9897.0,Size or fit,Website,0,3
+R01406,O011853,2026-07-20,Sunglasses,2598.0,Changed mind,Flipkart,0,2
+R01407,O006839,2026-07-22,Cap,698.0,Size or fit,Website,0,2
+R01408,O006454,2026-07-25,Hoodie,1799.0,Size or fit,Amazon,0,1
+R01409,O009810,2026-07-30,Sandals,2697.0,Quality issue,Meesho,0,3
+R01410,O010873,2026-07-28,Denim Jacket,2499.0,Refused at delivery,WhatsApp,1,1
+R01411,O011100,2026-07-24,Hoodie,1799.0,Changed mind,Amazon,0,1
+R01412,O004859,2026-07-20,Sandals,1798.0,Not as described,Flipkart,1,2
+R01413,O006366,2026-07-21,Sunglasses,3897.0,Quality issue,WhatsApp,0,3
+R01414,O006938,2026-07-26,Classic Tee,998.0,Quality issue,Flipkart,0,2
+R01415,O007942,2026-07-23,Hoodie,3598.0,Refused at delivery,Meesho,1,2
+R01416,O008279,2026-07-23,Running Shoes,6598.0,Not as described,Amazon,0,2
+R01417,O009457,2026-07-21,Cap,698.0,Quality issue,Amazon,0,2
+R01418,O005938,2026-07-28,Classic Tee,1497.0,Damaged in transit,Flipkart,0,3
+R01419,O006006,2026-07-21,Sandals,899.0,Size or fit,Amazon,0,1
+R01420,O006432,2026-07-25,Sunglasses,1299.0,Size or fit,Meesho,0,1
+R01421,O008308,2026-07-25,Classic Tee,499.0,Size or fit,WhatsApp,0,1
+R01422,O008369,2026-07-21,Running Shoes,6598.0,Not as described,Amazon,0,2
+R01423,O010196,2026-07-24,Sneakers,8397.0,Size or fit,Meesho,1,3
+R01424,O004695,2026-07-28,Sandals,1798.0,Not as described,Meesho,0,2
+R01425,O007314,2026-07-29,Cap,698.0,Not as described,Amazon,1,2
+R01426,O008721,2026-07-27,Sandals,2697.0,Not as described,Flipkart,0,3
+R01427,O009871,2026-07-25,Running Shoes,3299.0,Changed mind,Amazon,0,1
+R01428,O000131,2026-08-03,Sandals,2697.0,Quality issue,Flipkart,1,3
+R01429,O001106,2026-08-02,Denim Jacket,7497.0,Size or fit,Website,0,3
+R01430,O004044,2026-07-23,Running Shoes,9897.0,Changed mind,Flipkart,0,3
+R01431,O007650,2026-08-01,Sneakers,8397.0,Refused at delivery,WhatsApp,1,3
+R01432,O009400,2026-07-31,Sandals,2697.0,Size or fit,WhatsApp,0,3
+R01433,O009400,2026-08-02,Cap,1047.0,Changed mind,Flipkart,0,3
+R01434,O010317,2026-07-30,Backpack,1599.0,Damaged in transit,Amazon,0,1
+R01435,O004950,2026-07-25,Classic Tee,499.0,Damaged in transit,Amazon,0,1
+R01436,O008487,2026-07-30,Cap,698.0,Quality issue,Flipkart,0,2
+R01437,O008935,2026-08-01,Classic Tee,1497.0,Refused at delivery,Flipkart,1,3
+R01438,O002880,2026-08-01,Denim Jacket,7497.0,Size or fit,Website,0,3
+R01439,O005351,2026-07-25,Sunglasses,3897.0,Damaged in transit,Website,0,3
+R01440,O005620,2026-08-06,Sneakers,2799.0,Refused at delivery,Website,1,1
+R01441,O008074,2026-07-30,Classic Tee,998.0,Not as described,Flipkart,0,2
+R01442,O002474,2026-08-07,Sunglasses,1299.0,Damaged in transit,WhatsApp,0,1
+R01443,O003962,2026-08-07,Sneakers,5598.0,Size or fit,Amazon,0,2
+R01444,O004181,2026-07-26,Hoodie,3598.0,Refused at delivery,Amazon,1,2
+R01445,O006806,2026-08-03,Hoodie,5397.0,Not as described,Flipkart,0,3
+R01446,O008992,2026-07-26,Running Shoes,9897.0,Refused at delivery,Amazon,1,3
+R01447,O000099,2026-07-30,Running Shoes,3299.0,Not as described,Website,0,1
+R01448,O010214,2026-07-31,Running Shoes,6598.0,Refused at delivery,WhatsApp,1,2
+R01449,O011655,2026-08-06,Sneakers,2799.0,Size or fit,Amazon,0,1
+R01450,O001149,2026-08-06,Denim Jacket,2499.0,Changed mind,WhatsApp,1,1
+R01451,O001491,2026-07-30,Sandals,2697.0,Size or fit,Website,0,3
+R01452,O002407,2026-08-09,Running Shoes,3299.0,Changed mind,Flipkart,0,1
+R01453,O002774,2026-07-31,Sandals,2697.0,Refused at delivery,WhatsApp,1,3
+R01454,O003802,2026-08-07,Backpack,4797.0,Refused at delivery,Meesho,1,3
+R01455,O003872,2026-07-28,Sunglasses,3897.0,Changed mind,Meesho,1,3
+R01456,O005408,2026-08-01,Running Shoes,6598.0,Damaged in transit,Flipkart,0,2
+R01457,O007144,2026-08-03,Hoodie,1799.0,Damaged in transit,WhatsApp,0,1
+R01458,O007746,2026-08-02,Hoodie,1799.0,Refused at delivery,Meesho,1,1
+R01459,O007837,2026-08-04,Running Shoes,6598.0,Quality issue,WhatsApp,0,2
+R01460,O008786,2026-07-29,Cap,698.0,Size or fit,Flipkart,0,2
+R01461,O001190,2026-08-02,Cap,349.0,Quality issue,Flipkart,1,1
+R01462,O001903,2026-08-08,Sandals,899.0,Quality issue,Amazon,0,1
+R01463,O003768,2026-08-08,Classic Tee,499.0,Damaged in transit,Flipkart,0,1
+R01464,O004203,2026-07-31,Sneakers,5598.0,Quality issue,Website,0,2
+R01465,O006253,2026-07-31,Hoodie,5397.0,Quality issue,WhatsApp,0,3
+R01466,O010956,2026-08-01,Classic Tee,998.0,Damaged in transit,Amazon,0,2
+R01467,O000676,2026-07-30,Sandals,1798.0,Quality issue,WhatsApp,0,2
+R01468,O003690,2026-08-10,Denim Jacket,4998.0,Not as described,Website,0,2
+R01469,O008886,2026-08-04,Hoodie,3598.0,Damaged in transit,Meesho,0,2
+R01470,O009252,2026-08-02,Sneakers,2799.0,Not as described,WhatsApp,0,1
+R01471,O010351,2026-08-05,Denim Jacket,4998.0,Size or fit,Flipkart,0,2
+R01472,O000947,2026-08-08,Sneakers,5598.0,Size or fit,WhatsApp,1,2
+R01473,O002464,2026-08-02,Denim Jacket,4998.0,Refused at delivery,Meesho,1,2
+R01474,O003058,2026-07-31,Backpack,3198.0,Not as described,Amazon,0,2
+R01475,O005877,2026-08-12,Classic Tee,499.0,Not as described,Amazon,0,1
+R01476,O008774,2026-08-12,Sandals,899.0,Not as described,Website,0,1
+R01477,O011896,2026-07-31,Cap,1047.0,Refused at delivery,Amazon,1,3
+R01478,O011907,2026-07-31,Backpack,3198.0,Damaged in transit,Website,1,2
+R01479,O002969,2026-08-03,Sunglasses,3897.0,Refused at delivery,Flipkart,1,3
+R01480,O005803,2026-08-04,Classic Tee,1497.0,Size or fit,Amazon,0,3
+R01481,O006013,2026-08-02,Backpack,3198.0,Changed mind,Amazon,0,2
+R01482,O006013,2026-08-10,Cap,698.0,Quality issue,Flipkart,0,2
+R01483,O007671,2026-08-07,Sneakers,2799.0,Refused at delivery,Meesho,1,1
+R01484,O008680,2026-08-09,Classic Tee,499.0,Changed mind,Website,0,1
+R01485,O009453,2026-08-12,Sandals,2697.0,Size or fit,Flipkart,0,3
+R01486,O011582,2026-08-12,Hoodie,3598.0,Not as described,Flipkart,1,2
+R01487,O000011,2026-08-14,Sandals,2697.0,Refused at delivery,Meesho,1,3
+R01488,O002116,2026-08-02,Hoodie,1799.0,Refused at delivery,Meesho,1,1
+R01489,O002836,2026-08-11,Hoodie,3598.0,Not as described,Amazon,0,2
+R01490,O006780,2026-08-07,Running Shoes,9897.0,Damaged in transit,Flipkart,0,3
+R01491,O000509,2026-08-08,Sunglasses,1299.0,Size or fit,Meesho,0,1
+R01492,O002000,2026-08-06,Hoodie,1799.0,Size or fit,Amazon,1,1
+R01493,O008187,2026-08-15,Cap,698.0,Changed mind,Meesho,0,2
+R01494,O008689,2026-08-08,Sunglasses,3897.0,Not as described,Amazon,1,3
+R01495,O002126,2026-08-09,Backpack,4797.0,Changed mind,Meesho,1,3
+R01496,O003079,2026-08-08,Hoodie,1799.0,Quality issue,Flipkart,0,1
+R01497,O003251,2026-08-08,Classic Tee,998.0,Changed mind,Meesho,0,2
+R01498,O003422,2026-08-05,Sneakers,2799.0,Size or fit,Amazon,0,1
+R01499,O003539,2026-08-09,Denim Jacket,7497.0,Refused at delivery,Website,1,3
+R01500,O004393,2026-08-16,Denim Jacket,7497.0,Damaged in transit,Website,0,3
+R01501,O005002,2026-08-09,Running Shoes,9897.0,Changed mind,Amazon,0,3
+R01502,O007589,2026-08-13,Denim Jacket,2499.0,Changed mind,Amazon,1,1
+R01503,O010888,2026-08-12,Cap,349.0,Refused at delivery,Meesho,1,1
+R01504,O002788,2026-08-16,Hoodie,3598.0,Not as described,Website,0,2
+R01505,O005284,2026-08-09,Sunglasses,2598.0,Changed mind,Meesho,0,2
+R01506,O007172,2026-08-14,Sunglasses,3897.0,Quality issue,Flipkart,0,3
+R01507,O008397,2026-08-07,Sneakers,2799.0,Size or fit,Website,0,1
+R01508,O005400,2026-08-13,Running Shoes,6598.0,Damaged in transit,Flipkart,1,2
+R01509,O002164,2026-08-11,Cap,1047.0,Refused at delivery,WhatsApp,1,3
+R01510,O002434,2026-08-18,Hoodie,1799.0,Size or fit,WhatsApp,0,1
+R01511,O002896,2026-08-17,Hoodie,5397.0,Refused at delivery,Website,1,3
+R01512,O005064,2026-08-09,Hoodie,3598.0,Damaged in transit,Flipkart,0,2
+R01513,O006600,2026-08-09,Backpack,3198.0,Quality issue,Website,0,2
+R01514,O006600,2026-08-08,Sunglasses,3897.0,Quality issue,Amazon,1,3
+R01515,O010581,2026-08-15,Sneakers,5598.0,Quality issue,Website,0,2
+R01516,O011444,2026-08-09,Hoodie,3598.0,Not as described,Amazon,0,2
+R01517,O000738,2026-08-12,Classic Tee,998.0,Damaged in transit,Website,0,2
+R01518,O007259,2026-08-09,Sandals,2697.0,Not as described,Flipkart,0,3
+R01519,O008888,2026-08-10,Hoodie,1799.0,Not as described,Website,0,1
+R01520,O005438,2026-08-11,Sneakers,8397.0,Not as described,Website,0,3
+R01521,O008248,2026-08-09,Cap,1047.0,Size or fit,Flipkart,0,3
+R01522,O009355,2026-08-10,Cap,349.0,Damaged in transit,Amazon,0,1
+R01523,O007909,2026-08-16,Sunglasses,3897.0,Refused at delivery,Website,1,3
+R01524,O010555,2026-08-22,Backpack,3198.0,Quality issue,Meesho,0,2
+R01525,O011700,2026-08-13,Classic Tee,1497.0,Refused at delivery,Amazon,1,3
+R01526,O000917,2026-08-17,Backpack,3198.0,Changed mind,Meesho,1,2
+R01527,O004257,2026-08-23,Sneakers,2799.0,Quality issue,WhatsApp,1,1
+R01528,O006902,2026-08-21,Sneakers,2799.0,Size or fit,Meesho,0,1
+R01529,O011758,2026-08-17,Sandals,899.0,Size or fit,WhatsApp,0,1
+R01530,O001530,2026-08-21,Sandals,1798.0,Quality issue,Website,1,2
+R01531,O002807,2026-08-16,Classic Tee,1497.0,Quality issue,Flipkart,0,3
+R01532,O005508,2026-08-19,Denim Jacket,7497.0,Damaged in transit,Website,0,3
+R01533,O005568,2026-08-16,Wrist Watch,13497.0,Refused at delivery,Flipkart,1,3
+R01534,O009943,2026-08-14,Running Shoes,6598.0,Not as described,Website,0,2
+R01535,O001435,2026-08-26,Sneakers,2799.0,Not as described,Amazon,0,1
+R01536,O001623,2026-08-20,Hoodie,3598.0,Quality issue,Website,0,2
+R01537,O008488,2026-08-22,Denim Jacket,4998.0,Damaged in transit,WhatsApp,0,2
+R01538,O008645,2026-08-20,Denim Jacket,4998.0,Size or fit,Flipkart,1,2
+R01539,O000348,2026-08-17,Sneakers,2799.0,Refused at delivery,WhatsApp,1,1
+R01540,O003341,2026-08-24,Classic Tee,998.0,Quality issue,Website,0,2
+R01541,O003560,2026-08-27,Hoodie,1799.0,Refused at delivery,Meesho,1,1
+R01542,O004869,2026-08-27,Denim Jacket,4998.0,Size or fit,Website,0,2
+R01543,O004978,2026-08-24,Cap,349.0,Size or fit,Amazon,0,1
+R01544,O006954,2026-08-17,Backpack,1599.0,Not as described,Website,0,1
+R01545,O007385,2026-08-19,Backpack,4797.0,Size or fit,Flipkart,0,3
+R01546,O010726,2026-08-21,Sandals,1798.0,Quality issue,Flipkart,0,2
+R01547,O002296,2026-08-23,Running Shoes,6598.0,Changed mind,Amazon,0,2
+R01548,O003266,2026-08-26,Sneakers,2799.0,Size or fit,WhatsApp,1,1
+R01549,O004834,2026-08-18,Cap,1047.0,Quality issue,Website,0,3
+R01550,O005017,2026-08-28,Hoodie,3598.0,Not as described,Website,0,2
+R01551,O005017,2026-08-27,Cap,349.0,Refused at delivery,Meesho,1,1
+R01552,O007437,2026-08-28,Cap,349.0,Not as described,Flipkart,0,1
+R01553,O008927,2026-08-22,Sneakers,8397.0,Refused at delivery,WhatsApp,1,3
+R01554,O000901,2026-08-28,Sunglasses,1299.0,Damaged in transit,Meesho,0,1
+R01555,O006368,2026-08-27,Backpack,3198.0,Refused at delivery,Flipkart,1,2
+R01556,O001139,2026-08-23,Classic Tee,998.0,Not as described,Website,0,2
+R01557,O001297,2026-08-22,Sandals,1798.0,Quality issue,Website,1,2
+R01558,O003519,2026-08-29,Hoodie,1799.0,Refused at delivery,Meesho,1,1
+R01559,O010998,2026-08-20,Backpack,4797.0,Changed mind,Flipkart,0,3
+R01560,O010998,2026-08-27,Sunglasses,2598.0,Damaged in transit,Website,0,2
+R01561,O011851,2026-08-29,Hoodie,5397.0,Size or fit,Website,0,3
+R01562,O000010,2026-08-31,Sandals,899.0,Size or fit,WhatsApp,1,1
+R01563,O000341,2026-08-25,Sneakers,2799.0,Size or fit,Amazon,0,1
+R01564,O000629,2026-08-29,Cap,349.0,Size or fit,Website,0,1
+R01565,O002371,2026-08-24,Hoodie,5397.0,Size or fit,Website,0,3
+R01566,O003704,2026-08-24,Running Shoes,9897.0,Not as described,Amazon,0,3
+R01567,O004426,2026-08-23,Hoodie,1799.0,Not as described,Website,0,1
+R01568,O005897,2026-08-19,Sandals,2697.0,Quality issue,Amazon,0,3
+R01569,O007565,2026-08-27,Hoodie,5397.0,Refused at delivery,WhatsApp,1,3
+R01570,O004427,2026-08-31,Running Shoes,6598.0,Damaged in transit,Amazon,0,2
+R01571,O007021,2026-08-29,Sneakers,8397.0,Not as described,WhatsApp,1,3
+R01572,O010665,2026-08-22,Sandals,899.0,Quality issue,Website,0,1
+R01573,O010731,2026-08-20,Cap,1047.0,Size or fit,Website,0,3
+R01574,O011799,2026-08-22,Cap,698.0,Changed mind,Meesho,0,2
+R01575,O002495,2026-08-27,Sandals,2697.0,Not as described,Amazon,0,3
+R01576,O007511,2026-08-25,Sneakers,2799.0,Refused at delivery,Flipkart,1,1
+R01577,O010054,2026-08-29,Sneakers,5598.0,Size or fit,Flipkart,0,2
+R01578,O000240,2026-08-25,Classic Tee,1497.0,Refused at delivery,Meesho,1,3
+R01579,O000941,2026-09-03,Denim Jacket,4998.0,Changed mind,Website,0,2
+R01580,O003062,2026-08-27,Running Shoes,6598.0,Quality issue,Meesho,0,2
+R01581,O006155,2026-08-31,Backpack,3198.0,Changed mind,Amazon,0,2
+R01582,O009027,2026-08-31,Backpack,3198.0,Size or fit,Flipkart,1,2
+R01583,O009368,2026-09-02,Backpack,1599.0,Damaged in transit,Flipkart,0,1
+R01584,O010949,2026-08-31,Denim Jacket,4998.0,Not as described,Flipkart,0,2
+R01585,O000579,2026-08-28,Sandals,1798.0,Size or fit,Website,0,2
+R01586,O006587,2026-09-05,Backpack,1599.0,Size or fit,Amazon,1,1
+R01587,O009264,2026-09-01,Running Shoes,9897.0,Not as described,Amazon,1,3
+R01588,O010639,2026-09-02,Running Shoes,9897.0,Size or fit,WhatsApp,0,3
+R01589,O011363,2026-09-04,Denim Jacket,2499.0,Size or fit,Amazon,0,1
+R01590,O000867,2026-08-27,Sneakers,8397.0,Size or fit,Website,1,3
+R01591,O001467,2026-08-31,Sneakers,5598.0,Quality issue,Meesho,0,2
+R01592,O005563,2026-08-27,Denim Jacket,7497.0,Size or fit,Website,0,3
+R01593,O008110,2026-08-30,Cap,1047.0,Size or fit,Amazon,1,3
+R01594,O011241,2026-08-29,Sandals,2697.0,Quality issue,Amazon,0,3
+R01595,O011426,2026-09-04,Backpack,3198.0,Damaged in transit,Flipkart,0,2
+R01596,O011620,2026-09-09,Hoodie,5397.0,Damaged in transit,Meesho,0,3
+R01597,O005306,2026-09-05,Sneakers,2799.0,Quality issue,Flipkart,0,1
+R01598,O005108,2026-09-11,Classic Tee,1497.0,Refused at delivery,Amazon,1,3
+R01599,O005208,2026-09-03,Hoodie,3598.0,Size or fit,Flipkart,0,2
+R01600,O009114,2026-09-10,Sandals,899.0,Not as described,Meesho,0,1
+R01601,O007812,2026-09-09,Sunglasses,3897.0,Not as described,Flipkart,0,3
+R01602,O003650,2026-09-05,Hoodie,1799.0,Refused at delivery,Website,1,1
+R01603,O001381,2026-09-04,Sneakers,8397.0,Size or fit,WhatsApp,0,3
+R01604,O003934,2026-09-03,Hoodie,5397.0,Damaged in transit,Website,0,3
+R01605,O004687,2026-09-14,Denim Jacket,4998.0,Quality issue,Meesho,0,2
+R01606,O008747,2026-09-07,Running Shoes,9897.0,Size or fit,Flipkart,1,3
+R01607,O004059,2026-09-04,Hoodie,1799.0,Size or fit,Meesho,0,1
+R01608,O005084,2026-09-06,Backpack,4797.0,Size or fit,Meesho,0,3
+R01609,O008476,2026-09-15,Sandals,2697.0,Size or fit,Flipkart,1,3
+R01610,O009327,2026-09-07,Hoodie,5397.0,Quality issue,Meesho,0,3
+R01611,O009385,2026-09-05,Denim Jacket,7497.0,Refused at delivery,WhatsApp,1,3
+R01612,O009385,2026-09-04,Classic Tee,1497.0,Size or fit,Flipkart,0,3
+R01613,O003288,2026-09-15,Sneakers,8397.0,Refused at delivery,Meesho,1,3
+R01614,O003288,2026-09-15,Classic Tee,499.0,Changed mind,Website,0,1
+R01615,O005207,2026-09-10,Running Shoes,3299.0,Size or fit,Meesho,0,1
+R01616,O008924,2026-09-16,Backpack,4797.0,Refused at delivery,WhatsApp,1,3
+R01617,O010855,2026-09-15,Cap,1047.0,Changed mind,Meesho,0,3
+R01618,O001339,2026-09-14,Sunglasses,1299.0,Refused at delivery,Website,1,1
+R01619,O002334,2026-09-17,Sandals,1798.0,Quality issue,Website,0,2
+R01620,O003625,2026-09-16,Backpack,4797.0,Refused at delivery,Flipkart,1,3
+R01621,O010415,2026-09-10,Hoodie,1799.0,Size or fit,Amazon,0,1
+R01622,O010539,2026-09-13,Denim Jacket,7497.0,Not as described,Website,0,3
+R01623,O006815,2026-09-18,Denim Jacket,4998.0,Refused at delivery,WhatsApp,1,2
+R01624,O007828,2026-09-20,Running Shoes,3299.0,Not as described,Meesho,1,1
+R01625,O002490,2026-09-20,Sandals,2697.0,Not as described,Website,0,3
+R01626,O004665,2026-09-18,Hoodie,5397.0,Refused at delivery,Website,1,3
+R01627,O009576,2026-09-17,Sandals,1798.0,Quality issue,Amazon,0,2
+R01628,O011533,2026-09-11,Sandals,2697.0,Refused at delivery,Meesho,1,3
+R01629,O000766,2026-09-22,Backpack,1599.0,Quality issue,Amazon,0,1
+R01630,O000859,2026-09-13,Sandals,1798.0,Size or fit,Website,0,2
+R01631,O000876,2026-09-17,Sneakers,8397.0,Size or fit,WhatsApp,1,3
+R01632,O001112,2026-09-15,Backpack,3198.0,Not as described,Website,0,2
+R01633,O001277,2026-09-19,Sneakers,8397.0,Refused at delivery,Flipkart,1,3
+R01634,O003020,2026-09-13,Classic Tee,998.0,Refused at delivery,WhatsApp,1,2
+R01635,O000156,2026-09-22,Sandals,2697.0,Size or fit,Flipkart,0,3
+R01636,O002979,2026-09-18,Sandals,899.0,Quality issue,Meesho,0,1
+R01637,O009320,2026-09-21,Sandals,2697.0,Refused at delivery,Meesho,1,3
+R01638,O011424,2026-09-19,Classic Tee,1497.0,Size or fit,WhatsApp,0,3
+R01639,O008326,2026-09-19,Sunglasses,3897.0,Not as described,WhatsApp,0,3
+R01640,O009404,2026-09-17,Denim Jacket,4998.0,Size or fit,Website,0,2
+R01641,O001792,2026-09-25,Cap,698.0,Damaged in transit,WhatsApp,0,2
+R01642,O003630,2026-09-23,Denim Jacket,7497.0,Size or fit,Amazon,0,3
+R01643,O004093,2026-09-13,Sneakers,8397.0,Refused at delivery,Website,1,3
+R01644,O004213,2026-09-21,Hoodie,1799.0,Not as described,Amazon,0,1
+R01645,O010950,2026-09-22,Sneakers,8397.0,Refused at delivery,Flipkart,1,3
+R01646,O006743,2026-09-25,Sandals,899.0,Size or fit,Website,0,1
+R01647,O008025,2026-09-19,Hoodie,3598.0,Damaged in transit,Flipkart,0,2
+R01648,O003543,2026-09-20,Backpack,1599.0,Quality issue,Flipkart,0,1
+R01649,O004930,2026-09-24,Sneakers,8397.0,Refused at delivery,Meesho,1,3
+R01650,O007988,2026-09-19,Cap,698.0,Quality issue,Website,1,2
+R01651,O011843,2026-09-27,Sunglasses,1299.0,Damaged in transit,Website,0,1
+R01652,O000731,2026-09-23,Sneakers,8397.0,Not as described,Meesho,0,3
+R01653,O003434,2026-09-23,Cap,1047.0,Quality issue,Website,1,3
+R01654,O004502,2026-09-20,Classic Tee,998.0,Size or fit,Meesho,1,2
+R01655,O008717,2026-09-23,Sandals,2697.0,Not as described,WhatsApp,1,3
+R01656,O006270,2026-09-17,Classic Tee,499.0,Quality issue,Website,0,1
+R01657,O010529,2026-09-24,Cap,1047.0,Size or fit,Website,0,3
+R01658,O008149,2026-09-29,Denim Jacket,4998.0,Damaged in transit,Flipkart,0,2
+R01659,O011591,2026-10-01,Sneakers,2799.0,Size or fit,Website,0,1
+R01660,O011679,2026-09-20,Classic Tee,499.0,Damaged in transit,Amazon,0,1
+R01661,O011894,2026-09-30,Sandals,2697.0,Not as described,Website,0,3
+R01662,O001502,2026-09-26,Sneakers,5598.0,Not as described,Website,0,2
+R01663,O003712,2026-09-24,Sandals,899.0,Size or fit,Amazon,0,1
+R01664,O010284,2026-09-20,Running Shoes,3299.0,Not as described,Flipkart,0,1
+R01665,O002321,2026-09-29,Running Shoes,3299.0,Not as described,Amazon,0,1
+R01666,O002514,2026-09-23,Sneakers,8397.0,Size or fit,Website,1,3
+R01667,O005315,2026-09-26,Sunglasses,1299.0,Refused at delivery,Meesho,1,1
+R01668,O007720,2026-09-22,Hoodie,3598.0,Refused at delivery,Website,1,2
+R01669,O010263,2026-10-03,Sneakers,8397.0,Size or fit,Website,0,3
+R01670,O010264,2026-10-03,Sneakers,5598.0,Quality issue,Meesho,0,2
+R01671,O002491,2026-09-24,Denim Jacket,2499.0,Changed mind,Website,1,1
+R01672,O003899,2026-09-28,Running Shoes,6598.0,Quality issue,WhatsApp,1,2
+R01673,O004077,2026-10-02,Sunglasses,1299.0,Size or fit,Website,0,1
+R01674,O008158,2026-09-23,Hoodie,1799.0,Not as described,Website,0,1
+R01675,O000798,2026-09-30,Sandals,1798.0,Quality issue,Amazon,0,2
+R01676,O002423,2026-09-27,Sandals,899.0,Not as described,WhatsApp,0,1
+R01677,O004107,2026-09-24,Hoodie,1799.0,Not as described,Meesho,0,1
+R01678,O001402,2026-09-29,Hoodie,3598.0,Not as described,Meesho,1,2
+R01679,O003257,2026-09-29,Denim Jacket,4998.0,Size or fit,Website,0,2
+R01680,O006536,2026-10-05,Sneakers,5598.0,Refused at delivery,WhatsApp,1,2
+R01681,O010492,2026-09-28,Denim Jacket,2499.0,Refused at delivery,Website,1,1
+R01682,O011360,2026-09-25,Hoodie,1799.0,Quality issue,Flipkart,0,1
+R01683,O000804,2026-09-27,Hoodie,5397.0,Changed mind,Amazon,0,3
+R01684,O001409,2026-10-02,Hoodie,5397.0,Refused at delivery,Website,1,3
+R01685,O011930,2026-10-05,Denim Jacket,4998.0,Refused at delivery,Website,1,2
+R01686,O000113,2026-10-02,Sneakers,8397.0,Not as described,Amazon,1,3
+R01687,O010044,2026-10-05,Denim Jacket,7497.0,Refused at delivery,Meesho,1,3
+R01688,O011216,2026-09-30,Sneakers,5598.0,Not as described,Flipkart,0,2
+R01689,O000353,2026-10-02,Cap,349.0,Not as described,Amazon,0,1
+R01690,O001705,2026-10-05,Denim Jacket,2499.0,Quality issue,Website,1,1
+R01691,O006428,2026-10-08,Sneakers,5598.0,Not as described,Website,0,2
+R01692,O007445,2026-10-10,Sandals,2697.0,Not as described,Meesho,0,3
+R01693,O009667,2026-10-05,Sneakers,5598.0,Size or fit,Amazon,1,2
+R01694,O002849,2026-10-04,Hoodie,1799.0,Not as described,Meesho,0,1
+R01695,O004934,2026-10-06,Sneakers,8397.0,Quality issue,WhatsApp,1,3
+R01696,O005510,2026-10-01,Cap,1047.0,Refused at delivery,Amazon,1,3
+R01697,O005627,2026-10-04,Wrist Watch,13497.0,Quality issue,Website,0,3
+R01698,O010157,2026-10-03,Sneakers,8397.0,Size or fit,Website,0,3
+R01699,O010973,2026-10-10,Denim Jacket,2499.0,Refused at delivery,WhatsApp,1,1
+R01700,O000439,2026-10-05,Cap,698.0,Changed mind,Website,0,2
+R01701,O001466,2026-10-02,Sandals,899.0,Quality issue,Amazon,0,1
+R01702,O003093,2026-10-03,Sneakers,5598.0,Size or fit,Website,0,2
+R01703,O006168,2026-10-12,Wrist Watch,4499.0,Changed mind,Meesho,1,1
+R01704,O011108,2026-10-11,Running Shoes,3299.0,Refused at delivery,Website,1,1
+R01705,O004818,2026-10-04,Denim Jacket,4998.0,Size or fit,Meesho,1,2
+R01706,O011313,2026-10-03,Backpack,3198.0,Refused at delivery,WhatsApp,1,2
+R01707,O011592,2026-10-07,Denim Jacket,2499.0,Not as described,Website,1,1
+R01708,O007378,2026-10-07,Denim Jacket,4998.0,Changed mind,Amazon,0,2
+R01709,O000356,2026-10-17,Hoodie,1799.0,Changed mind,WhatsApp,0,1
+R01710,O002049,2026-10-09,Sneakers,5598.0,Size or fit,Amazon,0,2
+R01711,O003000,2026-10-17,Cap,698.0,Changed mind,Meesho,0,2
+R01712,O010159,2026-10-15,Classic Tee,998.0,Refused at delivery,WhatsApp,1,2
+R01713,O000931,2026-10-11,Cap,698.0,Refused at delivery,Amazon,1,2
+R01714,O001142,2026-10-09,Hoodie,3598.0,Size or fit,Amazon,0,2
+R01715,O001142,2026-10-11,Sandals,2697.0,Not as described,WhatsApp,1,3
+R01716,O004788,2026-10-09,Sneakers,2799.0,Quality issue,Amazon,0,1
+R01717,O007674,2026-10-10,Sneakers,2799.0,Not as described,Flipkart,1,1
+R01718,O010537,2026-10-14,Classic Tee,499.0,Size or fit,WhatsApp,0,1
+R01719,O010979,2026-10-13,Running Shoes,9897.0,Changed mind,WhatsApp,0,3
+R01720,O001002,2026-10-18,Running Shoes,3299.0,Quality issue,Meesho,0,1
+R01721,O008113,2026-10-07,Sneakers,5598.0,Refused at delivery,Meesho,1,2
+R01722,O011230,2026-10-18,Sunglasses,1299.0,Size or fit,Meesho,0,1
+R01723,O011349,2026-10-07,Sneakers,2799.0,Size or fit,Website,0,1
+R01724,O000306,2026-10-20,Hoodie,5397.0,Not as described,Amazon,1,3
+R01725,O007859,2026-10-15,Cap,349.0,Not as described,Amazon,0,1
+R01726,O007859,2026-10-12,Sandals,899.0,Size or fit,Website,0,1
+R01727,O000438,2026-10-15,Classic Tee,499.0,Changed mind,WhatsApp,0,1
+R01728,O001072,2026-10-21,Cap,1047.0,Refused at delivery,WhatsApp,1,3
+R01729,O004234,2026-10-20,Running Shoes,9897.0,Not as described,Amazon,1,3
+R01730,O005177,2026-10-10,Classic Tee,499.0,Damaged in transit,Flipkart,0,1
+R01731,O009202,2026-10-20,Sneakers,2799.0,Size or fit,Website,0,1
+R01732,O011386,2026-10-11,Sandals,899.0,Size or fit,Meesho,1,1
+R01733,O011631,2026-10-09,Backpack,4797.0,Quality issue,Flipkart,0,3
+R01734,O001878,2026-10-19,Cap,349.0,Refused at delivery,Amazon,1,1
+R01735,O003927,2026-10-13,Denim Jacket,7497.0,Changed mind,Amazon,1,3
+R01736,O004650,2026-10-18,Hoodie,1799.0,Not as described,Website,0,1
+R01737,O004969,2026-10-12,Running Shoes,9897.0,Not as described,Flipkart,0,3
+R01738,O001080,2026-10-16,Running Shoes,3299.0,Refused at delivery,Amazon,1,1
+R01739,O002237,2026-10-23,Sunglasses,1299.0,Size or fit,Website,0,1
+R01740,O008878,2026-10-12,Cap,349.0,Changed mind,Flipkart,0,1
+R01741,O002779,2026-10-17,Denim Jacket,4998.0,Damaged in transit,Website,0,2
+R01742,O005500,2026-10-13,Cap,698.0,Refused at delivery,Website,1,2
+R01743,O009440,2026-10-20,Denim Jacket,4998.0,Quality issue,Amazon,1,2
+R01744,O000030,2026-10-14,Classic Tee,1497.0,Refused at delivery,Flipkart,1,3
+R01745,O000769,2026-10-16,Sneakers,5598.0,Quality issue,Amazon,0,2
+R01746,O001971,2026-10-24,Denim Jacket,4998.0,Size or fit,Website,0,2
+R01747,O003410,2026-10-25,Classic Tee,1497.0,Refused at delivery,Meesho,1,3
+R01748,O008563,2026-10-20,Running Shoes,9897.0,Quality issue,Website,0,3
+R01749,O000555,2026-10-25,Hoodie,3598.0,Damaged in transit,Website,0,2
+R01750,O003789,2026-10-19,Sneakers,5598.0,Quality issue,Meesho,0,2
+R01751,O005960,2026-10-27,Sandals,899.0,Not as described,Meesho,1,1
+R01752,O008295,2026-10-17,Sneakers,5598.0,Not as described,Flipkart,1,2
+R01753,O003491,2026-10-25,Sneakers,8397.0,Refused at delivery,Meesho,1,3
+R01754,O011322,2026-10-21,Sneakers,2799.0,Size or fit,Meesho,0,1
+R01755,O011322,2026-10-22,Cap,349.0,Size or fit,Website,1,1
+R01756,O005053,2026-10-20,Denim Jacket,4998.0,Size or fit,Website,0,2
+R01757,O005819,2026-10-18,Cap,698.0,Refused at delivery,Website,1,2
+R01758,O006695,2026-10-19,Sneakers,5598.0,Quality issue,WhatsApp,1,2
+R01759,O007017,2026-10-20,Sneakers,5598.0,Size or fit,Website,0,2
+R01760,O007848,2026-10-28,Sneakers,2799.0,Not as described,Website,0,1
+R01761,O007996,2026-10-18,Hoodie,5397.0,Not as described,Flipkart,0,3
+R01762,O004525,2026-10-23,Classic Tee,499.0,Not as described,Website,0,1
+R01763,O004642,2026-10-28,Sunglasses,1299.0,Quality issue,WhatsApp,1,1
+R01764,O001118,2026-10-29,Classic Tee,1497.0,Damaged in transit,Meesho,0,3
+R01765,O002729,2026-10-25,Hoodie,5397.0,Quality issue,Flipkart,0,3
+R01766,O003461,2026-10-31,Backpack,4797.0,Refused at delivery,WhatsApp,1,3
+R01767,O002356,2026-10-25,Denim Jacket,4998.0,Quality issue,Flipkart,0,2
+R01768,O002356,2026-10-23,Classic Tee,1497.0,Refused at delivery,Website,1,3
+R01769,O002777,2026-10-22,Cap,698.0,Size or fit,Meesho,0,2
+R01770,O006531,2026-10-22,Classic Tee,998.0,Quality issue,Meesho,0,2
+R01771,O004229,2026-10-27,Running Shoes,9897.0,Changed mind,Website,0,3
+R01772,O003955,2026-10-28,Backpack,1599.0,Damaged in transit,Amazon,0,1
+R01773,O006991,2026-10-31,Denim Jacket,7497.0,Size or fit,Flipkart,0,3
+R01774,O007553,2026-10-31,Sandals,1798.0,Not as described,WhatsApp,0,2
+R01775,O007970,2026-10-31,Sneakers,8397.0,Quality issue,WhatsApp,1,3
+R01776,O007256,2026-10-31,Hoodie,5397.0,Damaged in transit,Website,0,3
+R01777,O002711,2026-10-31,Sneakers,8397.0,Size or fit,WhatsApp,0,3
+R01778,O008075,2026-10-31,Denim Jacket,7497.0,Refused at delivery,Meesho,1,3
+R01779,O010861,2026-10-31,Sneakers,5598.0,Quality issue,Flipkart,0,2
+R01780,O010863,2026-10-31,Denim Jacket,4998.0,Quality issue,Website,0,2
+R01781,O002770,2026-10-31,Classic Tee,998.0,Size or fit,WhatsApp,0,2
+R01782,O006920,2026-10-31,Wrist Watch,8998.0,Size or fit,Amazon,1,2
+R01783,O009684,2026-10-31,Running Shoes,6598.0,Quality issue,Meesho,0,2
+R01784,O010933,2026-10-31,Wrist Watch,8998.0,Not as described,Meesho,1,2

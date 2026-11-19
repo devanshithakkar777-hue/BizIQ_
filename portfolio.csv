@@ -1,0 +1,6 @@
+instrument,asset_class,units,buy_price,current_price
+Liquid Fund A,Liquid,1200,1000,1042.0
+Bank FD 1Y,Fixed Deposit,1,500000,531000.0
+Short Duration Debt Fund,Debt,8000,52,55.1
+Nifty 50 Index Fund,Equity,2500,150,171.4
+Gold ETF,Gold,3000,58,66.2

@@ -1,0 +1,11 @@
+product,unit_cost,channel_fee_pct,shipping_cost_per_order,packaging_cost
+Classic Tee,260,8,75,15
+Denim Jacket,1350,8,75,15
+Running Shoes,1750,9,75,15
+Sandals,470,18,75,15
+Backpack,820,8,75,15
+Sunglasses,640,10,75,15
+Hoodie,950,8,75,15
+Wrist Watch,2300,7,75,15
+Sneakers,2250,12,75,15
+Cap,170,15,75,15

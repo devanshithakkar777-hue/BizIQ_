@@ -1,0 +1,221 @@
+date,product,rating,review_text
+2026-05-06,Sandals,4,"Love it, very comfortable"
+2026-05-06,Sneakers,4,"Amazing product, my favourite purchase"
+2026-05-07,Sneakers,5,"Amazing product, my favourite purchase"
+2026-05-07,Denim Jacket,4,"Superb material, durable"
+2026-05-08,Hoodie,5,"Superb material, durable"
+2026-05-08,Sneakers,5,"Looks stylish, would recommend"
+2026-05-09,Wrist Watch,3,"Average product, as described"
+2026-05-09,Running Shoes,4,Excellent value for money
+2026-05-10,Classic Tee,1,Too expensive for what it is
+2026-05-10,Cap,1,"Terrible packaging, item damaged"
+2026-05-11,Classic Tee,3,"It is okay, nothing special"
+2026-05-11,Wrist Watch,1,Too expensive for what it is
+2026-05-12,Sunglasses,5,Excellent value for money
+2026-05-12,Backpack,4,Excellent value for money
+2026-05-14,Cap,4,"Love it, very comfortable"
+2026-05-15,Denim Jacket,5,Fast delivery and lovely packaging
+2026-05-15,Backpack,3,"Average product, as described"
+2026-05-15,Sunglasses,5,Excellent value for money
+2026-05-17,Classic Tee,4,"Love it, very comfortable"
+2026-05-17,Denim Jacket,4,Excellent value for money
+2026-05-18,Sandals,2,"Terrible packaging, item damaged"
+2026-05-18,Cap,1,"Disappointed, colour faded after one wash"
+2026-05-18,Hoodie,5,"Superb material, durable"
+2026-05-18,Hoodie,2,Too expensive for what it is
+2026-05-20,Wrist Watch,1,Delivery was late and support unhelpful
+2026-05-20,Classic Tee,5,"Amazing product, my favourite purchase"
+2026-05-21,Hoodie,2,Too expensive for what it is
+2026-05-21,Sneakers,5,"Amazing product, my favourite purchase"
+2026-05-21,Backpack,5,"Love it, very comfortable"
+2026-05-21,Sneakers,1,Size was wrong and return was a hassle
+2026-05-22,Wrist Watch,4,Excellent value for money
+2026-05-22,Cap,5,"Superb material, durable"
+2026-05-23,Wrist Watch,5,Great quality and fits perfectly
+2026-05-23,Backpack,2,Too expensive for what it is
+2026-05-24,Classic Tee,5,Fast delivery and lovely packaging
+2026-05-25,Cap,4,"Looks stylish, would recommend"
+2026-05-25,Backpack,4,Excellent value for money
+2026-05-27,Classic Tee,2,Too expensive for what it is
+2026-05-28,Sneakers,4,"Amazing product, my favourite purchase"
+2026-05-30,Sneakers,5,"Amazing product, my favourite purchase"
+2026-05-31,Cap,4,Fast delivery and lovely packaging
+2026-05-31,Wrist Watch,3,"It is okay, nothing special"
+2026-06-01,Sandals,5,"Looks stylish, would recommend"
+2026-06-01,Sunglasses,5,"Love it, very comfortable"
+2026-06-07,Sneakers,5,"Amazing product, my favourite purchase"
+2026-06-07,Sneakers,4,Excellent value for money
+2026-06-08,Wrist Watch,5,Excellent value for money
+2026-06-09,Sunglasses,4,"Superb material, durable"
+2026-06-11,Hoodie,2,"Terrible packaging, item damaged"
+2026-06-11,Sneakers,5,Excellent value for money
+2026-06-12,Sneakers,2,Delivery was late and support unhelpful
+2026-06-12,Wrist Watch,4,"Amazing product, my favourite purchase"
+2026-06-13,Sneakers,1,Too expensive for what it is
+2026-06-14,Cap,5,"Amazing product, my favourite purchase"
+2026-06-17,Sneakers,5,Fast delivery and lovely packaging
+2026-06-18,Hoodie,1,Delivery was late and support unhelpful
+2026-06-19,Cap,4,Excellent value for money
+2026-06-19,Sunglasses,3,"Average product, as described"
+2026-06-21,Denim Jacket,3,"Average product, as described"
+2026-06-22,Classic Tee,5,"Love it, very comfortable"
+2026-06-22,Wrist Watch,5,Excellent value for money
+2026-06-25,Classic Tee,5,Excellent value for money
+2026-06-25,Hoodie,5,"Looks stylish, would recommend"
+2026-06-26,Running Shoes,5,"Looks stylish, would recommend"
+2026-06-27,Cap,1,Delivery was late and support unhelpful
+2026-06-27,Sneakers,4,"Superb material, durable"
+2026-06-29,Sneakers,3,"It is okay, nothing special"
+2026-07-02,Sandals,5,"Looks stylish, would recommend"
+2026-07-02,Sunglasses,5,"Amazing product, my favourite purchase"
+2026-07-02,Cap,4,"Love it, very comfortable"
+2026-07-02,Hoodie,4,"Amazing product, my favourite purchase"
+2026-07-03,Denim Jacket,4,Great quality and fits perfectly
+2026-07-03,Hoodie,2,Delivery was late and support unhelpful
+2026-07-04,Sunglasses,2,Size was wrong and return was a hassle
+2026-07-04,Backpack,5,Excellent value for money
+2026-07-05,Sandals,1,"Poor quality, stitching came apart"
+2026-07-06,Wrist Watch,4,"Looks stylish, would recommend"
+2026-07-06,Backpack,5,"Superb material, durable"
+2026-07-07,Sunglasses,4,Excellent value for money
+2026-07-07,Backpack,2,Delivery was late and support unhelpful
+2026-07-08,Wrist Watch,4,Excellent value for money
+2026-07-08,Backpack,2,"Terrible packaging, item damaged"
+2026-07-08,Cap,4,"Looks stylish, would recommend"
+2026-07-08,Hoodie,4,"Looks stylish, would recommend"
+2026-07-08,Sneakers,2,"Poor quality, stitching came apart"
+2026-07-13,Sunglasses,5,"Love it, very comfortable"
+2026-07-13,Classic Tee,5,Fast delivery and lovely packaging
+2026-07-16,Cap,4,Fast delivery and lovely packaging
+2026-07-16,Wrist Watch,2,Too expensive for what it is
+2026-07-18,Wrist Watch,5,"Amazing product, my favourite purchase"
+2026-07-20,Denim Jacket,4,Great quality and fits perfectly
+2026-07-20,Sneakers,5,"Looks stylish, would recommend"
+2026-07-21,Classic Tee,5,"Superb material, durable"
+2026-07-21,Running Shoes,4,"Love it, very comfortable"
+2026-07-21,Backpack,4,"Love it, very comfortable"
+2026-07-22,Classic Tee,3,"It is okay, nothing special"
+2026-07-23,Wrist Watch,5,Fast delivery and lovely packaging
+2026-07-24,Sandals,4,Excellent value for money
+2026-07-25,Cap,5,Great quality and fits perfectly
+2026-07-26,Wrist Watch,5,"Looks stylish, would recommend"
+2026-07-26,Hoodie,5,Fast delivery and lovely packaging
+2026-07-28,Classic Tee,2,"Disappointed, colour faded after one wash"
+2026-07-28,Sandals,2,"Disappointed, colour faded after one wash"
+2026-07-29,Denim Jacket,4,"Looks stylish, would recommend"
+2026-07-30,Sunglasses,5,Great quality and fits perfectly
+2026-07-30,Cap,2,Size was wrong and return was a hassle
+2026-07-31,Backpack,1,"Terrible packaging, item damaged"
+2026-08-02,Denim Jacket,3,"Average product, as described"
+2026-08-04,Classic Tee,4,Excellent value for money
+2026-08-04,Sneakers,5,"Superb material, durable"
+2026-08-06,Sneakers,5,"Love it, very comfortable"
+2026-08-07,Sandals,5,Great quality and fits perfectly
+2026-08-07,Sunglasses,5,"Looks stylish, would recommend"
+2026-08-09,Sandals,2,"Terrible packaging, item damaged"
+2026-08-09,Wrist Watch,4,Fast delivery and lovely packaging
+2026-08-10,Sneakers,5,"Love it, very comfortable"
+2026-08-12,Running Shoes,3,"Average product, as described"
+2026-08-12,Backpack,1,Too expensive for what it is
+2026-08-13,Cap,4,"Love it, very comfortable"
+2026-08-13,Sandals,2,Too expensive for what it is
+2026-08-16,Wrist Watch,1,Too expensive for what it is
+2026-08-18,Cap,5,"Superb material, durable"
+2026-08-18,Sandals,5,Great quality and fits perfectly
+2026-08-19,Wrist Watch,5,Excellent value for money
+2026-08-22,Hoodie,4,"Superb material, durable"
+2026-08-22,Cap,4,"Amazing product, my favourite purchase"
+2026-08-23,Hoodie,5,Excellent value for money
+2026-08-25,Denim Jacket,5,Excellent value for money
+2026-08-25,Classic Tee,5,Fast delivery and lovely packaging
+2026-08-25,Running Shoes,5,"Love it, very comfortable"
+2026-08-25,Sandals,4,"Looks stylish, would recommend"
+2026-08-26,Sneakers,5,"Amazing product, my favourite purchase"
+2026-08-27,Sneakers,4,"Love it, very comfortable"
+2026-08-28,Backpack,3,"It is okay, nothing special"
+2026-08-29,Sneakers,5,"Love it, very comfortable"
+2026-08-29,Sandals,3,"It is okay, nothing special"
+2026-08-30,Denim Jacket,3,"It is okay, nothing special"
+2026-08-30,Classic Tee,2,"Terrible packaging, item damaged"
+2026-08-31,Classic Tee,3,"It is okay, nothing special"
+2026-08-31,Sneakers,4,"Amazing product, my favourite purchase"
+2026-08-31,Wrist Watch,4,"Looks stylish, would recommend"
+2026-08-31,Hoodie,4,Excellent value for money
+2026-09-01,Sneakers,5,Excellent value for money
+2026-09-01,Denim Jacket,5,Fast delivery and lovely packaging
+2026-09-02,Hoodie,3,"It is okay, nothing special"
+2026-09-02,Sneakers,1,"Poor quality, stitching came apart"
+2026-09-02,Sandals,5,Great quality and fits perfectly
+2026-09-02,Sunglasses,5,"Looks stylish, would recommend"
+2026-09-03,Cap,5,"Love it, very comfortable"
+2026-09-03,Sandals,2,Delivery was late and support unhelpful
+2026-09-03,Hoodie,5,"Superb material, durable"
+2026-09-03,Backpack,5,"Amazing product, my favourite purchase"
+2026-09-05,Backpack,5,Fast delivery and lovely packaging
+2026-09-05,Running Shoes,5,Great quality and fits perfectly
+2026-09-05,Classic Tee,5,"Love it, very comfortable"
+2026-09-06,Wrist Watch,4,"Looks stylish, would recommend"
+2026-09-06,Denim Jacket,4,"Amazing product, my favourite purchase"
+2026-09-08,Sandals,1,Too expensive for what it is
+2026-09-09,Wrist Watch,4,Excellent value for money
+2026-09-10,Wrist Watch,5,"Looks stylish, would recommend"
+2026-09-10,Wrist Watch,5,"Amazing product, my favourite purchase"
+2026-09-11,Hoodie,5,"Love it, very comfortable"
+2026-09-13,Running Shoes,5,"Love it, very comfortable"
+2026-09-13,Wrist Watch,2,"Terrible packaging, item damaged"
+2026-09-14,Denim Jacket,5,"Superb material, durable"
+2026-09-15,Hoodie,3,"Average product, as described"
+2026-09-16,Hoodie,5,Fast delivery and lovely packaging
+2026-09-16,Wrist Watch,5,Great quality and fits perfectly
+2026-09-16,Denim Jacket,5,"Looks stylish, would recommend"
+2026-09-18,Denim Jacket,4,Excellent value for money
+2026-09-18,Cap,5,"Looks stylish, would recommend"
+2026-09-19,Sunglasses,4,Excellent value for money
+2026-09-19,Denim Jacket,5,Great quality and fits perfectly
+2026-09-19,Backpack,5,"Love it, very comfortable"
+2026-09-19,Sandals,2,Delivery was late and support unhelpful
+2026-09-20,Cap,5,Great quality and fits perfectly
+2026-09-21,Cap,4,"Looks stylish, would recommend"
+2026-09-21,Denim Jacket,5,Excellent value for money
+2026-09-24,Hoodie,4,"Looks stylish, would recommend"
+2026-09-24,Cap,5,Fast delivery and lovely packaging
+2026-09-24,Backpack,2,Too expensive for what it is
+2026-09-24,Backpack,4,Fast delivery and lovely packaging
+2026-09-25,Sneakers,4,Excellent value for money
+2026-09-25,Wrist Watch,3,"Average product, as described"
+2026-09-26,Denim Jacket,5,Excellent value for money
+2026-09-28,Running Shoes,1,Too expensive for what it is
+2026-09-30,Backpack,3,"It is okay, nothing special"
+2026-10-01,Classic Tee,4,"Amazing product, my favourite purchase"
+2026-10-01,Classic Tee,5,Fast delivery and lovely packaging
+2026-10-01,Denim Jacket,5,Great quality and fits perfectly
+2026-10-02,Running Shoes,5,Fast delivery and lovely packaging
+2026-10-04,Sneakers,4,"Amazing product, my favourite purchase"
+2026-10-09,Classic Tee,5,Excellent value for money
+2026-10-09,Cap,4,"Superb material, durable"
+2026-10-12,Running Shoes,5,"Superb material, durable"
+2026-10-13,Sneakers,5,Great quality and fits perfectly
+2026-10-15,Hoodie,2,"Poor quality, stitching came apart"
+2026-10-15,Hoodie,4,"Love it, very comfortable"
+2026-10-16,Classic Tee,1,Delivery was late and support unhelpful
+2026-10-17,Sandals,5,"Amazing product, my favourite purchase"
+2026-10-17,Running Shoes,2,Too expensive for what it is
+2026-10-18,Backpack,4,Great quality and fits perfectly
+2026-10-19,Sunglasses,5,Fast delivery and lovely packaging
+2026-10-19,Backpack,2,Delivery was late and support unhelpful
+2026-10-20,Sneakers,5,"Amazing product, my favourite purchase"
+2026-10-20,Wrist Watch,5,Excellent value for money
+2026-10-21,Sunglasses,4,"Superb material, durable"
+2026-10-22,Running Shoes,3,"It is okay, nothing special"
+2026-10-23,Classic Tee,5,Great quality and fits perfectly
+2026-10-24,Hoodie,5,Great quality and fits perfectly
+2026-10-25,Wrist Watch,3,"It is okay, nothing special"
+2026-10-25,Wrist Watch,4,Great quality and fits perfectly
+2026-10-25,Classic Tee,5,Great quality and fits perfectly
+2026-10-27,Sandals,2,Delivery was late and support unhelpful
+2026-10-28,Wrist Watch,3,"Average product, as described"
+2026-10-28,Wrist Watch,5,"Love it, very comfortable"
+2026-10-30,Cap,3,"It is okay, nothing special"
+2026-10-30,Sandals,2,"Disappointed, colour faded after one wash"
+2026-10-31,Running Shoes,5,"Looks stylish, would recommend"
+2026-10-31,Sneakers,1,Too expensive for what it is

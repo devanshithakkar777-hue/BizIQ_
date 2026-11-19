@@ -1,0 +1,44 @@
+dish,ingredient,qty_per_portion,unit,unit_cost,selling_price,portions_sold
+Butter Chicken,Chicken,0.25,kg,330,420,640
+Butter Chicken,Butter,0.03,kg,520,420,640
+Butter Chicken,Cream,0.05,l,280,420,640
+Butter Chicken,Tomato,0.12,kg,40,420,640
+Butter Chicken,Spices,1.0,pack,9,420,640
+Paneer Tikka,Paneer,0.18,kg,380,320,410
+Paneer Tikka,Curd,0.05,kg,70,320,410
+Paneer Tikka,Capsicum,0.06,kg,60,320,410
+Paneer Tikka,Spices,1.0,pack,8,320,410
+Dal Makhani,Black dal,0.08,kg,150,260,520
+Dal Makhani,Butter,0.02,kg,520,260,520
+Dal Makhani,Cream,0.03,l,280,260,520
+Dal Makhani,Spices,1.0,pack,6,260,520
+Veg Biryani,Basmati rice,0.12,kg,130,290,380
+Veg Biryani,Mixed veg,0.15,kg,55,290,380
+Veg Biryani,Spices,1.0,pack,10,290,380
+Veg Biryani,Ghee,0.015,kg,640,290,380
+Chicken Biryani,Basmati rice,0.12,kg,130,250,590
+Chicken Biryani,Chicken,0.3,kg,330,250,590
+Chicken Biryani,Spices,1.0,pack,12,250,590
+Chicken Biryani,Ghee,0.02,kg,640,250,590
+Lamb Rogan Josh,Lamb,0.25,kg,820,520,70
+Lamb Rogan Josh,Curd,0.06,kg,70,520,70
+Lamb Rogan Josh,Spices,1.0,pack,14,520,70
+Prawn Masala,Prawns,0.22,kg,640,680,55
+Prawn Masala,Coconut milk,0.08,l,190,680,55
+Prawn Masala,Spices,1.0,pack,12,680,55
+Prawn Masala,Tomato,0.1,kg,40,680,55
+Garlic Naan,Flour,0.1,kg,38,70,1500
+Garlic Naan,Garlic,0.01,kg,160,70,1500
+Garlic Naan,Butter,0.01,kg,520,70,1500
+Masala Chai,Milk,0.15,l,62,60,1300
+Masala Chai,Tea leaves,0.005,kg,480,60,1300
+Masala Chai,Sugar,0.01,kg,45,60,1300
+Gulab Jamun,Khoya,0.06,kg,420,110,330
+Gulab Jamun,Sugar,0.05,kg,45,110,330
+Gulab Jamun,Oil,0.03,l,140,110,330
+Dessert Platter,Khoya,0.12,kg,420,240,60
+Dessert Platter,Dry fruits,0.04,kg,900,240,60
+Dessert Platter,Sugar,0.06,kg,45,240,60
+Mushroom Soup,Mushroom,0.1,kg,190,180,210
+Mushroom Soup,Cream,0.04,l,280,180,210
+Mushroom Soup,Butter,0.01,kg,520,180,210
