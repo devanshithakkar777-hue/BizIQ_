@@ -1,0 +1,337 @@
+expense_id,date,category,vendor,amount,department,payment_mode,approved_by,receipt_attached
+E00001,2025-11-02,Utilities,City Power Board,11800.0,Marketing,Bank transfer,Founder,1
+E00002,2025-11-04,Marketing,Meta Platforms,92500.0,Marketing,UPI,Founder,1
+E00003,2025-11-04,Utilities,Fibernet Broadband,18200.0,Operations,Card,Founder,1
+E00004,2025-11-06,Software,Shopify India,7700.0,Operations,UPI,Manager,1
+E00005,2025-11-06,Software,Cloud Hosting Co,9700.0,Admin,UPI,Founder,1
+E00006,2025-11-06,Travel,TravelDesk,60000.0,Operations,UPI,,1
+E00007,2025-11-08,Utilities,Fibernet Broadband,16400.0,Admin,Cash,Manager,0
+E00008,2025-11-08,Logistics,BlueRoute Cargo,37500.0,Admin,Bank transfer,Founder,1
+E00009,2025-11-09,Marketing,Creator Collective,410000.0,Marketing,UPI,Founder,1
+E00010,2025-11-10,Marketing,Meta Platforms,62700.0,Operations,Bank transfer,Founder,1
+E00011,2025-11-11,Software,Shopify India,8000.0,Admin,Bank transfer,Founder,1
+E00012,2025-11-11,Software,Shopify India,9700.0,Operations,Bank transfer,Founder,0
+E00013,2025-11-11,Repairs,FixIt Services,5700.0,Operations,Cash,Manager,1
+E00014,2025-11-13,Office,OfficeMart,5600.0,Admin,Bank transfer,Founder,1
+E00015,2025-11-15,Professional fees,Sharma & Associates CA,40800.0,Marketing,Card,Founder,1
+E00016,2025-11-15,Office,OfficeMart,5600.0,Admin,Bank transfer,Founder,1
+E00017,2025-11-16,Repairs,FixIt Services,8000.0,Admin,Bank transfer,Founder,1
+E00018,2025-11-18,Office,CleanCo Services,3800.0,Operations,UPI,Founder,1
+E00019,2025-11-18,Repairs,FixIt Services,3600.0,Marketing,UPI,Manager,1
+E00020,2025-11-19,Professional fees,LexPoint Legal,25600.0,Operations,Cash,Founder,0
+E00021,2025-11-21,Utilities,City Power Board,21900.0,Marketing,Card,Founder,1
+E00022,2025-11-23,Travel,CityCabs,6200.0,Marketing,Bank transfer,Manager,1
+E00023,2025-11-26,Marketing,Google India,29600.0,Admin,UPI,Founder,1
+E00024,2025-11-26,Travel,TravelDesk,11700.0,Marketing,Bank transfer,Manager,1
+E00025,2025-11-27,Software,Zoho Corp,10200.0,Admin,UPI,Founder,1
+E00026,2025-11-27,Repairs,FixIt Services,6600.0,Marketing,Card,Manager,1
+E00027,2025-11-29,Logistics,BlueRoute Cargo,39900.0,Marketing,Card,Founder,1
+E00028,2025-11-30,Professional fees,LexPoint Legal,22300.0,Marketing,Cash,Founder,1
+E00029,2025-11-30,Repairs,FixIt Services,12600.0,Operations,UPI,Founder,1
+E00030,2025-12-02,Office,CleanCo Services,5600.0,Operations,UPI,Manager,1
+E00031,2025-12-03,Marketing,Creator Collective,46800.0,Admin,Card,Founder,1
+E00032,2025-12-04,Logistics,SwiftShip Couriers,28800.0,Operations,UPI,Founder,1
+E00033,2025-12-06,Logistics,BlueRoute Cargo,16200.0,Marketing,Bank transfer,Manager,1
+E00034,2025-12-07,Professional fees,Sharma & Associates CA,45900.0,Operations,Bank transfer,Founder,1
+E00035,2025-12-09,Logistics,SwiftShip Couriers,51700.0,Operations,Card,Founder,1
+E00036,2025-12-10,Marketing,Creator Collective,81100.0,Admin,Cash,Founder,1
+E00037,2025-12-10,Software,Zoho Corp,13200.0,Marketing,Cash,Founder,0
+E00038,2025-12-11,Professional fees,Sharma & Associates CA,19800.0,Admin,Card,Founder,1
+E00039,2025-12-12,Software,Zoho Corp,13200.0,Marketing,Cash,Founder,0
+E00040,2025-12-14,Travel,CityCabs,12900.0,Operations,Bank transfer,Founder,0
+E00041,2025-12-15,Repairs,FixIt Services,8400.0,Admin,Bank transfer,Founder,1
+E00042,2025-12-17,Professional fees,Sharma & Associates CA,16100.0,Admin,UPI,Manager,1
+E00043,2025-12-18,Utilities,Fibernet Broadband,38500.0,Operations,UPI,Founder,1
+E00044,2025-12-18,Office,CleanCo Services,7300.0,Marketing,Bank transfer,Manager,1
+E00045,2025-12-19,Marketing,Meta Platforms,72800.0,Marketing,Bank transfer,Founder,1
+E00046,2025-12-19,Repairs,FixIt Services,60000.0,Marketing,Bank transfer,,1
+E00047,2025-12-20,Utilities,Fibernet Broadband,20700.0,Marketing,UPI,Founder,1
+E00048,2025-12-22,Software,Cloud Hosting Co,8900.0,Admin,Bank transfer,Manager,1
+E00049,2025-12-23,Software,Cloud Hosting Co,10000.0,Marketing,Bank transfer,Founder,1
+E00050,2025-12-23,Office,OfficeMart,7200.0,Operations,Bank transfer,Founder,1
+E00051,2025-12-27,Office,CleanCo Services,4500.0,Admin,Bank transfer,Manager,1
+E00052,2025-12-27,Repairs,FixIt Services,4800.0,Marketing,Bank transfer,Founder,1
+E00053,2025-12-28,Software,Cloud Hosting Co,3900.0,Operations,Bank transfer,Founder,1
+E00054,2025-12-28,Travel,CityCabs,8500.0,Admin,Bank transfer,Founder,1
+E00055,2025-12-30,Logistics,BlueRoute Cargo,47400.0,Operations,UPI,Founder,1
+E00056,2025-12-31,Software,Shopify India,7700.0,Marketing,Card,Manager,1
+E00057,2025-12-31,Logistics,BlueRoute Cargo,50500.0,Admin,Bank transfer,Founder,1
+E00058,2026-01-01,Logistics,SwiftShip Couriers,29300.0,Admin,UPI,Founder,1
+E00059,2026-01-05,Repairs,FixIt Services,11500.0,Admin,Card,Founder,1
+E00060,2026-01-07,Software,Shopify India,5400.0,Operations,Bank transfer,Founder,1
+E00061,2026-01-07,Travel,TravelDesk,5100.0,Marketing,Bank transfer,Founder,1
+E00062,2026-01-08,Marketing,Creator Collective,70900.0,Operations,Card,Founder,1
+E00063,2026-01-09,Marketing,Creator Collective,56900.0,Operations,UPI,Founder,1
+E00064,2026-01-10,Utilities,City Power Board,31100.0,Admin,UPI,Founder,1
+E00065,2026-01-14,Utilities,City Power Board,14800.0,Operations,Bank transfer,Manager,1
+E00066,2026-01-15,Professional fees,Sharma & Associates CA,22300.0,Operations,Bank transfer,Founder,1
+E00067,2026-01-15,Repairs,FixIt Services,13100.0,Admin,Cash,Founder,1
+E00068,2026-01-16,Marketing,Creator Collective,65300.0,Operations,Bank transfer,Founder,1
+E00069,2026-01-17,Software,Cloud Hosting Co,7000.0,Admin,UPI,Manager,1
+E00070,2026-01-17,Travel,CityCabs,4300.0,Operations,Bank transfer,Manager,1
+E00071,2026-01-18,Office,CleanCo Services,5700.0,Admin,Bank transfer,Manager,1
+E00072,2026-01-19,Marketing,Google India,52500.0,Operations,Bank transfer,Founder,1
+E00073,2026-01-23,Office,OfficeMart,8500.0,Marketing,Bank transfer,Founder,1
+E00074,2026-01-24,Travel,CityCabs,5500.0,Marketing,Card,Founder,1
+E00075,2026-01-27,Office,OfficeMart,6900.0,Operations,Bank transfer,Manager,1
+E00076,2026-01-28,Utilities,City Power Board,41300.0,Admin,Bank transfer,Founder,1
+E00077,2026-01-29,Professional fees,Sharma & Associates CA,13200.0,Marketing,Bank transfer,Founder,1
+E00078,2026-01-31,Logistics,SwiftShip Couriers,21900.0,Admin,Card,Founder,1
+E00079,2026-02-01,Utilities,Fibernet Broadband,15200.0,Operations,Bank transfer,Founder,1
+E00080,2026-02-02,Professional fees,LexPoint Legal,72900.0,Admin,Bank transfer,Founder,1
+E00081,2026-02-04,Marketing,Meta Platforms,79500.0,Marketing,UPI,Founder,1
+E00082,2026-02-04,Software,Cloud Hosting Co,8000.0,Marketing,UPI,Founder,1
+E00083,2026-02-04,Travel,TravelDesk,7900.0,Operations,Bank transfer,Manager,1
+E00084,2026-02-04,Repairs,FixIt Services,8200.0,Admin,UPI,Founder,1
+E00085,2026-02-06,Travel,TravelDesk,7000.0,Marketing,Bank transfer,Manager,1
+E00086,2026-02-07,Software,Cloud Hosting Co,8600.0,Operations,Bank transfer,Founder,1
+E00087,2026-02-08,Software,Cloud Hosting Co,14400.0,Admin,Cash,Founder,0
+E00088,2026-02-08,Logistics,SwiftShip Couriers,20600.0,Marketing,Card,Founder,1
+E00089,2026-02-10,Professional fees,Sharma & Associates CA,60000.0,Operations,Bank transfer,,1
+E00090,2026-02-11,Repairs,FixIt Services,5700.0,Marketing,Bank transfer,Founder,1
+E00091,2026-02-12,Utilities,Fibernet Broadband,25800.0,Operations,Bank transfer,Founder,1
+E00092,2026-02-14,Office,CleanCo Services,14300.0,Admin,Bank transfer,Founder,1
+E00093,2026-02-15,Logistics,BlueRoute Cargo,39500.0,Marketing,Card,Founder,1
+E00094,2026-02-16,Utilities,Fibernet Broadband,11500.0,Operations,Bank transfer,Founder,1
+E00095,2026-02-17,Utilities,City Power Board,32800.0,Admin,UPI,Founder,1
+E00096,2026-02-17,Office,OfficeMart,10800.0,Marketing,UPI,Founder,1
+E00097,2026-02-19,Office,CleanCo Services,7600.0,Admin,Cash,Manager,0
+E00098,2026-02-21,Travel,CityCabs,4200.0,Operations,UPI,Founder,1
+E00099,2026-02-22,Office,OfficeMart,7600.0,Admin,Cash,Manager,1
+E00100,2026-02-23,Logistics,SwiftShip Couriers,28200.0,Marketing,Card,Founder,1
+E00101,2026-02-24,Marketing,Creator Collective,58500.0,Marketing,Bank transfer,Founder,1
+E00102,2026-02-25,Software,Cloud Hosting Co,8800.0,Operations,UPI,Founder,1
+E00103,2026-02-25,Travel,CityCabs,9100.0,Operations,Bank transfer,Manager,1
+E00104,2026-02-26,Utilities,Fibernet Broadband,18400.0,Admin,UPI,Manager,1
+E00105,2026-02-26,Logistics,BlueRoute Cargo,27100.0,Operations,Bank transfer,Founder,1
+E00106,2026-02-26,Logistics,BlueRoute Cargo,34100.0,Operations,UPI,Founder,1
+E00107,2026-02-27,Office,OfficeMart,4500.0,Marketing,Bank transfer,Founder,1
+E00108,2026-02-27,Professional fees,LexPoint Legal,38400.0,Operations,Bank transfer,Founder,1
+E00109,2026-02-28,Utilities,Fibernet Broadband,18400.0,Admin,UPI,Manager,1
+E00110,2026-03-03,Logistics,SwiftShip Couriers,33700.0,Marketing,Bank transfer,Founder,1
+E00111,2026-03-05,Office,CleanCo Services,10000.0,Marketing,Bank transfer,Manager,1
+E00112,2026-03-06,Marketing,Creator Collective,60900.0,Operations,UPI,Founder,1
+E00113,2026-03-06,Utilities,Fibernet Broadband,21300.0,Marketing,Cash,Founder,1
+E00114,2026-03-09,Software,Shopify India,12900.0,Operations,UPI,Founder,1
+E00115,2026-03-09,Utilities,Fibernet Broadband,17800.0,Marketing,Bank transfer,Founder,1
+E00116,2026-03-09,Utilities,City Power Board,16300.0,Operations,Bank transfer,Manager,1
+E00117,2026-03-10,Logistics,SwiftShip Couriers,41200.0,Operations,UPI,Founder,1
+E00118,2026-03-11,Marketing,Meta Platforms,42300.0,Operations,Card,Founder,0
+E00119,2026-03-11,Logistics,BlueRoute Cargo,42100.0,Admin,Bank transfer,Founder,1
+E00120,2026-03-11,Repairs,FixIt Services,12000.0,Marketing,Card,Founder,1
+E00121,2026-03-16,Repairs,FixIt Services,4600.0,Operations,Cash,Founder,1
+E00122,2026-03-18,Logistics,SwiftShip Couriers,22100.0,Operations,Bank transfer,Founder,1
+E00123,2026-03-18,Office,CleanCo Services,3900.0,Marketing,Card,Manager,1
+E00124,2026-03-20,Travel,CityCabs,10100.0,Operations,Card,Founder,1
+E00125,2026-03-20,Logistics,SwiftShip Couriers,22100.0,Operations,Bank transfer,Founder,1
+E00126,2026-03-22,Professional fees,Sharma & Associates CA,22800.0,Marketing,Bank transfer,Founder,1
+E00127,2026-03-23,Repairs,FixIt Services,12700.0,Marketing,Bank transfer,Manager,1
+E00128,2026-03-24,Software,Shopify India,11500.0,Marketing,UPI,Manager,1
+E00129,2026-03-24,Logistics,BlueRoute Cargo,36700.0,Marketing,UPI,Founder,1
+E00130,2026-03-25,Office,CleanCo Services,9300.0,Admin,Bank transfer,Founder,1
+E00131,2026-03-25,Professional fees,LexPoint Legal,24300.0,Admin,UPI,Founder,1
+E00132,2026-03-25,Travel,TravelDesk,5600.0,Admin,UPI,Founder,1
+E00133,2026-03-26,Software,Shopify India,11400.0,Operations,Card,Founder,1
+E00134,2026-03-28,Utilities,City Power Board,21600.0,Admin,Bank transfer,Founder,1
+E00135,2026-03-28,Utilities,Fibernet Broadband,19000.0,Operations,Bank transfer,Manager,1
+E00136,2026-03-28,Office,OfficeMart,5100.0,Marketing,UPI,Founder,1
+E00137,2026-03-28,Professional fees,Sharma & Associates CA,23100.0,Operations,Bank transfer,Founder,1
+E00138,2026-04-01,Software,Shopify India,16800.0,Marketing,Bank transfer,Founder,1
+E00139,2026-04-02,Travel,TravelDesk,4800.0,Marketing,Bank transfer,Founder,1
+E00140,2026-04-04,Logistics,BlueRoute Cargo,25300.0,Marketing,Cash,Founder,1
+E00141,2026-04-05,Office,OfficeMart,8000.0,Admin,Bank transfer,Manager,1
+E00142,2026-04-10,Repairs,FixIt Services,10000.0,Admin,Bank transfer,Founder,1
+E00143,2026-04-11,Marketing,Creator Collective,61600.0,Marketing,Bank transfer,Founder,1
+E00144,2026-04-14,Travel,CityCabs,5600.0,Operations,Card,Founder,1
+E00145,2026-04-15,Professional fees,LexPoint Legal,19500.0,Marketing,UPI,Manager,1
+E00146,2026-04-17,Marketing,Meta Platforms,78300.0,Admin,Cash,Founder,0
+E00147,2026-04-17,Utilities,Fibernet Broadband,12100.0,Operations,UPI,Founder,1
+E00148,2026-04-18,Marketing,Meta Platforms,54200.0,Marketing,Bank transfer,Founder,1
+E00149,2026-04-18,Office,OfficeMart,7300.0,Marketing,UPI,Manager,1
+E00150,2026-04-19,Marketing,Meta Platforms,32100.0,Admin,UPI,Founder,1
+E00151,2026-04-21,Utilities,City Power Board,13800.0,Admin,UPI,Founder,1
+E00152,2026-04-21,Logistics,BlueRoute Cargo,14400.0,Admin,Bank transfer,Manager,1
+E00153,2026-04-21,Professional fees,LexPoint Legal,16900.0,Marketing,UPI,Founder,1
+E00154,2026-04-23,Marketing,Google India,58000.0,Operations,UPI,Founder,1
+E00155,2026-04-23,Repairs,FixIt Services,4200.0,Operations,Cash,Founder,1
+E00156,2026-04-24,Utilities,Fibernet Broadband,17100.0,Admin,Bank transfer,Manager,1
+E00157,2026-04-25,Logistics,SwiftShip Couriers,24300.0,Operations,Bank transfer,Founder,1
+E00158,2026-04-26,Utilities,City Power Board,25000.0,Admin,UPI,Founder,1
+E00159,2026-04-26,Utilities,City Power Board,17700.0,Marketing,UPI,Manager,1
+E00160,2026-04-27,Software,Cloud Hosting Co,5900.0,Operations,Bank transfer,Manager,1
+E00161,2026-04-27,Repairs,FixIt Services,12700.0,Marketing,UPI,Founder,1
+E00162,2026-04-28,Repairs,FixIt Services,10300.0,Operations,Bank transfer,Founder,1
+E00163,2026-04-29,Logistics,BlueRoute Cargo,41700.0,Admin,UPI,Founder,1
+E00164,2026-04-30,Logistics,BlueRoute Cargo,34600.0,Operations,Card,Founder,1
+E00165,2026-04-30,Office,OfficeMart,9300.0,Admin,UPI,Founder,0
+E00166,2026-05-03,Utilities,Fibernet Broadband,15300.0,Operations,Cash,Manager,1
+E00167,2026-05-03,Travel,CityCabs,8100.0,Marketing,Cash,Manager,0
+E00168,2026-05-05,Office,CleanCo Services,7400.0,Admin,UPI,Founder,1
+E00169,2026-05-08,Marketing,Creator Collective,61900.0,Marketing,UPI,Founder,1
+E00170,2026-05-08,Logistics,BlueRoute Cargo,67300.0,Operations,Bank transfer,Founder,1
+E00171,2026-05-08,Office,OfficeMart,5100.0,Admin,Bank transfer,Manager,1
+E00172,2026-05-09,Marketing,Google India,46900.0,Marketing,UPI,Founder,1
+E00173,2026-05-09,Software,Cloud Hosting Co,4600.0,Admin,Cash,Founder,1
+E00174,2026-05-09,Utilities,Fibernet Broadband,16800.0,Admin,Bank transfer,Manager,1
+E00175,2026-05-12,Professional fees,LexPoint Legal,29500.0,Operations,Bank transfer,Founder,1
+E00176,2026-05-14,Travel,TravelDesk,3700.0,Operations,Bank transfer,Founder,1
+E00177,2026-05-15,Repairs,FixIt Services,9900.0,Marketing,Bank transfer,Manager,1
+E00178,2026-05-16,Marketing,Meta Platforms,71700.0,Marketing,Cash,Founder,0
+E00179,2026-05-16,Software,Zoho Corp,19300.0,Admin,UPI,Founder,1
+E00180,2026-05-17,Logistics,BlueRoute Cargo,34500.0,Admin,Bank transfer,Founder,1
+E00181,2026-05-17,Professional fees,LexPoint Legal,15800.0,Marketing,UPI,Founder,1
+E00182,2026-05-17,Travel,TravelDesk,10500.0,Admin,Bank transfer,Manager,1
+E00183,2026-05-18,Repairs,FixIt Services,6500.0,Admin,Bank transfer,Manager,1
+E00184,2026-05-19,Utilities,City Power Board,18000.0,Operations,Bank transfer,Founder,1
+E00185,2026-05-23,Marketing,Creator Collective,64000.0,Operations,UPI,Founder,1
+E00186,2026-05-24,Marketing,Meta Platforms,68300.0,Marketing,Card,Founder,1
+E00187,2026-05-25,Repairs,FixIt Services,5900.0,Marketing,Cash,Founder,1
+E00188,2026-05-26,Professional fees,Sharma & Associates CA,21100.0,Admin,Bank transfer,Founder,1
+E00189,2026-05-27,Office,OfficeMart,8500.0,Operations,Card,Founder,1
+E00190,2026-05-27,Professional fees,Sharma & Associates CA,23900.0,Marketing,Bank transfer,Founder,1
+E00191,2026-05-28,Utilities,City Power Board,15700.0,Operations,Cash,Manager,0
+E00192,2026-05-28,Travel,CityCabs,9100.0,Operations,Bank transfer,Manager,1
+E00193,2026-05-29,Office,OfficeMart,12600.0,Admin,UPI,Manager,1
+E00194,2026-05-29,Travel,CityCabs,7200.0,Marketing,Bank transfer,Founder,0
+E00195,2026-05-31,Utilities,Fibernet Broadband,11900.0,Operations,Cash,Founder,0
+E00196,2026-06-03,Logistics,SwiftShip Couriers,27200.0,Marketing,Card,Founder,1
+E00197,2026-06-04,Professional fees,Sharma & Associates CA,31300.0,Operations,Bank transfer,Founder,1
+E00198,2026-06-06,Professional fees,Sharma & Associates CA,26700.0,Marketing,Bank transfer,Founder,1
+E00199,2026-06-07,Repairs,FixIt Services,8500.0,Admin,Card,Manager,1
+E00200,2026-06-10,Utilities,Fibernet Broadband,20000.0,Marketing,Bank transfer,Manager,1
+E00201,2026-06-10,Repairs,FixIt Services,7000.0,Admin,Bank transfer,Founder,1
+E00202,2026-06-11,Office,OfficeMart,9200.0,Marketing,UPI,Founder,1
+E00203,2026-06-11,Repairs,FixIt Services,9700.0,Marketing,UPI,Founder,1
+E00204,2026-06-13,Travel,TravelDesk,7000.0,Marketing,Bank transfer,Founder,1
+E00205,2026-06-14,Software,Cloud Hosting Co,7700.0,Marketing,Bank transfer,Manager,1
+E00206,2026-06-14,Logistics,SwiftShip Couriers,35200.0,Admin,UPI,Founder,1
+E00207,2026-06-15,Logistics,SwiftShip Couriers,20000.0,Admin,Bank transfer,Manager,1
+E00208,2026-06-17,Marketing,Meta Platforms,46100.0,Admin,UPI,Founder,0
+E00209,2026-06-17,Office,CleanCo Services,8300.0,Marketing,Bank transfer,Founder,1
+E00210,2026-06-17,Logistics,SwiftShip Couriers,20000.0,Admin,Bank transfer,Manager,1
+E00211,2026-06-18,Marketing,Google India,65000.0,Marketing,Bank transfer,Founder,1
+E00212,2026-06-18,Office,OfficeMart,8600.0,Operations,UPI,Manager,1
+E00213,2026-06-18,Professional fees,LexPoint Legal,35800.0,Marketing,UPI,Founder,1
+E00214,2026-06-20,Software,Zoho Corp,6000.0,Admin,Card,Manager,1
+E00215,2026-06-21,Professional fees,LexPoint Legal,14600.0,Admin,Cash,Manager,1
+E00216,2026-06-23,Travel,TravelDesk,4300.0,Admin,Bank transfer,Manager,1
+E00217,2026-06-26,Marketing,Google India,58300.0,Marketing,UPI,Founder,1
+E00218,2026-06-27,Repairs,FixIt Services,7700.0,Admin,UPI,Founder,1
+E00219,2026-06-29,Travel,CityCabs,10900.0,Admin,UPI,Founder,1
+E00220,2026-06-30,Utilities,City Power Board,17000.0,Marketing,Bank transfer,Founder,1
+E00221,2026-06-30,Logistics,SwiftShip Couriers,24600.0,Marketing,Card,Founder,0
+E00222,2026-06-30,Office,OfficeMart,11400.0,Admin,UPI,Manager,1
+E00223,2026-07-01,Software,Shopify India,13300.0,Marketing,Bank transfer,Manager,1
+E00224,2026-07-04,Marketing,Creator Collective,36500.0,Marketing,UPI,Founder,1
+E00225,2026-07-04,Utilities,Fibernet Broadband,13000.0,Operations,Cash,Founder,0
+E00226,2026-07-04,Professional fees,Sharma & Associates CA,26900.0,Admin,UPI,Founder,1
+E00227,2026-07-04,Professional fees,LexPoint Legal,32400.0,Operations,Cash,Founder,1
+E00228,2026-07-08,Software,Zoho Corp,11200.0,Admin,Cash,Manager,1
+E00229,2026-07-08,Repairs,FixIt Services,7000.0,Marketing,UPI,Manager,1
+E00230,2026-07-10,Professional fees,Sharma & Associates CA,17700.0,Admin,UPI,Founder,1
+E00231,2026-07-12,Software,Cloud Hosting Co,9900.0,Marketing,Bank transfer,Founder,1
+E00232,2026-07-13,Travel,TravelDesk,6400.0,Admin,Card,Manager,1
+E00233,2026-07-14,Marketing,Creator Collective,44000.0,Marketing,Bank transfer,Founder,0
+E00234,2026-07-14,Office,CleanCo Services,11200.0,Admin,UPI,Manager,1
+E00235,2026-07-14,Professional fees,Sharma & Associates CA,18300.0,Marketing,Card,Founder,1
+E00236,2026-07-16,Marketing,Meta Platforms,73500.0,Admin,UPI,Founder,1
+E00237,2026-07-16,Logistics,BlueRoute Cargo,27100.0,Admin,Bank transfer,Founder,1
+E00238,2026-07-17,Travel,TravelDesk,3200.0,Marketing,UPI,Founder,1
+E00239,2026-07-20,Software,Cloud Hosting Co,12100.0,Marketing,Card,Manager,1
+E00240,2026-07-20,Utilities,City Power Board,24800.0,Operations,UPI,Founder,1
+E00241,2026-07-20,Repairs,FixIt Services,7900.0,Operations,UPI,Manager,1
+E00242,2026-07-22,Utilities,Fibernet Broadband,16000.0,Admin,UPI,Founder,1
+E00243,2026-07-22,Office,OfficeMart,9800.0,Operations,Bank transfer,Founder,1
+E00244,2026-07-22,Travel,CityCabs,4500.0,Marketing,UPI,Manager,1
+E00245,2026-07-23,Logistics,SwiftShip Couriers,51600.0,Admin,Bank transfer,Founder,1
+E00246,2026-07-23,Office,CleanCo Services,3400.0,Operations,Cash,Founder,0
+E00247,2026-07-27,Software,Zoho Corp,13300.0,Operations,Bank transfer,Founder,1
+E00248,2026-07-29,Professional fees,Sharma & Associates CA,18200.0,Operations,UPI,Manager,1
+E00249,2026-07-31,Utilities,City Power Board,18700.0,Admin,Bank transfer,Founder,1
+E00250,2026-07-31,Logistics,SwiftShip Couriers,26300.0,Admin,Bank transfer,Founder,0
+E00251,2026-08-01,Software,Cloud Hosting Co,9500.0,Operations,Bank transfer,Founder,1
+E00252,2026-08-01,Utilities,Fibernet Broadband,26900.0,Operations,UPI,Founder,1
+E00253,2026-08-01,Logistics,BlueRoute Cargo,28500.0,Marketing,Bank transfer,Founder,1
+E00254,2026-08-03,Professional fees,Sharma & Associates CA,29500.0,Admin,UPI,Founder,1
+E00255,2026-08-04,Travel,CityCabs,5200.0,Operations,UPI,Founder,1
+E00256,2026-08-05,Utilities,City Power Board,24500.0,Admin,Cash,Founder,0
+E00257,2026-08-05,Office,CleanCo Services,4600.0,Operations,Bank transfer,Manager,1
+E00258,2026-08-06,Utilities,City Power Board,16700.0,Operations,Bank transfer,Manager,1
+E00259,2026-08-06,Office,OfficeMart,11200.0,Admin,Card,Founder,1
+E00260,2026-08-06,Office,CleanCo Services,7700.0,Marketing,Bank transfer,Manager,1
+E00261,2026-08-07,Software,Zoho Corp,11300.0,Operations,UPI,Manager,1
+E00262,2026-08-11,Marketing,Google India,62100.0,Admin,Bank transfer,Founder,1
+E00263,2026-08-11,Marketing,Creator Collective,72600.0,Admin,UPI,Founder,1
+E00264,2026-08-11,Utilities,Fibernet Broadband,15600.0,Operations,Cash,Founder,1
+E00265,2026-08-11,Travel,CityCabs,5400.0,Operations,Cash,Manager,1
+E00266,2026-08-12,Utilities,City Power Board,16000.0,Marketing,Cash,Manager,0
+E00267,2026-08-14,Software,Zoho Corp,5000.0,Marketing,UPI,Founder,1
+E00268,2026-08-15,Repairs,FixIt Services,9900.0,Marketing,Bank transfer,Manager,1
+E00269,2026-08-17,Professional fees,LexPoint Legal,40900.0,Operations,UPI,Founder,1
+E00270,2026-08-19,Professional fees,LexPoint Legal,23500.0,Operations,Cash,Founder,0
+E00271,2026-08-20,Logistics,SwiftShip Couriers,18700.0,Admin,Bank transfer,Manager,0
+E00272,2026-08-20,Professional fees,LexPoint Legal,20400.0,Operations,Bank transfer,Founder,1
+E00273,2026-08-20,Professional fees,LexPoint Legal,22700.0,Operations,UPI,Founder,1
+E00274,2026-08-23,Marketing,Meta Platforms,44000.0,Marketing,Bank transfer,Founder,1
+E00275,2026-08-24,Logistics,BlueRoute Cargo,56600.0,Operations,UPI,Founder,1
+E00276,2026-08-24,Travel,CityCabs,13500.0,Operations,Card,Manager,1
+E00277,2026-08-26,Marketing,Creator Collective,55700.0,Operations,UPI,Founder,1
+E00278,2026-08-27,Travel,CityCabs,6200.0,Operations,UPI,Manager,1
+E00279,2026-08-27,Repairs,FixIt Services,10900.0,Admin,Bank transfer,Founder,1
+E00280,2026-08-28,Logistics,BlueRoute Cargo,28700.0,Admin,Card,Founder,1
+E00281,2026-09-01,Software,Zoho Corp,12600.0,Marketing,Bank transfer,Manager,1
+E00282,2026-09-01,Office,OfficeMart,14700.0,Operations,Bank transfer,Manager,1
+E00283,2026-09-02,Travel,TravelDesk,5500.0,Operations,UPI,Manager,1
+E00284,2026-09-06,Logistics,SwiftShip Couriers,43300.0,Marketing,Bank transfer,Founder,1
+E00285,2026-09-06,Office,OfficeMart,8100.0,Admin,UPI,Manager,1
+E00286,2026-09-06,Repairs,FixIt Services,13500.0,Marketing,UPI,Manager,1
+E00287,2026-09-08,Marketing,Google India,94200.0,Marketing,Bank transfer,Founder,1
+E00288,2026-09-08,Marketing,Google India,39500.0,Marketing,UPI,Founder,1
+E00289,2026-09-09,Utilities,City Power Board,13800.0,Admin,Cash,Founder,0
+E00290,2026-09-09,Professional fees,LexPoint Legal,29900.0,Admin,Card,Founder,1
+E00291,2026-09-11,Travel,CityCabs,7500.0,Admin,Bank transfer,Founder,1
+E00292,2026-09-14,Office,OfficeMart,10300.0,Admin,Bank transfer,Founder,1
+E00293,2026-09-17,Utilities,City Power Board,12400.0,Admin,Bank transfer,Founder,1
+E00294,2026-09-19,Marketing,Google India,55900.0,Marketing,Bank transfer,Founder,1
+E00295,2026-09-19,Utilities,City Power Board,18300.0,Admin,Bank transfer,Manager,1
+E00296,2026-09-19,Professional fees,Sharma & Associates CA,22300.0,Operations,UPI,Founder,1
+E00297,2026-09-20,Software,Shopify India,5300.0,Marketing,Bank transfer,Manager,1
+E00298,2026-09-20,Professional fees,Sharma & Associates CA,19300.0,Admin,Bank transfer,Founder,1
+E00299,2026-09-21,Marketing,Creator Collective,78500.0,Admin,Bank transfer,Founder,1
+E00300,2026-09-21,Professional fees,LexPoint Legal,29600.0,Marketing,Card,Founder,1
+E00301,2026-09-22,Marketing,Meta Platforms,121500.0,Marketing,Card,Founder,1
+E00302,2026-09-22,Travel,TravelDesk,6900.0,Admin,Bank transfer,Founder,1
+E00303,2026-09-22,Repairs,FixIt Services,14000.0,Marketing,UPI,Manager,1
+E00304,2026-09-23,Logistics,BlueRoute Cargo,56800.0,Admin,Card,Founder,1
+E00305,2026-09-24,Software,Shopify India,8300.0,Operations,Card,Manager,1
+E00306,2026-09-24,Repairs,FixIt Services,14000.0,Marketing,UPI,Manager,1
+E00307,2026-09-25,Repairs,FixIt Services,9200.0,Operations,UPI,Manager,1
+E00308,2026-09-27,Repairs,FixIt Services,60000.0,Marketing,Bank transfer,,1
+E00309,2026-09-29,Office,CleanCo Services,8100.0,Operations,Bank transfer,Manager,1
+E00310,2026-10-02,Software,Cloud Hosting Co,12800.0,Marketing,UPI,Manager,1
+E00311,2026-10-04,Office,OfficeMart,5300.0,Marketing,Card,Manager,1
+E00312,2026-10-05,Logistics,BlueRoute Cargo,44300.0,Operations,Bank transfer,Founder,1
+E00313,2026-10-08,Utilities,City Power Board,9400.0,Admin,Card,Manager,1
+E00314,2026-10-09,Logistics,SwiftShip Couriers,31500.0,Operations,Bank transfer,Founder,1
+E00315,2026-10-09,Professional fees,Sharma & Associates CA,24500.0,Marketing,Bank transfer,Founder,0
+E00316,2026-10-10,Software,Shopify India,7800.0,Operations,Card,Founder,1
+E00317,2026-10-11,Professional fees,LexPoint Legal,14500.0,Operations,Cash,Manager,1
+E00318,2026-10-11,Repairs,FixIt Services,6700.0,Marketing,Bank transfer,Founder,1
+E00319,2026-10-16,Professional fees,Sharma & Associates CA,22600.0,Marketing,UPI,Founder,1
+E00320,2026-10-16,Travel,CityCabs,10100.0,Operations,UPI,Founder,1
+E00321,2026-10-17,Travel,TravelDesk,7600.0,Marketing,UPI,Founder,1
+E00322,2026-10-19,Utilities,Fibernet Broadband,14600.0,Marketing,Bank transfer,Manager,1
+E00323,2026-10-19,Logistics,BlueRoute Cargo,30000.0,Marketing,Card,Founder,1
+E00324,2026-10-19,Professional fees,Sharma & Associates CA,60000.0,Admin,Bank transfer,,1
+E00325,2026-10-19,Repairs,FixIt Services,9500.0,Admin,Bank transfer,Manager,1
+E00326,2026-10-20,Travel,TravelDesk,11500.0,Marketing,Bank transfer,Founder,1
+E00327,2026-10-20,Repairs,FixIt Services,16500.0,Marketing,Bank transfer,Manager,1
+E00328,2026-10-21,Utilities,Fibernet Broadband,13700.0,Admin,Bank transfer,Founder,1
+E00329,2026-10-23,Office,OfficeMart,6600.0,Marketing,Bank transfer,Manager,1
+E00330,2026-10-23,Office,OfficeMart,6600.0,Operations,Cash,Founder,1
+E00331,2026-10-25,Office,CleanCo Services,11000.0,Marketing,Bank transfer,Founder,0
+E00332,2026-10-26,Marketing,Google India,38800.0,Operations,UPI,Founder,1
+E00333,2026-10-28,Repairs,FixIt Services,11900.0,Admin,Cash,Manager,0
+E00334,2026-10-29,Logistics,BlueRoute Cargo,23300.0,Admin,UPI,Founder,1
+E00335,2026-10-30,Software,Cloud Hosting Co,6800.0,Operations,Bank transfer,Manager,1
+E00336,2026-10-31,Marketing,Meta Platforms,57000.0,Operations,UPI,Founder,1

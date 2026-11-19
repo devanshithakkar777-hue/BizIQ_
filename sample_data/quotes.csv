@@ -1,0 +1,91 @@
+quote_id,customer,sent_date,amount,status,cost,lost_reason,decided_date
+Q0001,Lakeview Stores,2026-05-29,190000.0,won,132800.0,,2026-06-18
+Q0002,Heritage Wear,2026-08-16,353000.0,lost,233500.0,No response,2026-09-08
+Q0003,Zenith Outfitters,2026-10-16,165000.0,open,114000.0,,
+Q0004,Lakeview Stores,2026-02-16,252000.0,lost,183300.0,Chose competitor,2026-03-02
+Q0005,Nova Fashions,2026-03-30,231000.0,lost,172000.0,Price,2026-05-08
+Q0006,Zenith Outfitters,2026-06-07,149000.0,won,119500.0,,2026-07-03
+Q0007,Metro Retail Pvt Ltd,2026-10-02,92000.0,open,77800.0,,
+Q0008,Sunrise Boutiques,2026-07-20,249000.0,lost,179200.0,Price,2026-07-29
+Q0009,Metro Retail Pvt Ltd,2026-03-02,534000.0,won,375600.0,,2026-04-08
+Q0010,Zenith Outfitters,2026-09-19,34000.0,lost,26800.0,Price,2026-09-24
+Q0011,Bluebird Mall Kiosks,2026-06-14,90000.0,won,78600.0,,2026-07-20
+Q0012,Pinnacle Outlets,2026-04-16,134000.0,lost,95600.0,Delivery time,2026-05-15
+Q0013,Zenith Outfitters,2026-03-25,115000.0,won,81500.0,,2026-05-01
+Q0014,Lotus Garments,2026-07-22,315000.0,lost,230700.0,No response,2026-08-14
+Q0015,Pinnacle Outlets,2026-06-13,198000.0,won,165000.0,,2026-06-23
+Q0016,Metro Retail Pvt Ltd,2026-06-07,43000.0,lost,32300.0,Delivery time,2026-07-10
+Q0017,Pinnacle Outlets,2026-10-22,146000.0,open,113200.0,,
+Q0018,Sunrise Boutiques,2026-10-06,337000.0,open,286400.0,,
+Q0019,Lotus Garments,2026-02-27,218000.0,open,171600.0,,
+Q0020,Kapoor & Sons,2026-05-23,48000.0,won,39500.0,,2026-06-15
+Q0021,Summit Sports Co,2026-10-14,211000.0,lost,142600.0,Price,2026-10-31
+Q0022,Orchid Lifestyle,2026-04-23,185000.0,lost,121100.0,No response,2026-05-28
+Q0023,Pinnacle Outlets,2026-05-27,167000.0,lost,122100.0,Price,2026-06-25
+Q0024,Orchid Lifestyle,2026-09-07,742000.0,lost,622900.0,Chose competitor,2026-09-17
+Q0025,Crescent Retail,2026-08-11,292000.0,open,224900.0,,
+Q0026,Zenith Outfitters,2026-05-29,174000.0,lost,125400.0,Chose competitor,2026-06-26
+Q0027,Metro Retail Pvt Ltd,2026-03-31,242000.0,lost,193900.0,Delivery time,2026-04-22
+Q0028,Sunrise Boutiques,2026-10-18,497000.0,open,338200.0,,
+Q0029,Urban Mart,2026-09-10,171000.0,lost,128700.0,Delivery time,2026-10-04
+Q0030,Sunrise Boutiques,2026-03-20,170000.0,won,111300.0,,2026-04-15
+Q0031,Grand Bazaar,2026-07-01,108000.0,won,89800.0,,2026-07-27
+Q0032,Heritage Wear,2026-03-08,159000.0,won,122800.0,,2026-04-10
+Q0033,Orchid Lifestyle,2026-04-23,93000.0,won,76400.0,,2026-05-24
+Q0034,Bluebird Mall Kiosks,2026-09-19,284000.0,won,214100.0,,2026-10-08
+Q0035,Bluebird Mall Kiosks,2026-02-07,226000.0,won,170600.0,,2026-03-10
+Q0036,Heritage Wear,2026-07-22,80000.0,lost,66100.0,Price,2026-08-04
+Q0037,Grand Bazaar,2026-07-28,38000.0,won,25500.0,,2026-08-05
+Q0038,Zenith Outfitters,2026-01-25,63000.0,won,48400.0,,2026-02-16
+Q0039,Metro Retail Pvt Ltd,2026-05-31,59000.0,lost,38500.0,Price,2026-06-17
+Q0040,Lakeview Stores,2026-07-09,609000.0,lost,434600.0,Price,2026-07-17
+Q0041,Summit Sports Co,2026-05-04,516000.0,lost,374700.0,Chose competitor,2026-05-22
+Q0042,Heritage Wear,2026-06-04,149000.0,lost,106300.0,Delivery time,2026-06-23
+Q0043,Kapoor & Sons,2026-10-13,316000.0,won,215700.0,,2026-10-31
+Q0044,Lakeview Stores,2026-03-10,140000.0,lost,106300.0,Chose competitor,2026-03-28
+Q0045,Urban Mart,2026-02-04,81000.0,open,53200.0,,
+Q0046,Pinnacle Outlets,2026-05-11,105000.0,won,70700.0,,2026-06-12
+Q0047,Heritage Wear,2026-03-19,181000.0,lost,135300.0,Chose competitor,2026-04-26
+Q0048,Sunrise Boutiques,2026-07-08,225000.0,lost,189000.0,Price,2026-07-31
+Q0049,Lakeview Stores,2026-02-24,259000.0,won,200100.0,,2026-03-17
+Q0050,Zenith Outfitters,2026-04-12,179000.0,open,151600.0,,
+Q0051,Nova Fashions,2026-02-22,51000.0,won,39000.0,,2026-03-31
+Q0052,Orchid Lifestyle,2026-06-22,104000.0,open,79800.0,,
+Q0053,Kapoor & Sons,2026-02-03,130000.0,lost,97600.0,No response,2026-02-15
+Q0054,Zenith Outfitters,2026-03-28,299000.0,lost,210700.0,Price,2026-04-17
+Q0055,Summit Sports Co,2026-03-23,253000.0,won,209300.0,,2026-04-16
+Q0056,Lotus Garments,2026-10-04,446000.0,open,344300.0,,
+Q0057,Lotus Garments,2026-06-18,332000.0,won,278900.0,,2026-07-15
+Q0058,Crescent Retail,2026-01-08,172000.0,lost,126600.0,No response,2026-01-22
+Q0059,Metro Retail Pvt Ltd,2026-08-31,58000.0,won,42900.0,,2026-09-20
+Q0060,Heritage Wear,2026-05-13,143000.0,lost,116600.0,Chose competitor,2026-06-01
+Q0061,Kapoor & Sons,2026-05-24,248000.0,lost,199100.0,Price,2026-06-11
+Q0062,Lakeview Stores,2026-10-14,147000.0,won,111900.0,,2026-10-30
+Q0063,Lakeview Stores,2026-05-12,47000.0,lost,40700.0,Chose competitor,2026-06-05
+Q0064,Bluebird Mall Kiosks,2026-10-05,22000.0,won,15000.0,,2026-10-31
+Q0065,Crescent Retail,2026-05-25,140000.0,won,107700.0,,2026-05-30
+Q0066,Pinnacle Outlets,2026-01-12,329000.0,won,280100.0,,2026-02-02
+Q0067,Heritage Wear,2026-07-17,97000.0,lost,73500.0,Price,2026-08-07
+Q0068,Summit Sports Co,2026-08-13,539000.0,won,373700.0,,2026-08-30
+Q0069,Pinnacle Outlets,2026-07-19,234000.0,open,173600.0,,
+Q0070,Lotus Garments,2026-10-16,250000.0,lost,189400.0,Chose competitor,2026-10-31
+Q0071,Lotus Garments,2026-02-06,108000.0,lost,73400.0,Price,2026-02-11
+Q0072,Lotus Garments,2026-03-29,88000.0,lost,69900.0,Delivery time,2026-04-05
+Q0073,Bluebird Mall Kiosks,2026-05-19,504000.0,won,349200.0,,2026-06-18
+Q0074,Crescent Retail,2026-04-10,229000.0,lost,195400.0,No response,2026-05-17
+Q0075,Crescent Retail,2026-01-18,102000.0,won,71200.0,,2026-02-13
+Q0076,Nova Fashions,2026-09-24,658000.0,open,502900.0,,
+Q0077,Crescent Retail,2026-04-04,111000.0,open,89300.0,,
+Q0078,Sunrise Boutiques,2026-07-22,368000.0,won,299500.0,,2026-07-29
+Q0079,Urban Mart,2026-04-15,68000.0,lost,56800.0,Delivery time,2026-04-28
+Q0080,Lakeview Stores,2026-04-02,203000.0,open,145800.0,,
+Q0081,Pinnacle Outlets,2026-09-22,526000.0,won,360700.0,,2026-10-04
+Q0082,Orchid Lifestyle,2026-02-18,232000.0,won,160200.0,,2026-02-23
+Q0083,Bluebird Mall Kiosks,2026-07-06,471000.0,lost,404600.0,No response,2026-08-06
+Q0084,Bluebird Mall Kiosks,2026-04-09,183000.0,open,161000.0,,
+Q0085,Metro Retail Pvt Ltd,2026-03-08,388000.0,won,308800.0,,2026-04-04
+Q0086,Sunrise Boutiques,2026-03-18,180000.0,won,125700.0,,2026-04-22
+Q0087,Summit Sports Co,2026-07-27,193000.0,lost,133600.0,Price,2026-08-01
+Q0088,Grand Bazaar,2026-10-15,398000.0,open,302100.0,,
+Q0089,Heritage Wear,2026-10-15,65000.0,open,44100.0,,
+Q0090,Lakeview Stores,2026-09-26,120000.0,lost,103200.0,Chose competitor,2026-10-20

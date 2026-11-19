@@ -1,0 +1,65 @@
+deal_id,account,stage,amount,created_date,last_activity_date,expected_close,owner,source
+DL001,Sunrise Boutiques,qualified,180000.0,2026-05-01,2026-10-29,2026-11-23,Rohan,Referral
+DL002,Nova Fashions,proposal,295000.0,2026-06-23,2026-10-22,2027-01-02,Rohan,Website
+DL003,Kapoor & Sons,proposal,314000.0,2026-06-09,2026-10-17,2026-11-09,Meera,Referral
+DL004,Pinnacle Outlets,qualified,455000.0,2026-05-20,2026-10-09,2026-10-19,Priya,Trade show
+DL005,Heritage Wear,won,158000.0,2026-07-27,2026-08-17,2027-01-19,Meera,Referral
+DL006,Heritage Wear,lead,174000.0,2026-09-26,2026-10-29,2026-11-26,Priya,Trade show
+DL007,Zenith Outfitters,lead,98000.0,2026-04-29,2026-10-29,2027-01-21,Meera,Website
+DL008,Summit Sports Co,lost,105000.0,2026-06-11,2026-07-02,2026-11-12,Rohan,Outbound
+DL009,Lakeview Stores,lost,100000.0,2026-07-08,2026-09-26,2026-12-14,Priya,Website
+DL010,Pinnacle Outlets,lead,186000.0,2026-06-17,2026-10-26,2026-10-23,Rohan,Trade show
+DL011,Grand Bazaar,proposal,853000.0,2026-05-19,2026-10-22,2026-11-09,Priya,Referral
+DL012,Urban Mart,lost,287000.0,2026-07-01,2026-08-06,2027-01-03,Meera,Trade show
+DL013,Lakeview Stores,lost,167000.0,2026-10-21,2026-10-31,2026-12-09,Rohan,Outbound
+DL014,Orchid Lifestyle,won,78000.0,2026-05-19,2026-07-15,2026-12-15,Priya,Trade show
+DL015,Metro Retail Pvt Ltd,lead,99000.0,2026-07-02,2026-10-26,2026-12-16,Priya,Referral
+DL016,Grand Bazaar,qualified,296000.0,2026-10-25,2026-10-25,2026-11-26,Rohan,Outbound
+DL017,Heritage Wear,negotiation,276000.0,2026-05-27,2026-10-22,2027-01-19,Rohan,Outbound
+DL018,Lakeview Stores,won,326000.0,2026-07-27,2026-09-23,2026-10-26,Priya,Referral
+DL019,Orchid Lifestyle,negotiation,1000000.0,2026-07-27,2026-10-17,2026-10-23,Priya,Website
+DL020,Kapoor & Sons,lead,558000.0,2026-05-06,2026-10-22,2026-10-11,Meera,Website
+DL021,Kapoor & Sons,won,676000.0,2026-05-17,2026-06-10,2026-11-12,Rohan,Trade show
+DL022,Zenith Outfitters,won,85000.0,2026-05-17,2026-07-26,2026-10-28,Priya,Referral
+DL023,Nova Fashions,lost,548000.0,2026-07-03,2026-08-23,2026-12-29,Rohan,Website
+DL024,Pinnacle Outlets,won,88000.0,2026-06-30,2026-08-17,2027-01-15,Priya,Trade show
+DL025,Heritage Wear,qualified,515000.0,2026-10-02,2026-10-29,2026-12-14,Rohan,Trade show
+DL026,Summit Sports Co,lead,161000.0,2026-07-13,2026-10-17,2027-01-20,Priya,Trade show
+DL027,Urban Mart,proposal,61000.0,2026-09-07,2026-10-17,2026-12-24,Priya,Referral
+DL028,Grand Bazaar,lost,520000.0,2026-06-25,2026-09-21,2026-11-08,Priya,Website
+DL029,Summit Sports Co,lead,450000.0,2026-07-24,2026-08-22,2026-11-19,Meera,Referral
+DL030,Kapoor & Sons,qualified,343000.0,2026-07-31,2026-10-09,2027-01-22,Meera,Outbound
+DL031,Pinnacle Outlets,lost,237000.0,2026-05-31,2026-06-27,2026-11-17,Priya,Outbound
+DL032,Lotus Garments,lead,125000.0,2026-05-12,2026-10-26,2026-12-13,Priya,Trade show
+DL033,Lotus Garments,won,166000.0,2026-10-13,2026-10-31,2026-12-24,Meera,Trade show
+DL034,Urban Mart,proposal,68000.0,2026-05-17,2026-10-26,2026-12-13,Rohan,Website
+DL035,Metro Retail Pvt Ltd,lead,197000.0,2026-07-19,2026-09-13,2026-11-23,Rohan,Referral
+DL036,Crescent Retail,won,119000.0,2026-05-07,2026-06-28,2027-01-21,Rohan,Referral
+DL037,Nova Fashions,lost,306000.0,2026-04-19,2026-06-10,2026-11-25,Rohan,Website
+DL038,Lotus Garments,qualified,286000.0,2026-08-31,2026-10-26,2026-10-12,Priya,Trade show
+DL039,Pinnacle Outlets,qualified,218000.0,2026-09-02,2026-10-17,2027-01-02,Rohan,Trade show
+DL040,Summit Sports Co,lost,91000.0,2026-09-20,2026-10-31,2026-10-26,Meera,Website
+DL041,Nova Fashions,qualified,553000.0,2026-06-27,2026-08-22,2026-10-31,Priya,Outbound
+DL042,Kapoor & Sons,won,86000.0,2026-06-19,2026-07-10,2026-12-25,Meera,Outbound
+DL043,Lotus Garments,lost,255000.0,2026-09-03,2026-09-28,2027-01-07,Meera,Referral
+DL044,Heritage Wear,qualified,350000.0,2026-05-21,2026-10-09,2026-12-11,Rohan,Website
+DL045,Bluebird Mall Kiosks,qualified,109000.0,2026-06-21,2026-10-17,2026-11-12,Priya,Website
+DL046,Orchid Lifestyle,proposal,516000.0,2026-08-17,2026-10-09,2027-01-13,Rohan,Referral
+DL047,Zenith Outfitters,negotiation,176000.0,2026-10-21,2026-10-21,2027-01-22,Rohan,Referral
+DL048,Crescent Retail,negotiation,235000.0,2026-09-29,2026-10-09,2026-11-11,Rohan,Referral
+DL049,Nova Fashions,negotiation,230000.0,2026-05-04,2026-09-13,2027-01-09,Rohan,Referral
+DL050,Kapoor & Sons,lost,713000.0,2026-10-09,2026-10-31,2027-01-13,Rohan,Trade show
+DL051,Lotus Garments,negotiation,353000.0,2026-07-19,2026-10-09,2026-10-30,Meera,Referral
+DL052,Sunrise Boutiques,qualified,282000.0,2026-06-13,2026-10-09,2027-01-09,Meera,Referral
+DL053,Summit Sports Co,won,176000.0,2026-09-08,2026-10-31,2027-01-13,Meera,Website
+DL054,Nova Fashions,won,305000.0,2026-10-06,2026-10-29,2027-01-02,Meera,Referral
+DL055,Summit Sports Co,won,127000.0,2026-10-02,2026-10-31,2027-01-04,Priya,Trade show
+DL056,Summit Sports Co,qualified,135000.0,2026-09-25,2026-10-29,2027-01-09,Priya,Website
+DL057,Lakeview Stores,proposal,359000.0,2026-05-27,2026-10-26,2026-11-15,Rohan,Referral
+DL058,Heritage Wear,won,156000.0,2026-07-01,2026-09-21,2026-10-30,Meera,Trade show
+DL059,Orchid Lifestyle,won,201000.0,2026-09-22,2026-10-10,2026-11-29,Rohan,Website
+DL060,Nova Fashions,lost,239000.0,2026-10-04,2026-10-31,2026-11-21,Priya,Website
+DL061,Kapoor & Sons,proposal,939000.0,2026-04-15,2026-10-09,2027-01-05,Meera,Trade show
+DL062,Lotus Garments,negotiation,344000.0,2026-07-02,2026-10-26,2026-11-01,Priya,Website
+DL063,Summit Sports Co,lost,107000.0,2026-07-02,2026-07-16,2026-12-26,Meera,Trade show
+DL064,Crescent Retail,won,141000.0,2026-08-27,2026-09-23,2026-12-26,Priya,Trade show

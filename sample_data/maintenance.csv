@@ -1,0 +1,20 @@
+asset,date,event_type,downtime_hours,cost,cause
+Press-1,2026-10-07,breakdown,5.7,7814.0,electrical
+Press-1,2026-10-01,preventive,1.5,2500.0,scheduled service
+Press-2,2026-09-13,breakdown,9.7,22822.0,hydraulic
+Press-2,2026-10-13,breakdown,13.4,22406.0,belt
+Press-2,2026-08-24,breakdown,10.2,19189.0,bearing
+Press-2,2026-03-13,breakdown,6.2,12613.0,hydraulic
+Press-2,2026-05-14,breakdown,6.8,17981.0,hydraulic
+Press-2,2026-06-23,breakdown,5.3,15317.0,hydraulic
+Press-2,2026-04-02,breakdown,2.9,19154.0,hydraulic
+Press-2,2026-02-13,preventive,1.5,2500.0,scheduled service
+Cutter-1,2026-05-24,breakdown,3.2,14430.0,hydraulic
+Cutter-1,2026-06-04,breakdown,3.8,3545.0,electrical
+Cutter-1,2026-09-01,preventive,1.5,2500.0,scheduled service
+Packer-1,2026-10-18,breakdown,4.4,24896.0,electrical
+Packer-1,2026-09-14,breakdown,3.9,5248.0,electrical
+Packer-1,2026-07-08,breakdown,5.6,5698.0,belt
+Packer-1,2026-09-16,preventive,1.5,2500.0,scheduled service
+Boiler,2026-08-18,breakdown,2.2,5569.0,electrical
+Boiler,2026-08-02,preventive,1.5,2500.0,scheduled service

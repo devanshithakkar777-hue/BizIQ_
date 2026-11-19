@@ -1,0 +1,43 @@
+asset_id,asset_name,category,purchase_date,cost,useful_life_years,salvage_value,status
+AST001,Delivery vehicle 1,Delivery vehicle,2024-06-29,634400.0,8,32500.0,in_use
+AST002,Laptop 2,Laptop,2019-08-16,48800.0,4,3000.0,in_use
+AST003,Laptop 3,Laptop,2019-01-16,56200.0,4,3000.0,in_use
+AST004,Furniture 4,Furniture,2023-11-14,36800.0,8,2200.0,in_use
+AST005,Delivery vehicle 5,Delivery vehicle,2025-11-04,608200.0,8,32500.0,in_use
+AST006,Machinery 6,Machinery,2024-06-16,1378900.0,10,60000.0,in_use
+AST007,AC unit 7,AC unit,2025-12-04,59500.0,8,2800.0,in_use
+AST008,Server 8,Server,2023-11-21,267400.0,5,15000.0,in_use
+AST009,Laptop 9,Laptop,2024-02-27,56400.0,4,3000.0,under_repair
+AST010,Delivery vehicle 10,Delivery vehicle,2019-01-23,774700.0,8,32500.0,in_use
+AST011,AC unit 11,AC unit,2020-02-12,65500.0,8,2800.0,in_use
+AST012,Machinery 12,Machinery,2022-06-22,1249100.0,10,60000.0,in_use
+AST013,Server 13,Server,2022-08-29,298700.0,5,15000.0,in_use
+AST014,Laptop 14,Laptop,2022-09-30,60600.0,4,3000.0,in_use
+AST015,AC unit 15,AC unit,2022-04-28,44400.0,8,2800.0,in_use
+AST016,Delivery vehicle 16,Delivery vehicle,2019-08-05,588100.0,8,32500.0,in_use
+AST017,AC unit 17,AC unit,2020-07-04,61200.0,8,2800.0,in_use
+AST018,AC unit 18,AC unit,2021-02-24,45300.0,8,2800.0,in_use
+AST019,Delivery vehicle 19,Delivery vehicle,2024-04-24,553300.0,8,32500.0,in_use
+AST020,Delivery vehicle 20,Delivery vehicle,2023-11-21,697300.0,8,32500.0,in_use
+AST021,Furniture 21,Furniture,2023-10-19,43800.0,8,2200.0,under_repair
+AST022,Laptop 22,Laptop,2023-12-14,49000.0,4,3000.0,in_use
+AST023,AC unit 23,AC unit,2022-03-25,48500.0,8,2800.0,in_use
+AST024,AC unit 24,AC unit,2024-07-04,52100.0,8,2800.0,in_use
+AST025,Delivery vehicle 25,Delivery vehicle,2024-11-23,740300.0,8,32500.0,in_use
+AST026,Server 26,Server,2020-05-15,319700.0,5,15000.0,in_use
+AST027,Machinery 27,Machinery,2025-05-02,1196900.0,10,60000.0,in_use
+AST028,Furniture 28,Furniture,2023-08-02,47300.0,8,2200.0,in_use
+AST029,Server 29,Server,2025-05-17,291300.0,5,15000.0,in_use
+AST030,Furniture 30,Furniture,2021-01-08,46400.0,8,2200.0,in_use
+AST031,Server 31,Server,2020-05-23,348700.0,5,15000.0,disposed
+AST032,Laptop 32,Laptop,2022-01-04,53700.0,4,3000.0,in_use
+AST033,Delivery vehicle 33,Delivery vehicle,2025-07-08,676200.0,8,32500.0,in_use
+AST034,Machinery 34,Machinery,2020-07-04,1125300.0,10,60000.0,in_use
+AST035,AC unit 35,AC unit,2020-09-02,46500.0,8,2800.0,in_use
+AST036,Delivery vehicle 36,Delivery vehicle,2023-12-03,765500.0,8,32500.0,disposed
+AST037,Furniture 37,Furniture,2020-08-27,40000.0,8,2200.0,disposed
+AST038,Delivery vehicle 38,Delivery vehicle,2021-01-11,570100.0,8,32500.0,in_use
+AST039,Laptop 39,Laptop,2021-03-05,60600.0,4,3000.0,in_use
+AST040,Server 40,Server,2023-05-10,261700.0,5,15000.0,in_use
+AST041,AC unit 41,AC unit,2025-06-16,60200.0,8,2800.0,in_use
+AST042,Laptop 42,Laptop,2023-09-21,62700.0,4,3000.0,under_repair
