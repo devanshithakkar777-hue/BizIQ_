@@ -1,5 +1,12 @@
 # BizIQ: AI-powered business intelligence and automation platform
 
+[![Live demo](https://img.shields.io/badge/Live%20demo-biziq--app.onrender.com-46E3B7?style=for-the-badge&logo=render&logoColor=black)](https://biziq-app.onrender.com)
+![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+> **Try it live:** <https://biziq-app.onrender.com>. The demo runs on free hosting and may take about 50 seconds to wake up on the first visit.
+
 BizIQ takes a small business's raw data (financials, sales, inventory, clients, suppliers, invoices, HR, social
 and reviews), turns it into **scores, forecasts and flags**, explains them in **plain language**, and then
 **acts** on them through alerts, scheduled reports and drafted communications.
